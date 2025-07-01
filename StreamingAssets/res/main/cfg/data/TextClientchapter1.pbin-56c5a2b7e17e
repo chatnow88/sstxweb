@@ -1,0 +1,98 @@
+
+�
+KEY:001_090_018.storylineTitle开始沐浴2開始沐浴BStart Your BathR入浴を始めるb목욕하기�!เริ่มอาบน้ำ
+�
+$KEY:CL032_001_110_019.storylineTitle沐浴放松时刻2沐浴放鬆時刻B"Time to unwind in a soothing bath.R癒しの入浴時間b편안한 목욕 시간�cถึงเวลาผ่อนคลายไปกับการอาบน้ำอุ่น
+�
+KEY:CL032_001_110_019.title接下来，你打算：2接下來，你打算：BWhat's next?Rこれからどうする？b앞으로의 계획은?�1จะทำอย่างไรต่อไป?
+�
+"KEY:CL032_001_110_019.choiceText+0再洗一会2再洗一會BSoak a bit longer.Rもう少し浸かるb목욕을 조금 더 한다�3แช่น้ำอีกสักหน่อย
+�
+"KEY:CL032_001_110_019.choiceText+1还是算了吧2還是算了吧BI'm done for now.Rやっぱりやめておくb목욕을 끝낸다�$อาบเสร็จแล้ว
+�
+(KEY:B52_001_110_C032A_020.storylineTitle继续沐浴2繼續沐浴BKeep BathingR浸かり続けるb계속 목욕하기�อาบน้ำต่อ
+�
+$KEY:CL040_001_120_022.storylineTitle选哪件衣裙赴宴？2選哪件衣裙赴宴？B)Which dress will you wear to the banquet?Rどの衣装で宴に赴く？b연회에서 입을 의상은?�Oท่านจะใส่ชุดไหนไปงานเลี้ยง?
+�
+KEY:CL040_001_120_022.title该选哪一件呢？2該選哪一件呢？BWhich One Should I Pick?Rどっちを選ぼうかな？b어떤 걸 고르지?�Aอืม อันไหนที่รู้สึกใช่?
+�
+"KEY:CL040_001_120_022.choiceText+0明艳华美的衣裙2'明豔華美的衣裙（僅限高手）B.A stunning, ornate gown. (expert-level choice)R'艶やかな衣装（上級者限定）b화려한 의상(고수 한정)�oชุดที่ประดับประดาสวยงาม (เฉพาะเลเวลสูง)
+�
+"KEY:CL040_001_120_022.choiceText+1翩若谪仙的衣裙2翩若謫仙的衣裙BA flowing, celestial gown.R謫仙ごときの衣装b단아한 의상�Qชุดที่พลิ้วไหวราวกับเทพธิดา
+�
+$KEY:001_120_C040A_023.storylineTitle换上了明艳华美的⾐裙2換上明豔華美的衣裙B(You slip into the stunning, ornate gown.R!艶やかな衣装に着替えたb화려한 의상 착용�Zท่านสวมชุดที่ประดับประดาสวยงาม
+�
+$KEY:001_120_C040B_029.storylineTitle!你换上了翩若谪仙的⾐裙2你換上翩若謫仙的衣裙B*You slip into the flowing, celestial gown.R'謫仙ごときの衣装に着替えたb단아한 의상 착용�fท่านสวมชุดที่พลิ้วไหวราวกับเทพธิดา
+�
+$KEY:CL041_001_120_024.storylineTitle确认选这件衣裙？2確定選這件衣裙？BSure about this gown?Rこの衣装にする？b$이 의상으로 하시겠습니까?�Uแน่ใจที่จะเลือกชุดนี้หรือไม่?
+�
+KEY:CL041_001_120_024.title是否确定选择这件？2是否確定選擇這件？BStick with this one?R!本当にこの衣装でいい？b 이것으로 하시겠습니까?�7เลือกชุดนี้หรือไม่?
+c
+"KEY:CL041_001_120_024.choiceText+0确定2確定BConfirm.R決定b확인�ยืนยัน
+�
+"KEY:CL041_001_120_024.choiceText+1换另一件2換另一件BPick another.R別の衣装に着替えるb	바꾸기�0เลือกอีกชุดหนึ่ง
+�
+$KEY:CL043_001_120_030.storylineTitle确认选这件衣裙？2確定選這件衣裙？BSure about this gown?Rこの衣装にする？b$이 의상으로 하시겠습니까?�Uแน่ใจที่จะเลือกชุดนี้หรือไม่?
+�
+KEY:CL043_001_120_030.title是否确定选择这件？2是否確定選擇這件？BStick with this one?R!本当にこの衣装でいい？b 이것으로 하시겠습니까?�7เลือกชุดนี้หรือไม่?
+c
+"KEY:CL043_001_120_030.choiceText+0确定2確定BConfirm.R決定b확인�ยืนยัน
+�
+"KEY:CL043_001_120_030.choiceText+1换另一件2換另一件BPick another.R別の衣装に着替えるb	바꾸기�0เลือกอีกชุดหนึ่ง
+�
+$KEY:001_120_C041A_025.storylineTitle!决定选择明艳华美的⾐裙2!決定選擇明豔華美的衣裙B!Choose the stunning, ornate gown.R艶やかな衣装に決めたb화려한 의상 선택�Tเลือกชุดที่ประดับประดาสวยงาม
+�
+$KEY:001_120_C041B_026.storylineTitle!你换上了翩若谪仙的⾐裙2你換上翩若謫仙的衣裙B*You slip into the flowing, celestial gown.R'謫仙ごときの衣装に着替えたb단아한 의상 착용�fท่านสวมชุดที่พลิ้วไหวราวกับเทพธิดา
+�
+$KEY:001_120_C042A_102.storylineTitle$你决定选择翩若谪仙的⾐裙2$你決定選擇翩若謫仙的衣裙B#Choose the flowing, celestial gown.R$謫仙ごときの衣装に決めたb단아한 의상 선택�`เลือกชุดที่พลิ้วไหวราวกับเทพธิดา
+�
+$KEY:001_120_C043B_032.storylineTitle换上了明艳华美的⾐裙2換上明豔華美的衣裙B(You slip into the stunning, ornate gown.R!艶やかな衣装に着替えたb화려한 의상 착용�Zท่านสวมชุดที่ประดับประดาสวยงาม
+�
+$KEY:CL042_001_120_027.storylineTitle确认选这件衣裙？2確定選這件衣裙？BSure about this gown?Rこの衣装にする？b$이 의상으로 하시겠습니까?�Uแน่ใจที่จะเลือกชุดนี้หรือไม่?
+�
+KEY:CL042_001_120_027.title是否确定选择这件？2是否確定選擇這件？BStick with this one?R!本当にこの衣装でいい？b 이것으로 하시겠습니까?�7เลือกชุดนี้หรือไม่?
+c
+"KEY:CL042_001_120_027.choiceText+0确定2確定BConfirm.R決定b확인�ยืนยัน
+�
+"KEY:CL042_001_120_027.choiceText+1换另一件2換另一件BPick another.R別の衣装に着替えるb	바꾸기�0เลือกอีกชุดหนึ่ง
+�
+$KEY:CL044_001_120_033.storylineTitle确认选这件衣裙？2確定選這件衣裙？BSure about this gown?Rこの衣装にする？b$이 의상으로 하시겠습니까?�Uแน่ใจที่จะเลือกชุดนี้หรือไม่?
+�
+KEY:CL044_001_120_033.title是否确定选择这件？2是否確定選擇這件？BStick with this one?R!本当にこの衣装でいい？b 이것으로 하시겠습니까?�7เลือกชุดนี้หรือไม่?
+c
+"KEY:CL044_001_120_033.choiceText+0确定2確定BConfirm.R決定b확인�ยืนยัน
+�
+"KEY:CL044_001_120_033.choiceText+1换另一件2換另一件BPick another.R別の衣装に着替えるb	바꾸기�0เลือกอีกชุดหนึ่ง
+�
+$KEY:001_120_C042A_028.storylineTitle$你决定选择翩若谪仙的⾐裙2$你決定選擇翩若謫仙的衣裙B#Choose the flowing, celestial gown.R$謫仙ごときの衣装に決めたb단아한 의상 선택�`เลือกชุดที่พลิ้วไหวราวกับเทพธิดา
+�
+$KEY:001_120_C041A_101.storylineTitle!决定选择明艳华美的⾐裙2!決定選擇明豔華美的衣裙B!Choose the stunning, ornate gown.R艶やかな衣装に決めたb화려한 의상 선택�Tเลือกชุดที่ประดับประดาสวยงาม
+�
+KEY:2.title前往【第三集】2前往【第三集】BHead to Chapter 3R『第3章』へb[제3장]으로 이동하기�ไปยังบท 3
+�
+
+KEY:2.text?最华美的牡丹，由鲜血浇灌，盛开在宫墙之下。2B最華美的牡丹，是以鮮血澆灌，盛開於宮牆之下。BBThe grandest peony, fed by blood, blooms beneath the palace walls.RW艶やかなる牡丹は、滴る血を糧にして、宮の塀の下に咲き誇る。bQ가장 화려한 모란이 피를 머금은 채 궁궐의 성벽에 피어났다.��ดอกโบตั๋นที่ยิ่งใหญ่ หล่อเลี้ยงด้วยเลือด กำลังเบ่งบานอยู่ใต้กำแพงวัง
+�
+KEY:3.title前往【第二集】2前往【第二集】BHead to Chapter 2R『第2章』へb[제2장]으로 이동하기�ไปยังบท 2
+�
+
+KEY:3.text?最华美的牡丹，由鲜血浇灌，盛开在宫墙之下。2B最華美的牡丹，是以鮮血澆灌，盛開於宮牆之下。BBThe grandest peony, fed by blood, blooms beneath the palace walls.RW艶やかなる牡丹は、滴る血を糧にして、宮の塀の下に咲き誇る。bQ가장 화려한 모란이 피를 머금은 채 궁궐의 성벽에 피어났다.��ดอกโบตั๋นที่ยิ่งใหญ่ หล่อเลี้ยงด้วยเลือด กำลังเบ่งบานอยู่ใต้กำแพงวัง
+�
+$KEY:CL033_001_110_122.storylineTitle是否要汤泉沐浴2是否要湯泉沐浴BFancy a Dip in the Hot Springs?R湯泉に入る？b목욕을 하시겠습니까?�Uต้องการแช่น้ำร้อนบ้างหรือไม่?
+�
+KEY:CL033_001_110_122.title才人要汤泉沐浴吗？2才人要湯泉沐浴嗎？B!Would you like a hot spring bath?R湯泉に入るか……b(재인님, 목욕을 하시겠습니까?�Uท่านต้องการแช่น้ำร้อนหรือไม่?
+�
+"KEY:CL033_001_110_122.choiceText+0体验一下宫廷大浴池2體驗一下宮廷大浴池BTry the grand palace bath.R宮廷の大浴殿を楽しむb*궁의 욕조에서 목욕하기로 한다�9ลองอาบน้ำของวังหลวง
+�
+"KEY:CL033_001_110_122.choiceText+1还是算了吧2還是算了吧BI'm done for now.Rやっぱりやめておくb
+안 한다�$อาบเสร็จแล้ว
+&
+$KEY:001_110_C033A_123.storylineTitle
+&
+$KEY:001_110_C033B_124.storylineTitle
+�
+KEY:NE_111111.title	五香妃2	五香妃BThe Five-Spicy LadyR	五香妃b	향신녀�<หญิงสาวห้าเครื่องเทศ
+�	
+KEY:NE_111111.texto你因沉迷沐浴而被逐出宫之事，在民间广为流传，众人亲切地称呼你为“五香妃”。2l你因沉迷沐浴而被逐出宮之事，在民間廣為流傳，眾人親切地稱你為「五香妃」。B�Your love for long baths got you kicked out of the palace, and the story spread like wildfire. The people fondly call you the "Five-Spicy Lady."R�入浴に耽りすぎたあなたは宮を追われ、その噂は民の間に広まり、いつしか『五香妃』と呼ばれるようになった。b�당신이 목욕에 정신이 팔려 궁에서 쫓겨나며 향신료 향이 나는 비누를 선물로 받았다는 이야기가 퍼지면서 모두 당신을 '향신녀'라고 불렀다.��ความหลงใหลในการอาบน้ำนานๆ ทำให้ท่านถูกไล่ออกจากวัง และเรื่องก็แพร่สะพัดไปอย่างรวดเร็ว ผู้คนต่างเรียกท่านด้วยความรักใคร่ว่า "หญิงสาวห้าเครื่องเทศ"
+&
+$KEY:001_110_C032B_021.storylineTitle

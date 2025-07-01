@@ -1,0 +1,297 @@
+
+�
+KEY:005_010_001.storylineTitle天生异象2天生異象BStrange OmensR天の異変b이상한 징조�3ลางบอกเหตุประหลาด
+�
+$KEY:CL011_005_030_002.storylineTitle和贵妃撞衫危机2與貴妃撞衫危機B"Clashing with Lady of PredilectionR貴妃との衣装被り危機b귀비와 겹친 옷차림�*ปะทะกับกุ้ยเฟย
+�
+KEY:CL011_005_030_002.titleB贵妃明显是拿撞衫为借口刁难你，你要如何自救？2B貴妃明顯是拿撞衫為藉口刁難你，你要如何自救？BiLady of Predilection’s using your matching dress as an excuse to spite you. How do you get out of this?RN貴妃はそれを口実に責めてきたが、あなたはどう答える？b]귀비가 옷이 겹친 것을 핑계로 궁지로 몰고 있는 상황, 당신의 선택은?��กุ้ยเฟยกำลังใช้ชุดคู่กันของท่านเป็นข้ออ้างในการเพื่อขัดใจท่าน ท่านจะออกจากสถานการณ์นี้อย่างไร?
+�
+"KEY:CL011_005_030_002.choiceText+0被人看了身子不妥2被人看了身子不妥B0It’s not right for people to see me like this.R*肌を見られるとは不覚かと……b5남에게 몸을 보이는 것은 부적절합니다.�Tไม่ควรให้คนอื่นเห็นข้าแบบนี้
+�
+"KEY:CL011_005_030_002.choiceText+1!此事难免传到陛下耳朵里2!此事難免會傳入陛下耳中B)This is gonna reach His Majesty’s ears.R3この件はいずれ陛下の耳にも届く……b3이 일은 폐하의 귀에 들어갈 것입니다.�Qเรื่องนี้จะไปถึงหูของฝ่าบาท
+�
+"KEY:CL011_005_030_002.choiceText+2*见到贵妃，才知自己东施效颦了23見到貴妃後，你才發覺自己在東施效顰B)Next to Your Grace, I’m just a wannabe.RB貴妃の前では、自分の見劣りを痛感いたしましたb8귀비마마를 따라한 건 제 과욕이었습니다.��อยู่ข้างกุ้ยเฟย ข้าก็เป็นแค่คนลอกเลียนเท่านั้น
+�
+(KEY:B01_005_030_C011A_003.storylineTitle*被人看了身子不妥，被废为庶人2*被人看了身子不妥，被廢為庶人BTIt’s not right for people to see me like this. You’re kicked down to a commoner.RE肌を見られたことが問題となり、庶人に落とされるbQ남에게 몸을 보이는 것은 자칫 폐출될 수도 있는 문제입니다.��คนอื่นมองข้าแบบนี้ไม่ได้ ท่านโดนเตะให้กลายเป็นคนธรรมดาสามัญไปแล้ว
+�
+(KEY:B02_005_030_C011B_004.storylineTitle3此事难免传到陛下耳朵里，被废为庶人23此事難免傳入陛下耳中，你被廢為庶人BMThis is gonna reach His Majesty’s ears. You’re kicked down to a commoner.R?この件が陛下の耳に伝わり、庶人に落とされるb9폐하께서 알게 되면 폐위될 수도 있습니다.��เรื่องนี้จะไปถึงหูของฝ่าบาทแล้ว และท่านก็ถูกเตะลงมาเป็นสามัญชน
+�
+$KEY:005_030_C011C_005.storylineTitle-⻙贵妃离开，命袭⼼留下对你掌嘴2-韋貴妃離去，命襲心對你施以掌嘴BSLady of Predilection leaves in a huff, telling her maid Xi Xin to give you a smack.RH韋貴妃は立ち去り、襲心にあなたの平手打ちを命じたbL귀비가 떠나며 습심에게 당신의 뺨을 때리라고 명하였다.��กุ้ยเฟยจากไปด้วยความหงุดหงิด พร้อมบอกนางกำนัลซี๋ซินให้ตบท่าน
+�
+KEY:BE_70001.title被防爆的你2碰上重重阻攔的你BHot SeatR阻まれし者b무력해진 당신�!ที่นั่งร้อน
+�
+KEY:BE_70001.text0在宫里，上升期小花才是最艰难的。23在宮裡，成長期的小花才是最艱難的。BBIn the palace, being the new favorite is like walking a tightrope.R3宮中では、頭角を現した者ほど危ういbQ궁에서는 갓 총애를 받기 시작한 여인이 가장 힘겨운 법이다.��ในวัง การเป็นคนโปรดคนใหม่ก็เหมือนกับการเดินบนเชือก
+�
+KEY:BE_70002.title误你前程2誤你前程BWrecking Your FutureR前途多難b앞길이 막힌 당신�3ทำลายอนาคตของท่าน
+�
+KEY:BE_70002.textu高位之人不会因任何人误了自己的前程，但却会为了让自己高兴，随意误任何人的前程。2l高位之人不會因任何人而耽誤自己的前程，卻會為了自己高興隨意耽誤他人前程。B`Powerful people won’t let anyone mess up their plans, but they’ll tank yours just for kicks.R�地位のある人は自分の将来を損なうことはないが、他人の将来を気まぐれに妨げることはある。b�높은 자리에 있는 사람은 누군가 자신의 앞길을 막는 것을 용납하지 않지만, 자신의 이익을 위해서는 누구의 앞길이라도 함부로 망친다.��คนที่มีอำนาจจะไม่ยอมให้ใครมาทำลายแผนของพวกเขา แต่พวกเขาจะทำลายแผนของท่านเพียงเพื่อความสนุกเท่านั้น
+�
+$KEY:CL020_005_030_006.storylineTitle受伤的袭心2受傷的襲心BXi Xin’s Injured HandR怪我した襲心b상처 입은 습심�Kซี๋ซินได้รับบาดเจ็บที่มือ
+�
+KEY:CL020_005_030_006.title3你发现袭心的手受伤了，是否叫住她？26你發現襲心的手受了傷，是否要叫住她？BAYou spot a wound on Xi Xin’s hand. Are you gonna say something?R0襲心の手に気づいた。声をかける？b/습심의 손에 난 상처를 본 당신은...��ท่านเห็นบาดแผลบนมือของซี๋ซิน ท่านจะพูดอะไรไหม?
+�
+"KEY:CL020_005_030_006.choiceText+0!她是贵妃的人，不要多事2$她是貴妃的人，別多管閒事B;She’s with Lady of Predilection, so don’t get involved.R-貴妃付きの者だし、深入りは無用b2어차피 귀비의 사람, 신경쓰지 않는다��นางอยู่กับกุ้ยเฟย เพราะอย่างนั้น อย่าไปยุ่งดีกว่า
+�
+"KEY:CL020_005_030_006.choiceText+1叫住她，关心她2叫住並關心她B&Call to her and check if she’s okay.R声をかけて気遣うb0그녀를 불러세워 괜찮냐고 물어본다�oเรียกนางแล้วตรวจดูว่านางสบายดีหรือไม่
+�
+$KEY:005_030_C020A_007.storylineTitle我们⾛吧2我們走吧BLet’s get going!R行きましょうb가시지요.�ไปกันเถอะ!
+�
+$KEY:005_030_C020B_008.storylineTitle给了袭⼼⼀瓶药2遞給襲心一瓶藥B*You give Xi Xin a bottle of healing cream.R襲心に薬を手渡したb습심에게 약을 건넨다.�]ท่านมอบขวดครีมรักษาให้กับซี๋ซิน
+�
+KEY:005_040_009.storylineTitle所有武姓女子被抓2所有武姓女子被抓B2Every woman with the Wu surname is thrown in jail.R0武一族の女子はすべて捕らえられたb"모든 무 씨 여인들의 체포�{ผู้หญิงทุกคนที่ชื่ออู่จะต้องถูกจับเข้าคุก
+�
+$KEY:CL030_005_070_010.storylineTitle武氏死亡危局2武氏死亡危局BWu Clan’s CrisisR'武一族、死地に追い込まれるb무 씨 일가의 위기�3วิกฤตของตระกูลอู่
+�
+KEY:CL030_005_070_010.title*这样的死局，还有谁能救自己？2-這樣的死局，還有誰能拯救自己？B3Stuck in this death spiral, who’s gonna save you?R3この死地をまえにして、あなたは……b,죽음의 위기에서, 당신의 선택은?��ติดอยู่ในวังวนแห่งความตายนี้ ใครจะช่วยท่านได้?
+�
+"KEY:CL030_005_070_010.choiceText+0什么也不做2什麼也不做BSit tight and do nothing.R何もせず静観するb아무것도 하지 않는다�Cนั่งรอเฉยๆ และไม่ทำอะไร
+�
+"KEY:CL030_005_070_010.choiceText+1联合其他武氏抗议2聯合其他武氏抗議B-Team up with the other Wu women to push back.R!一族と連携し、抗議するb,무 씨 일가와 힘을 합쳐 저항한다�vร่วมมือกับหญิงอู่คนอื่นๆ เพื่อตอบโต้กลับ
+�
+(KEY:B03_005_070_C030A_011.storylineTitle煽动反抗被杀2煽動反抗被殺B+You stir rebellion, and you’re taken out.R'扇動の罪により、斬首されるb#저항하다가 살해당한 당신�ท่านปลุกปั่นให้เกิดการกบฏ และท่านก็ถูกกำจัด
+�
+$KEY:005_070_C030B_012.storylineTitle你静观其变2你靜觀其變B"You lay low and see how things go.R成り行きを見守るb상황을 지켜본 당신�Nท่านหลบซ่อนแล้วดูสถานการณ์
+~
+KEY:BE_70003.title被献祭的你2被獻祭的你B
+SacrificedR	生け贄b희생양이 된 당신�เสียสละ
+�
+KEY:BE_70003.textH有的时候，无策略的反抗是以卵击石，也是引火烧身。2H有時候，毫無策略的反抗是以卵擊石，也是引火上身。BWFighting without a plan is like kicking against the pricks or setting yourself on fire.R9無謀な反抗は、自らを追い詰めるだけだ。b]때로는 무분별한 저항은 계란으로 바위를 치며 화를 자초하는 격이다.��การต่อสู้โดยไม่มีแผนก็เหมือนกับการจุดไฟเผาตัวเอง
+�
+#KEY:C040_005_080_013.storylineTitle离去的李淳风2離去的太史令B,The Leaving Director of the Astrology BureauR立ち去る太史令b떠나는 태사령�Bเดินจากเจ้ากรมอาลักษณ์
+�
+KEY:C040_005_080_013.title9这是最后的求生机会了，你要和他说什么？2<這是你最後的求生機會了，你要對他說什麼？B]This is your last chance to stay alive. What do you say to Li Chunfeng, the royal astrologer?R*最後の望みで彼に何を伝える？b?살 수 있는 마지막 기회 앞에서, 당신의 선택은?��นี่เป็นโอกาสสุดท้ายของท่านที่จะมีชีวิตรอด ท่านจะพูดอะไรกับหลี่ ฉุนเฟิง นักโหราศาสตร์ประจำราชวงศ์?
+�
+!KEY:C040_005_080_013.choiceText+0我知道女主武王是谁！2我知道女主武王是誰！B%I know who the She-ruler Named Wu is!R6女統治者『武』の正体を知っています！b4여주무왕이 누구인지 알고 있다고 한다�hข้ารู้ว่าผู้ปกครองหญิงนามอู่ คือใคร!
+�
+!KEY:C040_005_080_013.choiceText+1我就是女主武王！2我就是女主武王！BI’m the She-ruler Named Wu!R'私こそが、女統治者『武』！b-자신이 바로 여주무왕이라고 한다�Mข้าคือ ผู้ปกครองหญิงนามอู่!
+�
+!KEY:C040_005_080_013.choiceText+2狗官，草菅人命！2狗官！草菅人命！B/You crooked jerk, toying with people’s lives!R-命を何だと思っているのですか？b.목숨을 함부로 여기지 말라고 한다�_ไอ้ชั่วช้า ชอบเล่นกับชีวิตคนอื่น!
+#
+!KEY:C040_005_080_013.choiceText+3
+�
+$KEY:005_080_C040A_014.storylineTitle-我知道女主武王是谁！吸引李淳风2-我知道女主武王是誰！吸引李淳風BP“I know who the She-ruler Named Wu is!” This gets Li Chunfeng’s attention.R]「女統治者『武』の正体を知っています！」と、李淳風の注意を引くbY여주무왕이 누구인지 알고 있다고 얘기하며 이순풍의 주의를 끈다.��"ข้ารู้ว่าผู้ปกครองหญิงนามอู่ คือใคร!" ประโยคนี้ดึงดูดความสนใจของหลี่ ฉุนเฟิง
+�
+$KEY:005_080_C040B_015.storylineTitle'我就是女主武王！吸引李淳风2'我就是女主武王！吸引李淳風BS“I’m the She-ruler Named Wu!” Your bold claim gets Li Chunfeng’s attention.RN「私こそが、女統治者『武』！」と、李淳風の注意を引くbR자신이 바로 여주무왕이라고 얘기하며 이순풍의 주의를 끈다.��"ข้าคือ ผู้ปกครองหญิงนามอู่!" คำกล่าวอ้างอันกล้าหาญของท่านดึงดูดความสนใจของหลี่ ฉุนเฟิง
+�
+(KEY:B04_005_080_C040C_016.storylineTitle李淳⻛⽆奈离开2李淳風無奈離去BLi Chunfeng walks away.R-李淳風はやむなくその場を去ったb떠나버린 이순풍�=หลี่ ฉุนเฟิงเดินจากไป
+�
+"KEY:B05_005_100_017.storylineTitle你错过申诉的时机2你錯過申訴的時機B2You hesitate, and your moment to plead slips away.R訴えの機会を逃したb'이의제기할 기회를 놓친 당신��ท่านลังเล และช่วงเวลาวิงวอนขอชีวิตของท่านก็หลุดลอยไป
+�
+KEY:BE_70005.title犹豫只会败北2猶豫只會敗北BHesitating Means LosingR迷えば、敗れるb망설임이 부른 패배�Kการลังเลหมายถึงการสูญเสีย
+�
+KEY:BE_70005.textK抓住时机！能无数次拯救你自己于水火的，只有你自己。2Q抓住時機！能無數次拯救你自己於水火之中的，只有你自己。BHSeize the moment! You’re the only one who can pull yourself out of it.RT機を逃すな！幾度も自らを窮地から救えるのは、あなただけ。bb기회를 잡아야 한다. 수많은 위기 속, 당신을 구할 수 있는 건 자신뿐이다.��คว้าโอกาสไว้ให้ดี! ท่านคือคนเดียวเท่านั้นที่สามารถดึงตัวเองออกมาจากช่วงเวลานั้นได้
+�
+KEY:BE_70004.title载入史册2載入史冊BOne To Be RememberedR史書に刻まれし名b역사에 기록된 당신�'คนที่ต้องจดจำ
+�	
+KEY:BE_70004.text~你此番为自己，也为所有伍姓女子发声，痛骂李淳风的壮举被载入了史册，虽身死，但名长存。2~你此番為自己、也為所有武姓女子發聲，痛斥太史令的壯舉被載入史冊，身雖死，但名垂千古。B�You stand up for yourself and all Wu women, tearing into the Director of the Astrology Bureau. You die, but your fiery words are etched in history forever.R�あなたは自ら、そしてすべての武一族の女子のために声を上げ、太史令を痛烈に罵った。その姿は史に残り、死してなお名を遺す。b�당신과 모든 무 씨 가문의 여인을 위해 태사령을 비판한 당신의 용기는 역사에 기록되었다. 비록 목숨은 잃었으나, 이름은 길이 남을 것이다.��ท่านยืนหยัดเพื่อตัวท่านเองและผู้หญิงแซ่อู่ ทำลายเจ้ากรมอาลักษณ์ ท่านตายจากไป แต่คำพูดที่ร้อนแรงของท่านถูกจารึกไว้ในประวัติศาสตร์ตลอดกาล
+�
+$KEY:CL050_005_090_018.storylineTitle如何说服李淳风？2如何說服太史令？B5How to win over the Director of the Astrology Bureau?R-どうすれば太史令を説得できる？b태사령을 설득할 방법�dจะเอาชนะเจ้ากรมอาลักษณ์ได้อย่างไร?
+�
+KEY:CL050_005_090_018.title'死局已定，你到底想说什么？2'死局已定，你到底想說什麼？B<You’re backed into a corner. What do you tell Li Chunfeng?R?死が避けられぬ今、あなたが口にしたのは……b,죽음의 위기에서, 당신의 선택은?��ท่านถูกบีบจนมุม ท่านจะบอกหลี่ ฉุนเฟิง ว่าอย่างไร?
+�
+"KEY:CL050_005_090_018.choiceText+0此事必然伤及太多无辜2$此事勢必傷及太多無辜之人B,This’ll hurt way too many innocent people.REこの件で巻き込まれる人、あまりにも多いです……bP이 일은 수많은 무고한 사람들에게 상처를 줄 것이라고 한다��นี่จะทำให้ผู้บริสุทธิ์จำนวนมากได้รับบาดเจ็บ
+�
+"KEY:CL050_005_090_018.choiceText+1从无女子当皇帝一说2自古無女子稱帝之說B#A woman as emperor? Never happened.R3女子が皇帝になった例などありませんb2여인이 황제가 된 전례는 없다고 한다��ผู้หญิงเป็นจักรพรรดิหรือ? ไม่เคยเกิดขึ้นมาก่อน
+�
+"KEY:CL050_005_090_018.choiceText+2违背天命必遭天谴2違逆天命必遭天譴B+Going against fate will bring divine wrath.R9天命に背けば、必ずや天罰が下りましょうb;하늘의 뜻을 거스르면 천벌을 받는다고 한다��การฝ่าฝืนโชคชะตาจะนำมาซึ่งความพิโรธของพระเจ้า
+�
+$KEY:005_090_C050A_019.storylineTitle杀尽武姓可保⼤唐2殺盡武姓可保大唐B*Wipe out the Wus to save the Tang Dynasty.RE武一族を皆殺しにすればこそ、唐は守られましょうb.무 씨의 파멸이 당나라를 지키리라�lกำจัดพวกหญิงอู่เพื่อปกป้องราชวงศ์ถัง
+�
+$KEY:005_090_C050B_020.storylineTitle$天选之⼈，是男是⼥⼜何妨2$天選之人，是男是女又何妨B9Man or woman, who cares? It’s all about the chosen one.RT天に選ばれし者、男か女か……それに何の違いがありましょうb5하늘이 택한 자라면 성별은 의미가 없다��ใครสนว่าผู้ชายหรือผู้หญิงกัน? อยู่ที่โชคชะตาเลือก
+�
+$KEY:005_090_C050C_022.storylineTitle李淳⻛被你说服2李淳風被你說服B&Your words get through to Li Chunfeng.R6李淳風はあなたの言葉に心を動かされたb설득당한 이순풍�^คำพูดของท่านส่งไปถึงหลี่ ฉุนเฟิง
+�
+"KEY:B05_005_100_021.storylineTitle-你错过申诉的时机，不久你被杀害20你錯過申訴的時機，不久你便被殺害B5You don’t speak up in time, and soon you’re dead.R3訴えの機会を逃し、まもなく殺されるb4이의제기할 기회를 놓쳐 살해당한 당신�sท่านพูดออกมาไม่ทัน และในไม่ช้าท่านก็ตาย
+�
+KEY:BE_70006.title帝王的容忍度为02帝王的容忍度為零BEmperor’s ExclusivenessR0皇帝は危険分子を決して見逃さないb인내심이 바닥난 황제�'พระบรมราโชวาท
+�
+
+KEY:BE_70006.text�没有一个帝王，能容忍旁人倾覆他的王朝，哪怕只是万分之一的可能。传达天命是太史令毕生的职责，便也会成为他最大的弱点。2�沒有一位帝王，能容許旁人傾覆他的王朝，哪怕只是萬分之一的可能。傳達天命是太史令畢生的職責，也是他最大的弱點。B�No emperor’s gonna put up with even a whisper of a threat to his throne. Telling fortune is the whole deal for Director of the Astrology Bureau, and his biggest weakness.R�どの皇帝も、自らの帝国を脅かすわずかな可能性すら容認しない。天命を伝えることは太史令の使命であり、同時に最大の弱点でもある。b�그 어떤 황제도 자신의 왕조가 무너지는 것은 용납할 수 없다. 천명을 전하는 것은 태사령의 사명이지만, 동시에 그의 가장 큰 약점이 되기도 한다.��ไม่มีจักรพรรดิองค์ใดที่จะยอมให้มีแม้แต่เสียงกระซิบของภัยคุกคามต่อบัลลังก์ของเขา การทำนายดวงชะตาคือสิ่งสำคัญสำหรับเจ้ากรมอาลักษณ์ และเป็นจุดอ่อนที่ใหญ่ที่สุดของเขา
+�
+$KEY:CL051_005_110_023.storylineTitle狱中探望之人2獄中探望之人BWho’s Visiting You in Prison?R獄中を訪ねてきた者b옥중 면회자�=ใครมาเยี่ยมท่านในคุก?
+�
+KEY:CL051_005_110_023.title你觉得是谁来找你了？2!你覺得，是誰來找你了？B'Who do you think’s coming to see you?R!誰が面会に来たと思う？b누가 면회를 왔을까?�Fท่านคิดว่าใครจะมาพบท่าน?
+�
+"KEY:CL051_005_110_023.choiceText+0	杨淑妃2	楊淑妃BLady Yang of KindnessR	楊淑妃b	양숙비�หยางซูเฟย
+e
+"KEY:CL051_005_110_023.choiceText+1高阳2高陽BGaoyangR高陽b고양�เกาหยาง
+g
+"KEY:CL051_005_110_023.choiceText+2李治2李治BLi ZhiR李治b이치�หลี่จื้อ
+d
+"KEY:CL051_005_110_023.choiceText+3李泰2李泰BLi TaiR李泰b이태�หลี่ไท่
+�
+$KEY:005_110_C051A_024.storylineTitle难道是姨⺟？2難道是姨母？BIs that my aunt?Rまさか、おばさま？b혹시 이모일까?�@นั่นท่านป้าของข้าหรือ?
+�
+$KEY:005_110_C051B_025.storylineTitle难道是⾼阳？2難道是高陽？BCould it be Princess Gaoyang?Rまさか、高陽？b혹시 고양공주일까?�dอาจจะเป็นองค์หญิงเกาหยางหรือเปล่า?
+�
+$KEY:005_110_C051C_026.storylineTitle难道是晋王殿下？2難道是晉王殿下？BIs it Royal Duke of Jin?Rまさか、晋王殿下？b혹시 진왕 전하이실까?�4จิ้นอ๋องหรือเปล่า?
+�
+$KEY:005_110_C051D_027.storylineTitle!魏王已带兵出征，不是他2!魏王已率兵出征，不是他B<Royal Duke of Wei’s out leading troops, so it’s not him.R-魏王はすでに出征中、彼ではないb2위왕은 출정을 가셨으니, 그는 아니다�|เว่ยอ๋องกำลังนำกองทัพอยู่ ดังนั้นไม่ใช่เขา
+�
+KEY:005_110_028.storylineTitle刘熙前来探监让你磕头2*劉熙前來探監，並要你給她磕頭B/Liu Xi shows up and tells you to kowtow to her.R<劉熙が面会に訪れ、あなたに土下座を求めたb-머리를 조아리라고 요구하는 유희��หลิว ซีปรากฏตัวขึ้นและบอกให้ท่านก้มหัวให้กับนาง
+�
+$KEY:CL060_005_120_029.storylineTitle刘熙求情的允诺2劉熙求情的允諾BLiu Xi’s Deal for MercyR劉熙の取り成しの条件b유희의 약속�Xตกลงกับหลิว ซีเพื่อขอความเมตตา
+�
+KEY:CL060_005_120_029.titleN只需要给刘熙磕三个头她便答应去为你求情，你磕还是不磕2T只要給劉熙磕三個頭，她就答應去替你求情，你磕還是不磕頭？BGLiu Xi says she’ll plead your case if you kowtow three times. You in?RQ三度ぬかずけば、取り成してくれるというが、あなたは……b=세 번 절하면 당신을 돕겠다는 유희, 당신은...��หลิว ซีบอกว่านางจะปกป้องท่าน หากท่านก้มหัวให้สามครั้ง ท่านว่าอย่างไร?
+�
+"KEY:CL060_005_120_029.choiceText+0磕2磕BKneel down and kowtow.Rぬかずくb머리를 조아린다�3คุกเข่าลงและคำนับ
+�
+"KEY:CL060_005_120_029.choiceText+1不磕2不磕BRefuse to kowtow.Rぬかずかないb조아리지 않는다�ไล่นางไป
+�
+$KEY:005_120_C060A_030.storylineTitle你被刘熙欺骗，羞辱2你被劉熙欺騙、羞辱B5You kowtow, but Liu Xi just mocks and humiliates you.R$劉熙に騙され、辱められたb0유희에게 기만당하고 모욕당한 당신��ท่านก้มหัวให้ แต่หลิว ซีกลับเยาะเย้ยและทำให้ท่านอับอาย
+�
+$KEY:005_120_C060B_031.storylineTitle你与刘熙争锋相对2你與劉熙針鋒相對B8You don’t back down and give her a piece of your mind.R'劉熙と正面からぶつかり合うb유희와의 대치�~ท่านไม่ยอมแพ้และบอกความรู้สึกของท่านกับนาง
+�
+KEY:005_120_032.storylineTitle!晋王和⾼阳公主突然出现2!晉王與高陽公主突然現身B.Royal Duke of Jin and Princess Gaoyang pop up.R'晋王と高陽公主が突然現れたb*갑자기 나타난 진왕과 고양공주�rจิ้นอ๋องและองค์หญิงเกาหยางปรากฏตัวขึ้น
+�
+$KEY:CL070_005_130_033.storylineTitle晋王的援助2晉王的援助B#Royal Duke of Jin’s Offer to HelpR晋王の差し伸べた手b진왕의 도움�Kจิ้นอ๋องยื่นความช่วยเหลือ
+�
+KEY:CL070_005_130_033.title你需要缙王如何帮你？2你希望晉王如何幫你？B)What do you want Royal Duke of Jin to do?R'晋王に何をしてもらいたい？b%진왕에게 어떤 부탁을 할까?�Wท่านต้องการให้ จิ้นอ๋อง ทำอะไร?
+�
+"KEY:CL070_005_130_033.choiceText+0找出谶言对应之人2找出讖言對應之人B+Track down the person tied to the prophecy.R$予言に該当する人物を探すb8예언과 관련된 인물을 찾을 것을 부탁한다�cตามหาบุคคลที่เกี่ยวข้องกับคำทำนาย
+�
+"KEY:CL070_005_130_033.choiceText+1找出谶言背后指使之人2$揪出讖言事件背後指使之人B*Find out who’s pulling the strings here.R'予言の背後にいる黒幕を暴くb8예언과 관련된 배후를 찾을 것을 부탁한다�fค้นหาว่าใครอยู่เบื้องหลังเรื่องนี้
+�
+$KEY:005_130_C070A_035.storylineTitle!李治和⾼阳问你如何去找2!李治與高陽問你如何去找B*Li Zhi and Gaoyang ask how to dig into it.R<李治と高陽に、どうやって探すのか問われるb(찾을 방법을 묻는 이치와 고양�{หลี่จื้อและเกาหยางถามว่าจะสืบหาได้อย่างไร
+�
+(KEY:B06_005_130_C070B_034.storylineTitle!谶⾔⽆⼈指使，你被杀害2!讖言無人指使，你被殺害B=The prophecy’s got no puppet master, and you’re executed.R<予言には黒幕などおらず、あなたは殺されたbF예언과 관련된 사람은 없었고, 결국 살해당하는 당신��คำทำนายไม่มีผู้บงการ และท่านก็ถูกประหารชีวิต
+�
+KEY:BE_70007.title疑念难平2疑念難平BLingered DoubtsR疑念は晴れぬままb가시지 않는 의심�Wความสงสัยที่ยังคงหลงเหลืออยู่
+�
+KEY:BE_70007.text�卦象占卜往往最毒之处，便是嗜心。卦象已现，谶言已出。就算是揪出了幕后之人，帝王之心，一旦疑念已生，宁可错杀，不会放过。2�卦象占卜最毒之處，便是嗜心。卦象已現，讖言已出。即使揪出了幕後之人，帝王之心一旦起疑，寧可錯殺，不肯放過。B�Prophecies are poisons, for they devour one’s heart. Even if you find who’s behind it, once an emperor’s suspicious, he’ll kill before he spares.R�卦は、時に心を蝕む毒になる。卦象すでに顕れ、予言また現れたり。たとえ黒幕を暴けたとしても、一度疑念を抱いた皇帝は、疑わしき者を見逃すはずがないのである。b�점괘의 가장 위험한 점은 바로 사람의 마음을 파고든다는 것이다. 설령 배후를 밝혀냈다 해도, 폐하의 마음속 의심이 자랐으니 죽일지언정 놓아주지는 않을 것이다.��คำทำนายเป็นเหมือนยาพิษที่กัดกินหัวใจของคน แม้ว่าท่านจะรู้ว่าใครอยู่เบื้องหลังคำทำนายนี้ก็ตาม เมื่อจักรพรรดิเกิดความสงสัย เขาจะฆ่าเสียก่อนที่จะละเว้น
+�
+KEY:005_200_040.storylineTitle得知韦贵妃的软肋2得知韋貴妃的弱點B/You know Lady Wei of Predilection’s weakness.R韋貴妃の弱みを掴んだb알게 된 위귀비의 약점�Tท่านรู้จุดอ่อนของเว่ยกุ้ยเฟย
+�
+KEY:005_210_041.storylineTitle韦贵妃让你猜她的用意2韋貴妃讓你猜她的用意B7Lady Wei of Predilection wants you to guess her motive.R-韋貴妃は、その真意を問いかけるb-자신의 의도를 추측하라는 위귀비�~เว่ยกุ้ยเฟยต้องการให้ท่านเดาแรงจูงใจของนาง
+�
+$KEY:CL090_005_220_042.storylineTitle贵妃的邀请2貴妃的邀請B'Lady of Predilection’s Private InviteR貴妃からの招待b귀비의 초대�Eคำเชิญส่วนตัวของกุ้ยเฟย
+�
+KEY:CL090_005_220_042.title6及笄献礼之事，为何本宫单独请你前来？26及笄獻禮一事，為何本宮單獨邀你前來？B8Why’d I call you alone for the Coming-of-age Ceremony?RK笄礼について、あなただけを呼んだ理由、おわかりか？bE본궁이 어찌 너를 계례식에 초대했다고 생각하느냐?��ทำไมกุ้ยเฟยถึงเรียกตัวท่านเพียงคนเดียวเพื่อพิธีปักปิ่น?
+�
+"KEY:CL090_005_220_042.choiceText+0为了和媚娘做朋友2為了和媚娘交個朋友BTo buddy up with me.R-媚娘と友になりたかったからですb7미랑과 친구가 되기 위해서라고 얘기한다�Wเพื่อเป็นเพื่อนกับเหม่ยเหนียง
+�
+"KEY:CL090_005_220_042.choiceText+1为了杀媚娘2為了殺媚娘BTo take me out.R媚娘を殺すためですb3미랑을 살해하기 위해서라고 얘기한다�?เพื่อกำจัดเหม่ยเหนียง
+�
+$KEY:005_220_C090A_043.storylineTitle	真聪明2	真聰明BClever Girl!R賢い子ねb 영리함을 칭찬하는 귀비�ฉลาดจริง!
+�
+$KEY:005_220_C090B_044.storylineTitle韦贵妃笑2韋貴妃笑B Lady Wei of Predilection smirks.R韋貴妃が微笑むb위귀비의 웃음�9เว่ยกุ้ยเฟยยิ้มเยาะ
+�
+KEY:005_220_045.storylineTitle!⻙贵妃要你给杨淑妃投毒2!韋貴妃要你對楊淑妃下毒BCLady Wei of Predilection wants you to poison Lady Yang of Kindness.R9韋貴妃は、あなたに楊淑妃の毒殺を命じたb&양숙비를 독살하라는 위귀비�~เว่ยกุ้ยเฟยต้องการให้ท่านวางยาพิษหยางซูเฟย
+�
+$KEY:CL100_005_220_046.storylineTitle贵妃的毒药2貴妃的毒藥BLady of Predilection’s PoisonR$貴妃から差し出された毒薬b귀비의 독약�-ยาพิษของกุ้ยเฟย
+�
+KEY:CL100_005_220_046.title-你看着韦贵妃递来的毒药，你决定2-你看著韋貴妃遞來的毒藥，你決定BHLady Wei of Predilection hands you a vial of poison. What’s your move?R?差し出された毒を見つめながら、あなたは……b5독약을 건네는 위귀비, 그녀의 지시를...��เว่ยกุ้ยเฟยยื่นขวดยาพิษให้ท่าน ท่านจะทำอย่างไร?
+�
+"KEY:CL100_005_220_046.choiceText+0答应贵妃2答應貴妃BSay you’ll do it.R命令に従うb받아들인다�บอกว่าจะทำ
+�
+"KEY:CL100_005_220_046.choiceText+1拒绝贵妃2拒絕貴妃BTell her no way.R拒むb거절한다�*บอกว่าไม่มีทาง
+�
+"KEY:CL100_005_220_046.choiceText+2将毒药摔地上2將毒藥摔到地上BSmash the vial on the floor.R!毒薬を地面に叩きつけるb독약을 바닥에 던진다�-ทุบขวดลงกับพื้น
+�
+"KEY:CL100_005_220_046.choiceText+3接过毒药一饮而尽2接過毒藥一飲而盡BChug the poison yourself.R*毒を手にし、そのまま飲み干すb독약을 받아서 마신다�0จิบพิษด้วยตัวเอง
+�
+$KEY:005_220_C100A_047.storylineTitle你投靠⻙贵妃2你投靠韋貴妃B You agree to play ball with her.R韋貴妃に寝返るb지시를 받아들인 당신�Nท่านตกลงที่จะเล่นบอลกับนาง
+�
+$KEY:005_220_C100B_051.storylineTitle你拒绝了贵妃2你拒絕韋貴妃BYou refuse her scheme.R貴妃の命令を拒むb지시를 거절한 당신�Bท่านปฏิเสธแผนการของนาง
+�
+$KEY:005_220_C100C_054.storylineTitle⻙贵妃恼羞成怒要杀你2!韋貴妃惱羞成怒打算殺你B3Your refusal annoys her, and she wants to kill you.R6韋貴妃は激怒し、あなたを殺そうとしたb1분노에 차 당신을 살해하려는 위귀비��การปฏิเสธของท่านทำให้นางโกรธ และนางต้องการที่จะฆ่าท่าน
+�
+(KEY:B11_005_220_C100D_053.storylineTitle你服药⾃尽2你服毒自盡BYou drink the poison.Rあなたは服毒自殺したb자결한 당신�'ท่านดื่มยาพิษ
+�
+$KEY:CL140_005_230_048.storylineTitle致命姐妹2致命姊妹BRival SistersR殺し合う姉妹b치명적인 자매�*พี่น้องคู่ปรับ
+�
+KEY:CL140_005_230_048.title0你说，本宫是不是绝不能留她活着？20你說，本宮是不是絕不能留她活著？B$What do you think if I let her live?RKやはり、あの女……生かしておくべきではないわよね？b;본궁이 그녀를 살려둬도 된다고 생각하느냐?�qถ้าข้าปล่อยนางอยู่ต่อ เจ้าจะคิดอย่างไร?
+�
+"KEY:CL140_005_230_048.choiceText+0能留2能留BYou could let her go.R生かしておくべきかとb#살려두어도 된다고 답한다�3ท่านปล่อยนางไปได้
+�
+"KEY:CL140_005_230_048.choiceText+1	不能留2	不能留BShe’s gotta go.R生かしてはなりませんb$살려두면 안 된다고 답한다�$นางต้องหายไป
+�
+(KEY:B09_005_230_C140A_049.storylineTitle你说能留，但还是被杀2你說能留，但還是被殺B-You beg for mercy, but you’re still killed.R?生かしておくべきと申したが、結局は殺されたb1살려둬도 된다는 말에 살해당한 당신��ท่านร้องขอความเมตตา แต่ท่านก็ยังถูกฆ่าอยู่ดี
+�
+(KEY:B14_005_230_C140A_050.storylineTitle!你说不能留，但还是被杀2!你說不能留，但還是被殺B0You agree she’s a threat, but you’re killed.RB生かしてはならないと申したが、結局は殺されたb8살려두면 안 된다고 했으나 살해당한 당신��ท่านเห็นด้วยว่านางเป็นภัยคุกคาม แต่ท่านกลับถูกฆ่า
+�
+KEY:BE_70012.title贵妃的安寝2貴妃的安寢B$Lady of Predilection’s Sound SleepR貴妃の安眠b귀비의 숙면�Hการนอนหลับสนิทของกุ้ยเฟย
+�
+KEY:BE_70012.text~兔死狗烹，鸟尽弓藏。从来都是亘古不变的道理。从今往后，你的骨血，便是贵妃的安寝良药。2{兔死狗烹，鳥盡弓藏，向來都是亙古不變的道理。從今以後，你的骨血，就是貴妃安寢良藥。B�Old saying’s true: kill the rabbit, cook the hound; shoot the birds, stash the bow. Your blood’s now the Lady of Predilection’s lullaby.R�狡兎死して走狗烹らる。それが古来変わらぬ摂理。これより先、あなたの骨と肉は、貴妃の安らかな眠りを支える薬となる。b�어떠한 일에 큰 공을 세운 자나 가치가 없어진 자는 가차 없이 버려지는 법이다. 이제 당신의 뼈와 피는 귀비의 숙면을 위한 약이 될 것이다.��สุภาษิตโบราณเป็นความจริง: ฆ่ากระต่าย ปรุงสุนัข ยิงนก เก็บธนูไว้ เลือดของท่านตอนนี้เป็นเพลงกล่อมเด็กของกุ้ยเฟย
+�
+KEY:BE_70013.title大义灭自己2大義滅自己BSacrifice for the Greater GoodR無益なる献身b대의를 위한 희생�9เสียสละเพื่อส่วนรวม
+�	
+KEY:BE_70013.text�你的尸体被埋在了贵妃的牡丹园里，来年，这里将开出最美的花路。你终究用你的命，为贵妃要走的花路，保驾护航了。2�你的屍體被埋在貴妃的牡丹園中，來年，這裡將開出最美的花路。你終究用自己的命，為貴妃鋪好了她要走的花路。B�Your body’s buried in the Lady of Predilection’s peony garden. Next year, it’ll bloom, your death paving her path to glory.R�あなたの亡骸は、貴妃の牡丹園に葬られた。翌年、この地には見事な花の道が咲き誇る。あなたはついに、その命をもって貴妃の未来を彩ったのだ。b�당신의 시신은 귀비의 모란원에 묻혔고, 내년 이곳에는 가장 아름다운 꽃길이 피어날 것이다. 결국 당신은 목숨을 바쳐 귀비가 걸어갈 꽃길을 지켜주었다.��ร่างกายของท่านถูกฝังอยู่ในสวนดอกโบตั๋นของกุ้ยเฟย ปีหน้ามันจะบาน ความตายของท่านจะปูทางสู่ความรุ่งโรจน์ให้กับนาง
+�
+"KEY:B10_005_250_052.storylineTitle你很快被其他⼈下⿊⼿2$你很快就被其他人暗下黑手B/Another schemer sneaks in and finishes you off.R-すぐ他の者によって闇討ちされるb/곧 다른 이들의 음모에 희생된 당신�`คนร้ายอีกคนแอบเข้ามาและกำจัดท่าน
+�
+KEY:BE_70010.title献礼之人2獻禮之人BThe Chosen OneR献礼の者b선택받은 자�*ผู้ได้รับเลือก
+�
+KEY:BE_70010.texto在成为献礼之人的那刻起，众人的嫉恨和杨舒妃的猜忌，都足以轻易将你送入末路。2u自從成為獻禮之人的那一刻起，眾人的嫉恨與楊淑妃的猜忌，都足以輕易將你送上絕路。BlOnce you’re pegged as the ceremonial pick, jealousy and Lady Yang of Kindness’s paranoia seal your fate.R�「献礼の者」となったその瞬間から、群臣の妬みと楊淑妃の猜疑が、あなたを破滅へと導いた。b�선택받은 순간부터 시작된 사람들의 질투와 양숙비의 의심은 당신을 파멸로 이끌기에 충분하였다.��เมื่อท่านถูกกำหนดให้เป็นผู้ได้รับเลือกอย่างเป็นทางการ ความอิจฉาและความหวาดระแวงของหยางซูเฟย จะมาปิดผนึกชะตากรรมของท่าน
+�
+KEY:BE_70011.title血溅贵妃身2血濺貴妃身BBlood on Lady of PredilectionR飛び散る血b귀비에게 튄 선혈�*เลือดบนกุ้ยเฟย
+�
+KEY:BE_70011.text韦贵妃：“狠人……”2韋貴妃：「狠人……」B1Lady Wei of Predilection mutters: How ruthless…R*韋貴妃：「……やるじゃない」b위귀비: "독한 것..."�Yเว่ยกุ้ยเฟยพึมพำ: โหดร้ายจริงๆ...
+�
+$KEY:CL110_005_220_055.storylineTitle震怒的贵妃2震怒的貴妃BLady of Predilection’s RageR激怒せし貴妃b분노에 찬 귀비�6ความโกรธของกุ้ยเฟย
+�
+KEY:CL110_005_220_055.title?贵妃已然震怒。能让她不敢杀你，你会说什么？2<貴妃已然震怒。若要她不殺你，你會說什麼？BBShe’s now fuming. What can you say to stop her from killing you?Ro貴妃の怒りが頂点に達した。それでも命を繋ぐために、あなたが口にするのは……b<분노에 찬 귀비를 진정시키기 위해, 당신은...��ตอนนี้นางโกรธมาก ท่านจะพูดอะไรเพื่อไม่ให้นางฆ่าท่านได้?
+�
+"KEY:CL110_005_220_055.choiceText+0'我知道你入宫前私生女的情报2*我知道妳入宮前那位私生女的事BEI know about your secret daughter from before you entered the palace.R$隠し子のことを知ってますbG귀비가 입궁 전 낳은 사생아에 대해 알고 있다고 한다��ข้ารู้เรื่องลูกสาวลับๆ ของท่านก่อนที่ท่านจะเข้าวัง
+�
+"KEY:CL110_005_220_055.choiceText+1我可以助你当上皇后2!我可以幫妳登上皇后之位BI can help you become Empress.R皇后にしてみせますっb9황후의 자리에 앉을 수 있게 돕겠다고 한다�]ข้าช่วยให้ท่านกลายเป็นฮองเฮาได้
+�
+(KEY:B12_005_220_C110A_056.storylineTitle⻙贵妃的痛处被你揭开2韋貴妃的痛處被你揭開B0You dig into her weakness, and it shakes her up.R3貴妃の痛み、あなたの一言で暴かれるb드러난 위귀비의 약점��ท่านขุดคุ้ยหาจุดอ่อนของนาง และทำให้นางสั่นคลอน
+�
+KEY:BE_70014.title隐形的功臣2隱形的功臣BThe Unsung HeroR影の功臣b숨겨진 공신�Wวีรบุรุษผู้ไม่ได้รับการเชิดชู
+�
+KEY:BE_70014.text]当贵妃成为皇后的那日，也一定会感念你这个为她献上良策的功臣的。2]當貴妃成為皇后的那一天，她一定會感念你這個為她獻上良策的功臣。BYWhen Lady of Predilection claims the Empress title, she’ll owe you for the killer plan.Rf貴妃が皇后になった暁には、きっとあなたの功績を褒め称えるのだろう……bw귀비가 황후가 되는 날, 분명 그녀를 위해 좋은 계책을 생각해낸 당신에게 감사할 것이다.��เมื่อกุ้ยเฟยอ้างสิทธิ์ตำแหน่งฮองเฮา นางจะติดหนี้ท่านสำหรับแผนสังหารนี้
+�
+$KEY:005_220_C110B_057.storylineTitle!你说出了韦贵妃女儿下落2$你說出了韋貴妃女兒的下落B'You reveal where’s her lost daughter.R'韋貴妃の娘の居所を口にしたb+귀비의 딸의 행방을 밝히는 당신�fท่านเปิดเผยว่าลูกสาวของนางหายไปไหน
+�
+$KEY:CL120_005_220_058.storylineTitle月儿的失散之地2月兒失散之地BWhere Yue’er Got LostR*月児と離ればなれになった場所b월아가 실종된 곳�Bที่ที่เยว่เอ๋อร์หลงทาง
+�
+KEY:CL120_005_220_058.titleB或许说出其女失散之地，便能令她最后的防线崩塌2K也許說出她跟女兒失散之地，就能讓她最後一道防線崩潰BBPinpointing Yue’er’s whereabouts could break down her defence:RT月児と離ればなれになった場所を口にすれば、隙を見せるはずbx아마도 그녀의 딸이 실종된 장소를 말한다면, 그녀의 마지막 방어선이 무너질지도 모른다.��การบอกที่อยู่ของเยว่เอ๋อร์ อาจทำลายการป้องกันของนางได้:
+�
+"KEY:CL120_005_220_058.choiceText+0远州到宜州之间2遠州與宜州之間B4Somewhere between Yuan Prefecture and Yi Prefecture.R遠州から宜州のあたりb원주와 의주 사이�rที่ไหนสักแห่งระหว่างมณฑลหยวนและมณฑลอี๋
+�
+"KEY:CL120_005_220_058.choiceText+1远州到邵州之间2遠州與邵州之間B6Somewhere between Yuan Prefecture and Shao Prefecture.R遠州から韶州のあたりb원주와 소주 사이�uที่ไหนสักแห่งระหว่างมณฑลหยวนและมณฑลเช่า
+�
+"KEY:CL120_005_220_058.choiceText+2宜州到邵州之间2宜州與邵州之間B4Somewhere between Yi Prefecture and Shao Prefecture.R宜州から韶州のあたりb의주와 소주 사이�rที่ไหนสักแห่งระหว่างมณฑลอี๋และมณฑลเช่า
+�
+"KEY:B13_005_220_059.storylineTitle*⻙贵妃感觉被你欺骗，将你暗杀2*韋貴妃覺得被你欺騙，將你暗殺B5She’s sure you’re bluffing and has you taken out.RK韋貴妃は騙されたと思い込み、密かにあなたを始末したb7속았다고 생각하여 당신을 암살한 위귀비�{นางมั่นใจว่าท่านกำลังหลอกลวงและจัดการท่าน
+�
+KEY:BE_70015.title贵妃的逆鳞2貴妃的逆鱗B"Lady of Predilection’s Soft SpotR貴妃の逆鱗b귀비의 역린�3จุดอ่อนของกุ้ยเฟย
+�
+KEY:BE_70015.textN月儿是贵妃最大的心结，这是你的死门，也会是你的生门。2N月兒是貴妃最大的心結，這是你的死門，也會是你的生門。BAYue’er’s her biggest wound, your ticket to death or survival.R�月児は貴妃にとって最大の心のしこり。それはあなたの死地にもなれば、生き残る鍵にもなる。bw월아는 귀비의 가장 큰 응어리이다. 이것이 당신의 죽음의 문이자 생존의 문이 될 것이다.��บาดแผลที่ใหญ่ที่สุดของเยว่เอ๋อคือ ใบเบิกทางสู่ความตายหรือความอยู่รอด
+�
+KEY:005_220_060.storylineTitle+你获得⻙贵妃的信任，全身 ⽽退2*你獲得韋貴妃的信任，全身而退B1You get her on your side and escape in one piece.RNあなたは韋貴妃の信頼を得て、無事にその場を切り抜けたbB위귀비의 신뢰를 얻게 되어 무사히 위기를 넘기다��ท่านได้นางมาอยู่ข้างท่านและหลบหนีไปได้อย่างปลอดภัย
+�
+$KEY:CL130_005_260_061.storylineTitle你是献礼之人吗2你是獻禮之人嗎？BAre You the Chosen One?R6武姉様が「献礼の者」なのでしょうか？b'선택받은 사람이 언니였어요?�Lท่านเป็นผู้ถูกเลือกใช่ไหม?
+�
+KEY:CL130_005_260_061.title-众目睽睽下，你要如何回答刘熙？20眾目睽睽之下，你該如何回答劉熙？B'With everyone staring, what do you say?R<多くの目が注がれる中、あなたの答えは……bA사람들이 주목하고 있는 가운데 유희의 질문에...�eเมื่อทุกคนจ้องมอง ท่านจะพูดว่าอะไร?
+�
+"KEY:CL130_005_260_061.choiceText+0贵妃娘娘的确属意于我2貴妃娘娘的確屬意於我BYeah, Her Grace picked me.R9貴妃様は、たしかに私を選んでくださったb=자신이 귀비마마의 선택을 받았다고 얘기한다�Cใช่แล้ว กุ้ยเฟยเลือกข้า
+�
+"KEY:CL130_005_260_061.choiceText+1恭喜妹妹了！2恭喜妹妹了！BCongrats then!R!おめでとう、きっちゃんb축하를 전한다�:ขอแสดงความยินดีด้วย!
+�
+$KEY:005_026_C130A_062.storylineTitle!你的话引起了众⼥的妒忌2你的話引來眾女的妒嫉B6Your words light a fire of envy among the other women.R3その一言が他の女たちの妬心を煽ったb/많은 여인들의 질투를 받게 된 당신��คำพูดของท่านทำให้เกิดความอิจฉาในหมู่ผู้หญิงคนอื่นๆ
+�
+"KEY:B10_005_250_064.storylineTitle你的容貌被毁2你的容貌被毀B%Someone scars your face out of spite.R'あなたの容姿は傷つけられたb망가진 용모�oมีคนทำร้ายใบหน้าท่านด้วยความเคียดแค้น
+~
+KEY:BE_70016.title献礼之人2獻禮之人BThe Chosen OneR献礼の者b선택받은 자�ผู้ส่งสาร
+�
+KEY:BE_70016.texti在成为他人眼中的献礼之人起，众人的嫉恨和杨淑妃的猜忌，将你送入了末路。2f在成為他人眼中的獻禮之人起，眾人的嫉恨與楊淑妃的猜忌，將你送上絕路。BlOnce you’re pegged as the ceremonial pick, jealousy and Lady Yang of Kindness’s paranoia seal your fate.R�「献礼の者」となったその瞬間から、群臣の妬みと楊淑妃の猜疑が、あなたを破滅へと導いた。b�선택받은 자가 된 순간부터 시작된 사람들의 질투와 양숙비의 의심은 당신을 곧 파멸로 이끌었다.��เมื่อท่านถูกกำหนดให้เป็นผู้ได้รับเลือกอย่างเป็นทางการ ความอิจฉาและความหวาดระแวงของหยางซูเฟย จะมาปิดผนึกชะตากรรมของท่าน
+�
+$KEY:005_026_C130B_063.storylineTitle!你故意让人以为刘熙当选2!你故意讓人以為劉熙當選B8You slyly make everyone think Liu Xi’s the chosen one.R3劉熙が選ばれたとわざと皆に思わせたbA일부러 유희가 선택되었다고 소문을 퍼뜨린 당신��ท่านทำให้ทุกคนคิดว่าหลิว ซีคือผู้ถูกเลือกอย่างแยบยล
+�
+KEY:12.title前往【第十一集】2前往【第十一集】BHead to Chapter 11R『第11章』へb[제11장]으로 이동하기�ไปยังบท 11
+�
+KEY:12.textQ逆势又如何？将命运握在自己手中，去下一盘酣畅淋漓的棋！2T逆勢又如何？將命掌握在自己手中，去下一盤酣暢淋漓的棋局！B\Who cares if the odds are stacked against you? Control your fate and live a bold, epic saga!RZ逆境？だからどうした！運命をこの手に握り、次の一手を打とう！bX역경에 처하면 어떤가! 운명을 손에 쥐고 짜릿한 승부를 펼치리라!��ใครจะสนใจว่าโอกาสจะไม่เข้าข้างท่าน ควบคุมชะตากรรมของท่านและเล่นเกมที่กล้าหาญและยิ่งใหญ่!
+$
+"KEY:B05_005_100_066.storylineTitle
+�
+KEY:BE_70017.title是男是女又何妨？2是男是女又何妨？BMan or Woman, Who Cares?R?男か女か……それに何の違いがありましょう？b2남자든 여자든 무슨 상관이 있겠는가?�Mผู้ชายหรือผู้หญิง ใครสนกัน?
+�
+KEY:BE_70017.text]龙椅，男人能坐，女人便也能坐。决定一切的本该是能力，而非性别。2]龍椅，男人能坐，女人便也能坐。決定一切的本該是能力，而非性別。BQThe dragon throne’s for whoever’s got the chops, and gender doesn’t matter.R{玉座に男が座れるのなら、女が座って、何が悪い。物を言うのは、性別ではない。実力だ。bm남자든 여자든 모두 용상에 앉을 수 있다. 성별이 아니라 능력이 결정하는 것이다.��บัลลังก์มังกรเป็นของใครก็ตามที่มีความสามารถ และเพศไม่สำคัญ
+k
+KEY:11.title第九集 完2第九集 完BChapter 9  EndsR第9章　了b제9장 끝�บท 9 จบ
+�
+KEY:11.text太史令疯狂占星中2太史令瘋狂占星中BIThe Director of the Astrology Bureau’s going nuts with his star charts.R太史令、占星に没頭中b 점성술에 몰두한 태사령��เจ้ากรมอาลักษณ์กำลังคลั่งไคล้กับแผนภูมิดาวของเขา
+�
+KEY:005_120_065.storylineTitle宫廷人脉2宮廷人脈BPalace AlliesR宮廷の人脈b황궁에서의 인맥�9พันธมิตรในพระราชวัง

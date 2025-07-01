@@ -1,0 +1,332 @@
+com.tencent.nk.xlsRes.table_SubtitleConf
+./xls/Main/S_视频配置.xlsx
+rows {
+  videoId: 1
+  config {
+    showTime: 1.6
+    intervalTime: 0.0
+  }
+  config {
+    txt: "C_VIDEO_START_GL1"
+    showTime: 8.0
+    intervalTime: 1.9
+  }
+  config {
+    txt: "C_VIDEO_START_GL2"
+    showTime: 9.0
+    intervalTime: 10.1
+  }
+  config {
+    txt: "C_VIDEO_START_GL3"
+    showTime: 4.0
+    intervalTime: 6.5
+  }
+  config {
+    txt: "C_VIDEO_START_GL4"
+    showTime: 3.0
+    intervalTime: 7.1
+  }
+  config {
+    txt: "C_VIDEO_START_GL5"
+    showTime: 6.1
+    intervalTime: 1.8
+  }
+}
+rows {
+  videoId: 30001
+  config {
+    showTime: 0.2
+    intervalTime: 1.7
+  }
+  config {
+    txt: "TID_SubtitleConf_30001_txt_CN_Main"
+    showTime: 4.9
+    intervalTime: 0.3
+    voice: "Play_voice_story1_newbiebattle_01_voccst_en"
+    stopVoice: "Stop_voice_story1_newbiebattle_01_voccst_en"
+  }
+  config {
+    txt: "TID_SubtitleConf_30001_txt_92524195203_CN_Main"
+    showTime: 4.3
+    intervalTime: 1.0
+    voice: "Play_voice_story1_newbiebattle_02_voccst_en"
+    stopVoice: "Stop_voice_story1_newbiebattle_02_voccst_en"
+  }
+  config {
+    txt: "TID_SubtitleConf_30001_txt_629240282772_CN_Main"
+    showTime: 3.8
+    intervalTime: 0.0
+    voice: "Play_voice_story1_newbiebattle_03_voccst_en"
+    stopVoice: "Stop_voice_story1_newbiebattle_03_voccst_en"
+  }
+}
+rows {
+  videoId: 30002
+  config {
+    showTime: 2.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30002_txt_CN_Main"
+    showTime: 5.3
+    intervalTime: 0.2
+    voice: "Play_voice_story1_newbiebattle_32_ruler_en"
+    stopVoice: "Stop_voice_story1_newbiebattle_32_ruler_en"
+  }
+  config {
+    txt: "TID_SubtitleConf_30002_txt_119319674008_CN_Main"
+    showTime: 12.1
+    intervalTime: 0.0
+    voice: "Play_voice_story1_newbiebattle_33_ruler_en"
+    stopVoice: "Stop_voice_story1_newbiebattle_33_ruler_en"
+  }
+}
+rows {
+  videoId: 30011
+  config {
+    showTime: 3.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30011_txt_GL_Main"
+    showTime: 6.6
+    intervalTime: 0.0
+    voice: "Play_voice_story1_chapter1_06_hml_en"
+    stopVoice: "Stop_voice_story1_chapter1_06_hml_en"
+  }
+}
+rows {
+  videoId: 30012
+  config {
+    txt: "TID_SubtitleConf_30012_txt_CN_Main"
+    showTime: 3.0
+    intervalTime: 3.0
+    voice: "Play_voice_guide02_14_02_Andrea"
+  }
+  config {
+    txt: "TID_SubtitleConf_30012_txt_271717373490_CN_Main"
+    showTime: 3.0
+    intervalTime: 0.0
+    voice: "Play_voice_guide02_14_03_Andrea"
+  }
+}
+rows {
+  videoId: 30013
+  config {
+    showTime: 3.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30013_txt_CN_Main"
+    showTime: 9.8
+    intervalTime: 0.0
+    voice: "Play_voice_story1_chapter3_06_andrea_en"
+    stopVoice: "Stop_voice_story1_chapter3_06_andrea_en"
+  }
+}
+rows {
+  videoId: 30014
+  config {
+    showTime: 0.3
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30014_txt_CN_Main"
+    showTime: 6.0
+    intervalTime: 0.0
+    voice: "Play_voice_story1_chapter4_08_gy_en"
+    stopVoice: "Stop_voice_story1_chapter4_08_gy_en"
+  }
+  config {
+    txt: "TID_SubtitleConf_30014_txt_407890566433_GL_Main"
+    showTime: 3.6
+    intervalTime: 0.0
+    voice: "Play_voice_story1_chapter4_09_gy_en"
+    stopVoice: "Stop_voice_story1_chapter4_09_gy_en"
+  }
+  config {
+    txt: "TID_SubtitleConf_30014_txt_534895159727_CN_Main"
+    showTime: 5.0
+    intervalTime: 0.0
+    voice: "Play_voice_story1_chapter4_10_gy_en"
+    stopVoice: "Stop_voice_story1_chapter4_10_gy_en"
+  }
+}
+rows {
+  videoId: 30015
+  config {
+    showTime: 0.3
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30015_txt_GL_Main"
+    showTime: 11.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30015_txt_117612107699_GL_Main"
+    showTime: 6.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30015_txt_405921604569_GL_Main"
+    showTime: 12.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_SubtitleConf_30015_txt_648246777896_GL_Main"
+    showTime: 12.0
+    intervalTime: 0.0
+  }
+}
+rows {
+  videoId: 30016
+  config {
+    showTime: 1.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_01"
+    showTime: 8.0
+    intervalTime: 1.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_02"
+    showTime: 8.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_03"
+    showTime: 10.0
+    intervalTime: 1.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_04"
+    showTime: 8.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_05"
+    showTime: 5.0
+    intervalTime: 3.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_06"
+    showTime: 2.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_07"
+    showTime: 5.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_08"
+    showTime: 8.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0cg_09"
+    showTime: 10.0
+    intervalTime: 3.0
+  }
+}
+rows {
+  videoId: 30017
+  config {
+    showTime: 0.6
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0_3203"
+    showTime: 16.5
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0_3206"
+    showTime: 23.0
+    intervalTime: 2.3
+  }
+  config {
+    txt: "TID_Dialogue_S0_3207"
+    showTime: 6.0
+    intervalTime: 5.5
+  }
+  config {
+    txt: "TID_Dialogue_S0_3208"
+    showTime: 4.0
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0_3209"
+    showTime: 5.0
+    intervalTime: 6.0
+  }
+}
+rows {
+  videoId: 30018
+  config {
+    showTime: 5.8
+    intervalTime: 0.0
+  }
+  config {
+    txt: "TID_Dialogue_S0_2001"
+    showTime: 20.0
+    intervalTime: 0.0
+    voice: "5.8"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2002"
+    showTime: 3.8
+    intervalTime: 0.0
+    voice: "25.8"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2003"
+    showTime: 3.2
+    intervalTime: 0.0
+    voice: "29.6"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2004"
+    showTime: 11.7
+    intervalTime: 1.5
+    voice: "32.8"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2005"
+    showTime: 8.6
+    intervalTime: 0.3
+    voice: "46"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2006"
+    showTime: 13.4
+    intervalTime: 0.0
+    voice: "54.9"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2007"
+    showTime: 15.9
+    intervalTime: 0.0
+    voice: "68.3"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2008"
+    showTime: 6.0
+    intervalTime: 0.5
+    voice: "84.1"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2009"
+    showTime: 2.2
+    intervalTime: 1.7
+    voice: "90.7"
+  }
+  config {
+    txt: "TID_Dialogue_S0_2010"
+    showTime: 6.5
+    intervalTime: 2.0
+    voice: "94.6"
+  }
+}

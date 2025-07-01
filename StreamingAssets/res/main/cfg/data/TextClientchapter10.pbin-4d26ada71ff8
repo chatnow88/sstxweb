@@ -1,0 +1,244 @@
+
+�
+KEY:008_010_001.storylineTitle回不来的高阳2回不來的高陽BGaoyang’s Never Coming BackR戻らぬ高陽b#돌아오지 못하는 고양공주�Kเกาหยางไม่เคยกลับมาอีกเลย
+�
+$KEY:CL010_008_040_002.storylineTitle你愿意出宫吗？2你願意出宮嗎？BReady to Bail on the Palace?R!宮を出たいと思うか……b출궁을 원하는가?�^พร้อมที่จะประกันตัวในวังหรือยัง?
+�
+KEY:CL010_008_040_002.title你愿意出宫吗？2你願意出宮嗎？BYou wanna leave the palace?R!宮を出たいと思うか……b출궁을 원하는가?�Iท่านอยากออกจากวังหรือไม่?
+�
+"KEY:CL010_008_040_002.choiceText+0我愿意出宫2我願意出宮BYeah, I’m out.R宮を出たいのですb출궁하고 싶습니다.�.ใช่ ข้าจะออกแล้ว
+�
+"KEY:CL010_008_040_002.choiceText+1我不能走2我不能走BNo way, I’m staying.R*まだ、出るわけにはいきませんb떠날 수 없습니다.�=ไม่มีทาง ข้าจะอยู่ต่อ
+�
+(KEY:B01_008_040_C010A_003.storylineTitle李治安排你出宫⽣活2李治安排你出宮生活B0Li Zhi gives you a new start outside the palace.R'李治、出宮を手配してくれるb,출궁 후의 거처를 마련해 준 이치��หลี่จื้อมอบจุดเริ่มต้นใหม่ให้กับท่านนอกพระราชวัง
+�
+$KEY:008_040_C010B_004.storylineTitle李治不解为何不出宫2李治不解為何不出宮B+Li Zhi’s wondering why you won’t leave.R!李治、出ぬ所以に戸惑うbA출궁하지 않으려는 당신을 이해하지 못하는 이치��หลี่จื้อกำลังสงสัยว่าทำไมท่านถึงไม่ยอมออกไป
+�
+KEY:NE_100001.title完美结局2完美結局BHappy EndingR最善の結末b완벽한 결말�*จบแบบมีความสุข
+�
+KEY:NE_100001.text9或许这个结局，未尝不是最好的那个结局。23或許這個結局，未嘗不是最好的結局。B9This might just be the best ending you could’ve landed.RWもしかすると、この結末は最も幸せな道だったのかもしれない。b>어쩌면 이 결말이 가장 좋은 결말일 수도 있다.�uนี่อาจเป็นตอนจบที่ดีที่สุดที่ท่านเคยได้
+�
+$KEY:CL020_008_040_005.storylineTitle为何不愿出宫2為何不願出宮BWhy Stick Around?R宮を出ぬ理由b 출궁하지 않으려는 이유�Cเหตุใดจึงยังอยู่ที่นี่?
+�
+KEY:CL020_008_040_005.title为什么不能走？2為何不能走？BWhat’s keeping you here?Rなぜ、宮を離れない？b:출궁하지 않으려는 이유를 묻는 이치에게...�Oอะไรที่ทำให้ท่านอยู่ที่นี่?
+�
+"KEY:CL020_008_040_005.choiceText+0	为了你2	為了你BIt’s Your Highness.R殿下のために！b'이치 당신 때문이라고 답한다�'เป็นเพราะท่าน
+�
+"KEY:CL020_008_040_005.choiceText+1为了我自己2為了我自己B
+It’s me.R自分のためです……b$나 자신 때문이라고 답한다�6เป็นเพราะตัวข้าเอง
+�
+$KEY:008_040_C020A_006.storylineTitle李治脸红2李治臉紅BLi Zhi’s all flustered.R李治、顔を赤らめるb붉어진 이치의 얼굴�6หลี่จื้อสับสนไปหมด
+�
+$KEY:008_040_C020B_010.storylineTitle李治失望离开2李治失望離去BLi Zhi walks away, bummed.R李治、失望して去るb'실망한 표정으로 떠나는 이치�cหลี่จื้อเดินออกจากไปอย่างหงุดหงิด
+�
+$KEY:CL030_008_040_007.storylineTitle真心的拷问2真心的拷問BKeeping It Real?R本心を問うb진심�:เป็นความจริงหรือไม่?
+�
+KEY:CL030_008_040_007.title3刚才对李治的那番话，你是真心的吗？23方才對李治所言，你是出自真心的嗎？B0For what you told Li Zhi, was it from the heart?R'今の言葉は本心だったか……b!방금 이치에게 한 말은...��สิ่งที่ท่านบอกกับหลี่จื้อ มาจากใจจริงหรือไม่?
+_
+"KEY:CL030_008_040_007.choiceText+0是2是BYes.R紛れもなくb진심이다�	ใช่
+p
+"KEY:CL030_008_040_007.choiceText+1不是2不是BNo.Rわからない……b	아니다�ไม่ใช่
+�
+$KEY:008_040_C030A_008.storylineTitle他是我⼼中唯⼀的⽉光2他是我心中唯一的月光B!He’s the only glow in my heart.R闇を照らす唯一の月光b,마음 속 유일한 달빛과 같은 존재�xเขาเป็นแสงสว่างเพียงหนึ่งเดียวในใจของข้า
+�
+$KEY:008_040_C030B_009.storylineTitle你告诫⾃⼰，不得动情2你告誡自己，不得動情B/You tell yourself: don’t catch feelings here.R情に溺れてはいけぬb(흔들리면 안 돼... 마음 다잡기��ท่านบอกกับตัวเองว่า อย่ามีความรู้สึกใดต่อที่นี่
+�
+KEY:008_04A_011.storylineTitle李治⾃⼰和⾃⼰下棋2李治自己與自己下棋B&Li Zhi’s playing chess with himself.R李治、己と対局するb홀로 바둑을 두는 이치�cหลี่จื้อกำลังเล่นหมากรุกกับตัวเอง
+�
+KEY:008_04A_012.storylineTitle李治神情落寞2李治神情落寞BLi Zhi looks upset.R李治、物思いに沈むb쓸쓸한 표정의 이치�9หลี่จื้อดูไม่สบายใจ
+�
+KEY:008_04A_013.storylineTitle李治⾯露笑意2李治面露笑意B Li Zhi puts a smile on his face.R!李治、微笑みを浮かべるb미소를 띠고 있는 이치�Nหลี่จื้อเผยรอยยิ้มบนใบหน้า
+�
+KEY:008_231_014.storylineTitle闯入了机密会议2闖入機密會議BBarging into a secret meetingR密議、不意に踏み込むb비밀 회의 난입하기�Bบุกเข้าไปในการนัดพบลับ
+�
+$KEY:CL040_008_070_015.storylineTitle致命的立储机密2致命的立儲機密BHeir Talk TrapR命取りの立太子の秘密b치명적인 비밀�<กับดักพูดคุยรัชทายาท
+�
+KEY:CL040_008_070_015.titleH姨母让你听到立储之事是想置你于死地，你要怎么说？2N姨母讓你聽聞立儲之事，是想將你置於死地，你要怎麼說？B\Your aunt let you overhear this succession stuff to put you to death. What do you blurt out?RBおばさまに嵌められたあなたが口にしたのは……bm이모가 당신을 궁지에 몰아넣기 위해 태자 책봉에 대한 기밀을 듣게 만들었는데...��ป้าของท่านปล่อยให้ท่านได้ยินเรื่องสืบทอดเพื่อจะสังหารท่าน ท่านเผลอพูดอะไรออกไป?
+�
+"KEY:CL040_008_070_015.choiceText+0是淑妃让我来的2是淑妃讓我來的BLady of Kindness sent me.R6淑妃様に命じられて来ただけです……！b1숙비가 오라고 한 것이라고 얘기한다�'ซูเฟยส่งข้ามา
+�
+"KEY:CL040_008_070_015.choiceText+1!我知道该立谁为太子！！2!我知道該立誰為太子！！B-I know who’d make the perfect Crown Prince!R0太子の人選にいい考えがあります！b2누가 태자가 되어야 할지 안다고 한다��ข้ารู้ว่าใครจะเหมาะจะเป็นองค์รัชทายาทที่สุด!
+�
+"KEY:CL040_008_070_015.choiceText+2我怀了李治的孩子！！2我懷了李治的孩子！！BI’m carrying Li Zhi’s baby!R<李治殿下のお子を……身籠っておりますっ！b-이치의 아이를 가졌다고 얘기한다�gข้ากำลังอุ้มลูกน้อยของหลี่จื้ออยู่!
+�
+"KEY:CL040_008_070_015.choiceText+3是高阳让我来的2是高陽讓我來的BGaoyang told me to show up.R<高陽公主に、参れと言われただけです……！b7고양공주가 오라고 한 것이라고 얘기한다�`องค์หญิงเกาหยางบอกให้ข้าปรากฏตัว
+�
+(KEY:B02_008_070_C040A_016.storylineTitle'李世⺠没有理会，你被逼⾃尽2'李世民不予理會，你被逼自盡B9Li Shimin ignores you, and you’re forced to end it all.R*相手にされず、強いられる自害b8이세민의 외면과 강압에 의한 당신의 자결��หลี่ ซื่อหมินไม่สนใจท่าน และท่านถูกบังคับให้ยุติทุกอย่าง
+�
+(KEY:B06_008_070_C040B_017.storylineTitle!你因妄议朝政，被赐斩⾸2!你因妄議朝政，被賜斬首B9You get the axe for sticking your nose in court business.R妄言により斬首b<국정에 대해 함부로 논한 죄로 참수당한 당신��ท่านโดนประหารโทษฐานเข้าไปยุ่งในเรื่องของวัง
+�
+(KEY:B07_008_070_C040C_018.storylineTitle!你因御前失⾔，被赐斩⾸2!你因御前失言，被賜斬首BBYour big mouth in front of His Majesty lands you a death sentence.R失言により斬首b:어전에서 실언했다는 이유로 참수당한 당신��คำพูดโอ้อวดต่อหน้าฝ่าบาทจะทำให้ท่านต้องรับโทษประหารชีวิต
+�
+$KEY:008_070_C040D_019.storylineTitle皇上放过你2皇上放過你BHis Majesty cuts you a break.R咎められずに済むb당신을 용서한 황제�9ฮ่องเต้ตัดโอกาสท่าน
+�
+KEY:BE_100002.title致命鸡汤2致命雞湯BAunt’s Killer SoupR毒入りの鶏湯b치명적인 닭고기탕�-ซุปสังหารของป้า
+�
+KEY:BE_100002.text{原来姨母亲手熬制的鸡汤，和她最爱的桂花羹一样致命。原来说实话，未必能让人听得进去。2u原來姨母親手熬製的雞湯，與她最愛的桂花羹一樣致命。原來說實話，未必能入人之耳。B�Your aunt’s “heartwarming” chicken soup is as deadly as her beloved Osmanthus Soup. Turns out the truth doesn’t always win people over.R�おばさまの手ずから煮た滋養の鶏湯は、彼女の愛する金木犀の蜜湯と同じく、命取りだった。真実は、必ずしも耳に届くものではない。b�이모가 손수 끓여준 닭고기탕은 그녀가 가장 좋아하는 계화탕처럼 치명적이었다. 사실을 말한다고 해서 반드시 사람들이 귀담아듣는 것은 아니었다.��ซุปไก่ "อุ่นใจ" ของป้าท่านนั้นอันตรายพอๆ กับ ซุปดอกหอมหมื่นลี้ที่างชอบ ปรากฏว่าความจริงไม่ได้ชนะใจผู้คนเสมอไป
+�
+KEY:BE_100003.title一介女流2一介女流BWho Cares If I’m a Woman?Rたかが女ごときb여인의 지위�Cใครสนว่าข้าเป็นผู้หญิง?
+�
+KEY:BE_100003.textH一介女流又如何？女子亦可以是国之栋梁，社稷之石。2H一介女流又如何？女子亦能成為國之棟樑、社稷之石。BJSo what if I’m a woman? I can hold up the empire and steady the kingdom.Ri女とて、柱となり、国を支える。たかが女ごとき――それが何だというのか？bf여인이라 한들 어떠한가? 여인도 나라의 기둥이자 국가의 초석이 될 수 있다.��ต่อให้ข้าเป็นผู้หญิงแล้วจะทำไม? ข้าสามารถยึดครองอาณาจักรและทำให้บ้านเมืองมั่นคงได้
+�
+KEY:BE_100004.title绿光皇帝2綠光皇帝BThe Cuckold EmperorR裏切られし皇帝b실연당한 황제�Eจักรพรรดิผู้ไม่หวั่นไหว
+�
+KEY:BE_100004.text怎一个勇字了得？2怎一個勇字了得？B$This guy’s got some serious nerve!R*これぞまさしく、勇の極まり！b7어찌 용감 두 글자로 설명할 수 있겠는가?�Cชายผู้นี้มีใจอาจหาญนัก!
+�
+$KEY:CL050_008_090_021.storylineTitle除掉杨淑妃的刀2除掉楊淑妃的刀B Lady Yang of Kindness’s DemiseR楊淑妃を討つ刃b양숙비를 제거할 칼�6การตายของหยางซูเฟย
+�
+KEY:CL050_008_090_021.title3你觉得，谁是最合适除掉杨淑妃的刀？23你覺得，誰是最適合除掉楊淑妃的刀？B=Who’s the sharpest tool to take down Lady Yang of Kindness?R9楊淑妃を討つ刃としてふさわしいのは……bK양숙비를 제거하기에 가장 적합한 칼이 되어줄 사람은...��ใครคือเครื่องมือที่แหลมคมที่สุดในการล้มหยางซูเฟย?
+�
+"KEY:CL050_008_090_021.choiceText+0狱中的刘熙2獄中的劉熙BLiu Xi, stewing in prison.R牢に囚われた劉熙b#옥중의 유희라고 생각한다�4ขังหลิว ซีไว้ในคุก
+�
+"KEY:CL050_008_090_021.choiceText+1!被刻牡丹的姜才人的亲眷2!被刻牡丹的姜才人的親眷B%Peony-carved Cairen Jiang’s family.R'牡丹を刻まれた姜才人の親族bK이마에 모란 낙인이 찍힌 강재인의 가족이라고 생각한다�xตระกูลของเจียงไฉเหรินแกะสลักลายดอกโบตั๋น
+�
+"KEY:CL050_008_090_021.choiceText+2冷宫中的韦贵妃2冷宮中的韋貴妃B6Lady Wei of Predilection, wasting away in Cold Palace.R冷宮に落ちた韋貴妃b-냉궁에 있는 위귀비라고 생각한다�fเว่ยกุ้ยเฟยกำลังสิ้นลมในตำหนักเย็น
+�
+"KEY:CL050_008_090_021.choiceText+3陛下2陛下BYour Majesty.R陛下b폐하라고 생각한다�ฝ่าพระบาท
+�
+$KEY:008_090_C050A_022.storylineTitle$恐怕刘熙最想杀的⼈只有你2$恐怕劉熙最想殺的人只有你B?Liu Xi’s probably gunning for your head more than anyone’s.R$劉熙の狙いは、あなただけbL아마도 유희가 가장 죽이고 싶은 사람은 당신뿐일 것이다��หลิว ซีน่าจะมุ่งเป้าไปที่หัวของท่านมากกว่าใคร
+�
+(KEY:B03_008_090_C050B_023.storylineTitle姜家反⼿就将你出卖2姜家反手便將你出賣B7The Jiang clan sells you out the first chance they get.R姜家があなたを裏切るb5강 씨 가문에서 당신을 팔아넘길 것이다�iตระกูลเจียงจะขายท่านทันทีที่มีโอกาส
+�
+$KEY:008_090_C050C_024.storylineTitle$杨妃假扮杨淑妃刺激韦贵妃2$楊妃假扮楊淑妃刺激韋貴妃B^Lady Yang pretends to be Lady Yang of Kindness to get under Lady Wei of Predilection’s skin.R3小楊妃が楊淑妃に化けて韋貴妃を煽るb=양비가 양숙비로 위장하여 위귀비를 자극한다��พระสนมหยางแกล้งทำเป็นหยางซูเฟยเพื่อเข้าถึงเว่ยกุ้ยเฟย
+�
+$KEY:008_090_C050D_025.storylineTitle'陛下绝对不会这么快地处置她2$陛下絕不會這麼快就處置她B4No way His Majesty’s moving against her this fast.R!陛下がすぐには裁かないbI폐하께서 절대 그리 빨리 그녀를 처벌하지 않을 것이다��ไม่มีทางที่ฝ่าบาทจะเคลื่อนไหวต่อต้านนางได้เร็วขนาดนี้
+�
+KEY:BE_100005.title“正义”的种子2「正義」的種子BPlanting “Justice”R「正義」の種b'정의'의 씨앗�<ปลูกฝัง "ความยุติธรรม"
+�
+KEY:BE_100005.textc今日埋下正义的种子，种成一株桂花树，来年秋天，骨血入淑妃的桂花羹。2f今日埋下正義的種子，種成一株桂花樹，來年秋天，骨血化入淑妃的桂花羹。B�Sow a seed of justice now, and it’ll sprout into an osmanthus tree. By next autumn, your blood’s gonna spice up Lady of Kindness’ Osmanthus Soup.R�今日蒔かれた「正義」の種は、やがて桂の木となって花を咲かせる。その血肉は、おばさまの蜜湯に溶けていく。by오늘 심은 정의의 씨앗은 내년 가을이면 계화 나무로 자라 숙비의 계화탕에 들어갈 것이다.��หว่านเมล็ดพันธุ์แห่งความยุติธรรมตอนนี้ แล้วมันจะงอกเป็นต้นหอมหมื่นลี้ เมื่อถึงฤดูใบไม้ร่วงหน้า เลือดของท่านจะทำให้ซุปดอกหอมหมื่นลี้ของซูเฟยมีรสชาติมากขึ้น
+�
+#KEY:C060_008_160_026.storylineTitle逼近的韦贵妃2逼近的韋貴妃B!Lady Wei of Predilection IncomingR迫り来る韋貴妃b다가오는 위귀비�6เว่ยกุ้ยเฟยกำลังมา
+�
+KEY:C060_008_160_026.title3韦贵妃距离你们越来越近，此时你……20韋貴妃離你們越來越近，此時你……BALady Wei of Predilection’s closing in fast. What’s your move?R3近づいていく韋貴妃に、あなたは……bA위귀비가 당신들에게 점점 다가오는 것을 보고...��เว่ยกุ้ยเฟยกำลังใกล้เข้ามาแล้ว ท่านจะทำอย่างไรดี?
+�
+!KEY:C060_008_160_026.choiceText+0快步走开2快步離開BGet the hell out of there.R足早に立ち去るb재빨리 자리를 뜬다�3ออกไปจากที่นั่นซะ
+�
+!KEY:C060_008_160_026.choiceText+1和杨淑妃亲切地交谈2與楊淑妃親切地交談B*Act all chummy with Lady Yang of Kindness.R楊淑妃と親しげに話すb#양숙비와 다정히 대화한다�Kทำตัวเป็นมิตรกับหยางซูเฟย
+#
+!KEY:C060_008_160_026.choiceText+2
+�
+(KEY:B04_008_160_C060A_027.storylineTitle⻙贵妃偷袭失败被抓2韋貴妃偷襲失敗被抓BDLady Wei of Predilection’s sneak attack fails, and she’s nabbed.R$韋貴妃、失敗し捕縛されるb.습격에 실패한 후 체포당한 위귀비��การลอบโจมตีของเว่ยกุ้ยเฟยล้มเหลว และนางก็ถูกจับกุม
+�
+$KEY:008_160_C060B_054.storylineTitle⻙贵妃偷袭成功2韋貴妃偷襲成功B2Lady Wei of Predilection’s strike hits its mark.R韋貴妃、襲撃に成功b습격에 성공한 위귀비�oการโจมตีของเว่ยกุ้ยเฟยประสบความสำเร็จ
+�
+"KEY:B05_008_160_028.storylineTitle杨淑妃拉过你当挡箭牌2楊淑妃拉你當擋箭牌B;Lady Yang of Kindness shoves you in front to take the blow.R楊淑妃、あなたを楯にb$당신을 방패로 삼은 양숙비��หยางซูเฟยผลักท่านไปข้างหน้าเพื่อรับการโจมตี
+�
+KEY:BE_100006.title新一任疯妃2新一任瘋妃BNext Mad LadyR新たなる狂妃b새로운 미치광이�0หญิงคลั่งคนต่อไป
+�
+KEY:BE_100006.textQ咸池殿的门，锁住了你姨母的一生，也即将锁住你的后半生。2N咸池殿的門，鎖住了你姨母的一生，也將鎖住你的後半生。BkThe gates of Xianchi Palace caged your aunt’s life, and now they’re about to lock up the rest of yours.R�咸池殿の扉は、かつておばさまの一生を閉ざし、今また、あなたの後半生をも封じようとしている。bi함지전의 문은 이모의 일생을 가두었고, 이제 곧 당신의 후반생도 가둘 것이다.��ประตูแห่งเซี๋ยนฉือที่เคยกักขังชีวิตป้าของท่านไว้ และตอนนี้มันก็กำลังกักขังชีวิตที่เหลือของท่านไว้อยู่
+�
+KEY:BE_100007.title替死之鬼2	替死鬼BScapegoat in the ClutchR身代わりb희생양의 원혼�Hแพะรับบาปในการยึดเหนี่ยว
+�
+KEY:BE_100007.text-千钧一发，生死之间，切勿愣神。2-千鈞一髮，生死之間，切勿愣神。B3In that do-or-die moment, don’t just stand there.R-時は今、一手の遅れ、悔やめどもbF생사가 오가는 일촉즉발의 상황에서 방심은 안 된다.��ในช่วงเวลาเป็นหรือตาย อย่าเพียงแค่ยืนอยู่เฉยๆ
+�
+KEY:008_180_031.storylineTitle闪回绿裙子2快速回顧綠裙子BFlashback: Green DressR緑の衣装に戻るb초록색 치마�8ย้อนอดีต: ชุดสีเขียว
+�
+KEY:008_180_030.storylineTitle闪回红裙子2快速回顧紅裙子BFlashback: Red DressR赤の衣装に戻るb빨간색 치마�2ย้อนอดีต: ชุดสีแดง
+�
+KEY:008_180_032.storylineTitle杨妃顶替杨淑妃2楊妃頂替楊淑妃B)Lady Yang poses as Lady Yang of Kindness.R'小楊妃、楊淑妃になりすますb 양숙비를 대신하는 양비�fพระสนมหยางทำหน้าที่ในฐานะหยางซูเฟย
+�
+KEY:008_190_033.storylineTitle前去探望韦贵妃2前去探望韋貴妃B"to visit Lady Wei of Predilection.R韋貴妃を見舞うb위귀비를 찾아간 당신�Hท่านแวะเยี่ยมเว่ยกุ้ยเฟย
+�
+$KEY:CL070_008_190_034.storylineTitle贵妃之女的真相2貴妃之女的真相BLady Wei’s DaughterR貴妃の娘、その真実b귀비의 딸에 대한 진실�!ธิดาของเว่ย
+�
+KEY:CL070_008_190_034.titleQ韦贵妃的生命即将走到尽头，你是否告诉她月儿未死的真相？2Q韋貴妃的生命即將走到盡頭，你是否告訴她月兒未死的真相？B\Lady Wei of Predilection’s on her last legs. Do you tell her Yue’er’s still out there?RB命が尽きようとしている韋貴妃に、あなたは……bd위귀비의 숨이 끊어져가는 상황, 귀비의 딸 월아가 죽지 않았다는 사실을...��เว่ยกุ้ยเฟยในวาระสุดท้าย ท่านจะบอกนางหรือไม่ว่าเยว่เอ๋อร์ยังอยู่?
+�
+"KEY:CL070_008_190_034.choiceText+0告诉2說BSpill the truth.R月児のことを伝えるb알려준다�-เปิดเผยความจริง
+�
+"KEY:CL070_008_190_034.choiceText+1	不告诉2不說BKeep your mouth shut.R真実を秘めるb알려주지 않는다�0ปิดปากของท่านไว้
+�
+$KEY:008_190_C070A_035.storylineTitle⻙贵妃含笑⽽死2韋貴妃含笑而終B-Lady Wei of Predilection passes with a smile.R$韋貴妃、微笑みのまま死すb&미소를 띤 채 숨을 거둔 귀비�Qเว่ยกุ้ยเฟยจากไปด้วยรอยยิ้ม
+�
+$KEY:008_190_C070B_036.storylineTitle⻙贵妃即将断⽓2韋貴妃即將斷氣B7Lady Wei of Predilection’s about to breathe her last.R韋貴妃の最期b$숨이 끊어지기 직전의 귀비�{เว่ยกุ้ยเฟยกำลังจะสิ้นลมหายใจเฮือกสุดท้าย
+�
+$KEY:CL080_008_190_037.storylineTitle弥留的贵妃2彌留之際的貴妃BThe Dying Lady of PredilectionR今際の貴妃b임종을 맞은 귀비�Eกุ้ยเฟยผู้กำลังจะสิ้นลม
+�
+KEY:CL080_008_190_037.title此时你选择2此時你選擇BWhat’s your call?Rこの時、あなたは……b이 상황에서...�.ท่านจะทำอย่างไร?
+�
+"KEY:CL080_008_190_037.choiceText+0转身离开2轉身離去B
+Turn away.R踵を返すb돌아서서 떠난다�หันหน้าหนี
+�
+"KEY:CL080_008_190_037.choiceText+1扎她的心2扎她的心BHit her sore spot.R!さらにその心を打ち砕くb'그녀의 마음에 비수를 꽂는다�!พูดแทงใจนาง
+�
+$KEY:008_190_C080A_038.storylineTitle你转身离开2你轉身離去BYou walk away.R背を向けた去るb돌아서서 떠나는 당신�'ท่านเดินจากไป
+�
+$KEY:008_190_C080B_039.storylineTitle你杀⼈诛⼼2你殺人誅心BYou deal her a finishing blow.R心をも打ち砕くb!마음에 비수를 꽂는 당신�Wท่านจัดการนางเป็นครั้งสุดท้าย
+�
+KEY:008_220_040.storylineTitle站在高台上面对内心2站在高台上面對內心B$Standing up high, you face yourself.R!高台にて、心と向き合うb'높이 올라서서 마주하는 내면�^ยืนให้สูงขึ้น เผชิญหน้ากับตัวเอง
+�
+$KEY:CL090_008_220_041.storylineTitle想登上高位吗？2想登上高位嗎？B!Are You Gunning for the Top Spot?R頂に立ちたいのか？b%높은 자리에 오르고 싶은가?��ท่านกำลังมุ่งเป้าไปที่ตำแหน่งสูงสุดใช่หรือไม่?
+�
+KEY:CL090_008_220_041.title9你想代替韦贵妃，或是杨淑妃登上高位吗？26你想代替韋貴妃或楊淑妃，登上高位嗎？BYDo you want to step into Lady Wei of Predilection’s or Lady Yang of Kindness’s shoes?R<韋貴妃と楊淑妃の代わりに、高位を狙うか？bM위귀비 혹은 양숙비를 대신하여 그 자리에 오르고 싶은가?��ท่านต้องการเป็นอย่างเว่ยกุ้ยเฟยหรือหยางซูเฟย?
+�
+"KEY:CL090_008_220_041.choiceText+0想2想BI do.R望むb오르고 싶다�Lใช่แล้ว ข้าต้องการเช่นนั้น
+�
+"KEY:CL090_008_220_041.choiceText+1不想2不想BNot my thing.R興味はないb	아니다�?ข้าไม่ต้องการเช่นนั้น
+�
+$KEY:008_220_C090A_042.storylineTitle!我不仅想成为第⼆个她们2!我不僅想成為第二個她們B"I’m not just gonna replace them.R-彼女たちのようにはなりたくないb(그들처럼 되고 싶은 게 아니다�Tข้าจะไม่เพียงแค่แทนที่พวกนาง
+�
+$KEY:008_220_C090B_043.storylineTitle'我会⾛出只属于⾃⼰的⼀条路2$我會走出屬於自己的一條路B&I’m making a road that’s all mine.R私だけの道を行くb나만의 길을 갈 것이다��ข้ากำลังสร้างหนทางที่ทุกอย่างจะเป็นของข้าทั้งหมด
+�
+$KEY:CL110_008_220_047.storylineTitle怕更强大对手吗？2怕更強大的對手嗎？BFearing Bigger Baddies?R強い相手が、怖いか？b%더 강력한 상대가 두려운가?�mหวาดกลัววายร้ายที่ใหญ่กว่านี้หรือไม่?
+�
+KEY:CL110_008_220_047.titleK若接下来的路，你会遇到更加强大的对手，你会退缩吗？2K若未來的路上，你會遭遇更加強大的對手，你會退縮嗎？B:If tougher enemies pop up down the line, you gonna flinch?RBこの先、強き者が立ち塞がるとき、あなたは……bE앞으로의 길에서 더 강력한 상대를 만나게 된다면...��หากมีศัตรูที่แข็งแกร่งกว่าโผล่ขึ้นมาข้างหน้า ท่านจะหวั่นหรือไม่?
+�
+"KEY:CL110_008_220_047.choiceText+0会2會BMaybe a little.R身を引くb한 걸음 물러선다�'อาจจะนิดหน่อย
+�
+"KEY:CL110_008_220_047.choiceText+1不会2不會BNot a chance.R立ち向かうb물러서지 않는다�ไม่มีทาง
+�
+$KEY:008_220_C110A_048.storylineTitle!适时的退缩也是⼀种勇⽓2適時退縮也是一種勇氣B+Sometimes backing off’s the bravest move.R!時に退くも、また勇なりbB때로는 한 걸음 물러서는 것도 용기에서 비롯된다��บางครั้งการถอยกลับคือ การเคลื่อนไหวที่กล้าหาญที่สุด
+�
+$KEY:008_220_C110B_049.storylineTitle不会退缩2不會退縮BI will not back down.R勇往邁進b물러서지 않는다�?ข้าจะไม่ยอมถอยเด็ดขาด
+�
+$KEY:CL120_008_220_050.storylineTitle会伤害身边人吗？2會傷害身邊的人嗎？BScrew Over Your Loved Ones?R!身近な者を傷つけるか？b/가까운 사람에게 상처를 줄 것인가?�Rจะทำร้ายคนที่ท่านรักหรือไม่?
+�
+KEY:CL120_008_220_050.titleH如果有必要，你会为了前行而伤害你身边亲近之人吗？2E若有必要，你會為了前行而傷害你身邊親近之人嗎？BWIf push comes to shove, would you hurt the people you’re tight with to keep climbing?R0大切な人さえ、傷つける覚悟は……b7앞으로 나아가기 위해 가까운 사람에게...��หากถึงยามคับขัน ท่านจะทำร้ายคนที่อยู่ใกล้ชิดท่านเพื่อให้ไต่เต้าต่อไปหรือไม่?
+�
+"KEY:CL120_008_220_050.choiceText+0会2會BIf it’s gotta happen, yeah.Rできているb상처를 줄 수 있다�Oหากมันจะต้องเกิด ก็ต้องเกิด
+�
+"KEY:CL120_008_220_050.choiceText+1不会2不會BNo way.Rないb!상처를 주지 않을 것이다�$ไม่มีทางหรอก
+�
+$KEY:008_220_C120A_051.storylineTitle$亲近之⼈也可为我前⾏铺路2$親近之人也可為我前行鋪路B)Even my closest one can help pave my way.R親しき者すら礎とするbF나아갈 길에서 가까운 사람들을 디딤돌로 쓸 수 있다��แม้แต่คนที่ใกล้ชิดที่สุดก็ยังช่วยปูทางให้ข้าได้
+�
+$KEY:008_220_C120B_052.storylineTitle!我不愿伤害任何亲近之⼈2!我不願傷害任何親近之人B&I’m not hurting anyone I care about.R$誰ひとり、傷つけたくないb.가까운 사람들을 해치고 싶지 않다�Nข้าไม่ทำร้ายคนที่ข้าห่วงใย
+�
+$KEY:CL100_008_220_044.storylineTitle后悔过吗？2後悔過嗎？BGot Any Regrets?R後悔したことはない？b후회한 적이 있는가?�4เสียใจบ้างหรือไม่?
+�
+KEY:CL100_008_220_044.title9一路走来，你曾后悔过自己做出的抉择吗？29一路走來，你曾後悔過自己做出的選擇嗎？B4Looking back, are you questioning any of your moves?R$今までしてきた選択に……b'자신이 내린 선택에 있어서...��เมื่อมองย้อนกลับไป ท่านลังเลที่จะเคลื่อนไหวใดๆ อยู่หรือไม่?
+�
+"KEY:CL100_008_220_044.choiceText+0	后悔过2	後悔過BYeah, a few.R悔いたことがあるb후회한 적 있다�ใช่ มีบ้าง
+�
+"KEY:CL100_008_220_044.choiceText+1不曾后悔2不曾後悔BNot a single one.R悔いてなどいないb후회하지 않는다�ไม่สักนิด
+�
+$KEY:008_220_C100A_045.storylineTitle⼀路⾛来万千阻碍2一路走來萬千阻礙BRoad Full of HurdlesR 幾千の壁を越えし歩み  b$그동안 마주한 수많은 고난�Bหนทางเต็มไปด้วยอุปสรรค
+�
+$KEY:008_220_C100B_046.storylineTitle不会后悔2不會後悔BZero RegretsR決して悔いはしないb후회하지 않는다�$ไม่เสียใจเลย
+�
+KEY:008_220_053.storylineTitle你同时面对李泰李治2你同時面對李泰與李治B You face both Li Tai and Li Zhi.R!李泰と李治、二人を前にb.이태와 이치를 동시에 마주한 당신�rท่านต้องเผชิญกับทั้งหลี่ไท่กับหลี่จื้อ
+�
+KEY:18.title前往【第十七集】2前往【第十七集】BHead to Chapter 17R『第17章』へb[제17장]으로 이동하기�ไปยังบท 17
+�
+KEY:18.textQ赏花宴，生死冢。在生与死之间，你的命运早已发生了巨变。2N賞花宴，生死冢。在生與死之間，你的命運早已發生巨變。BjA Floral Assembly that’s a graveyard in disguise. Between life and death, your fate’s already flipped.Ru賞花の宴、生死の塚――生と死の狭間で、あなたの運命はすでに大きく揺らいでいた。bS생사의 갈림길에서 당신의 운명은 이미 거대한 변화를 겪었다.��งานเลี้ยงชมดอกไม้ แท้จริงแล้วเป็นสุสาน ระหว่างชีวิตและความตาย ชะตากรรมของท่านพลิกผันไปแล้ว
+�
+#KEY:Q061_008_160_055.storylineTitle杨淑妃的挣扎2楊淑妃的掙扎B$Lady Yang of Kindness’s Last StandR楊淑妃の葛藤b양숙비의 고군분투�cการต่อสู้ครั้งสุดท้ายของหยางซูเฟย
+
+KEY:Q061_008_160_055.title
+�
+KEY:Q061_008_160_055.hint连续点击屏幕2連續點擊螢幕觸發事件BPress Fast to ProceedR3画面を連打してイベントを発生させるb-화면을 연타하여 이벤트 발동하기�<แตะเพื่อดำเนินการต่อ
+k
+KEY:Q061_008_160_055.text连续点击2連續點擊B
+Press FastR連打b연타�แตะซ้ำๆ
+&
+$KEY:008_160_Q061A_056.storylineTitle
+�
+KEY:BE_100008.title握不住的手2握不住的手BSlipping AwayR掴めぬ手b잡을 수 없는 손�หลุดลอยไป
+�
+KEY:BE_100008.text?握不住姨母的手，就只能握住黑白无常的手了。2?握不住姨母的手，就只能握住黑白無常的手了。BTIf you can’t grab your aunt’s hand, you’re shaking hands with the grim reaper.Rcおばさまの手を掴めなければ、この手で三途の川の水をすくうしかない。bU이모의 손을 잡을 수 없다면 저승사자의 손을 잡을 수밖에 없다.��หากท่านไม่สามารถจับมือป้าของท่านได้ ท่านก็เหมือนกำลังจับมือกับยมทูตอยู่
+&
+$KEY:008_160_Q061B_029.storylineTitle
+u
+KEY:17.title第十五集 完2第十五集 完BChapter 15  EndsR第15章　了b제15장 끝�บท 15 จบ
+�
+KEY:17.text姨母磨刀中2姨母磨刀中B,Your aunt’s out here sharpening her blade.R!おばさま、刃を潜ませるb칼을 갈고 있는 이모�Kป้าของท่านกำลังลับมีดอยู่
+�
+KEY:008_090_057.storylineTitle姨母的赏花宴2姨母的賞花宴BAunt’s Floral AssemblyRおばさま、花の宴b이모의 상화연�Zงานเลี้ยงมาลาฆาตกรรมของท่านป้า

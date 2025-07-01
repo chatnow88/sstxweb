@@ -1,0 +1,255 @@
+
+�
+KEY:003_010_001.storylineTitle父子球局2父子球局BFather and Son GameR父子の投球遊びb부자간의 공놀이�เกมพ่อลูก
+�
+$KEY:CL070_003_100_032.storylineTitle被派去咸池殿2被派去咸池殿BSent to Xianchi PalaceR'咸池殿への配属を命じられたb함지전에 파견된 당신�Hส่งไปที่ห้องโถงเซี๋ยนฉือ
+�
+KEY:CL070_003_100_032.titleK你被派去一个陌生的殿宇——咸池殿侍奉，你的想法是：2K你被派去一處陌生的殿宇——咸池殿侍奉，你的想法是：BTYou're assigned to serve in a place you've never even heard of. Your thoughts swirl:RQ見知らぬ咸池殿での奉仕を命じられた。あなたの考えは……bC낯선 함지전에 파견된 상황에 대한 당신의 생각은?��ท่านได้รับมอบหมายให้ไปรับใช้ในสถานที่ที่ท่านไม่เคยได้ยินชื่อมาก่อน ความคิดของท่านยังคงวนเวียนอยู่:
+�
+"KEY:CL070_003_100_032.choiceText+0或许能遇到贵人2或許能遇到貴人B4Maybe I'll meet someone powerful who can lift me up.R<もしかすると、貴人と出会えるかもしれないb.귀인을 만날 수도 있다고 생각한다��บางทีข้าอาจจะได้พบกับใครสักคนที่มีอำนาจพอที่จะช่วยให้ข้าขึ้นมาได้
+�
+"KEY:CL070_003_100_032.choiceText+1去哪儿卖命不是卖2去哪兒賣命不是賣BCWhat's the difference? I'm just slaving away wherever they send me.R0どこで働こうが、結局は使われる身b>어디서 일하든 똑같이 고될 것이라고 생각한다��มันต่างกันตรงไหน? ข้าแค่ต้องทำงานหนักไม่ว่าจะอยู่ที่ไหนก็ตาม
+�
+"KEY:CL070_003_100_032.choiceText+2不接受调岗2不接受調崗B#No way, I'm not going to that hall.R異動を拒むb.절대 받아들일 수 없다고 생각한다�Xไม่มีทาง ข้าจะไม่ไปที่ห้องนั้น
+�
+$KEY:CL010_003_040_004.storylineTitle贵妃的逮捕令2貴妃的逮捕令B%Lady of Predilection's Arrest WarrantR貴妃からの逮捕命令b귀비의 체포령�3หมายจับของกุ้ยเฟย
+�
+KEY:CL010_003_040_004.title3此时你就要被贵妃的人带走，你打算？26此時你將被貴妃派來的人帶走，你打算？BOLady of Predilection's guards show up with an arrest warrant. What's your move?RK貴妃の配下に連行されそうになっている。あなたは……bN귀비의 사람들이 당신을 끌고 가려 하는데, 당신의 선택은?��ทหารของกุ้ยเฟยปรากฏตัวพร้อมหมายจับ ท่านจะทำอย่างไร?
+�
+"KEY:CL010_003_040_004.choiceText+0顺从他们2順從他們BGo along quietly.Rおとなしく従うb순순히 따라간다�9ไปด้วยโดยไม่พูดอะไร
+�
+"KEY:CL010_003_040_004.choiceText+1逃去找姨母2逃去找姨母B&Make a break for your aunt's quarters.R!おばさまのもとへ逃げるb도망쳐 이모에게 간다�Eแวะพักที่ห้องป้าของท่าน
+�
+"KEY:CL010_003_040_004.choiceText+2你们有证据吗？！2你們有證據嗎？！BYou got any proof for this?R!証拠はあるんですか！？b증거가 있는지 묻는다�jท่านมีหลักฐานสำหรับเรื่องนี้หรือไม่?
+&
+$KEY:003_040_C010A_005.storylineTitle
+&
+$KEY:003_040_C010B_006.storylineTitle
+ 
+KEY:003_040_007.storylineTitle
+�
+#KEY:Q011_003_050_009.storylineTitle蚊子的骚扰2蚊子的騷擾BMosquito TroubleR煩わしい蚊b성가신 모기�!ปัญหาของยุง
+
+KEY:Q011_003_050_009.title
+
+KEY:Q011_003_050_009.hint
+^
+KEY:Q011_003_050_009.text拍打2拍打B	Smack it.R叩くb때려잡기�ตบมัน
+�
+$KEY:CL020_003_070_021.storylineTitle公主的好奇2公主的好奇BThe Princess's QuestionR公主の好奇心b공주의 호기심�0คำถามขององค์หญิง
+�
+KEY:CL020_003_070_021.title'这东西啊，吃了之后可以……2'這東西啊，吃了之後可以……BEat it and...R!これはね、食べると……b이걸 먹으면...�$เสวยเลยเพคะ...
+�
+"KEY:CL020_003_070_021.choiceText+0可以长生不老2可以長生不老B It could keep you young forever.R不老不死になれますよb$불로장생할 수 있다고 한다�`มันจะทำให้ท่านดูอ่อนเยาว์ตลอดกาล
+�
+"KEY:CL020_003_070_021.choiceText+1!可以让公主变得更加美貌2!可以讓公主變得更加嬌美B+It'd make you even prettier, Your Highness.R6公主さまを、さらに美しくするのですよb(더 아름다워질 수 있다고 한다�มันจะทำให้ท่านสวยยิ่งขึ้นไปอีกนะเพคะ ฝ่าบาท
+�
+"KEY:CL020_003_070_021.choiceText+2$可以令你的心上人钟情于你2$可以令你的心上人鍾情於你B+It might make your crush fall hard for you.R6想い人の心を射止めることができますよb9연모하는 이의 사랑을 얻을 수 있다고 한다�lมันอาจทำให้คนที่ท่านชอบตกหลุมรักท่าน
+*
+(KEY:B06_003_070_C020A_022.storylineTitle
+&
+$KEY:003_070_C020C_029.storylineTitle
++
+)KEY:BE06_003_070_C020B_026.storylineTitle
+�
+$KEY:QL001_003_020_002.storylineTitle捡起李治的球2撿起李治的球BPick Up Li Zhi's BallR李治の投げた球を拾うb이치의 공을 줍다�?หยิบลูกบอลของหลี่จื้อ
+
+KEY:QL001_003_020_002.title
+
+KEY:QL001_003_020_002.hint
+o
+KEY:QL001_003_020_002.text捡起2撿起BPick UpR拾うb줍기�'หยิบมันขึ้นมา
+ 
+KEY:003_020_003.storylineTitle
+�
+#KEY:Q012_003_050_012.storylineTitle蚊子的骚扰2蚊子的騷擾BMosquito TroubleR煩わしい蚊b성가신 모기�!ปัญหาของยุง
+
+KEY:Q012_003_050_012.title
+
+KEY:Q012_003_050_012.hint
+^
+KEY:Q012_003_050_012.text拍打2拍打B	Smack it.R叩くb때려잡기�ตบมัน
+ 
+KEY:003_050_014.storylineTitle
+�
+$KEY:CL014_003_050_015.storylineTitle陌生宫女的善意2陌生宮女的善意BA Strange Chamberlain's OfferR見知らぬ宮女の善意b낯선 궁녀의 호의�Bข้อเสนอประหลาดของขันที
+�
+KEY:CL014_003_050_015.title是否试一试天泉丸？2是否試一試天泉丸？B)Would you like to try this Tianquan Pill?R!天泉丸、試してみるか？b&천천환을 드셔보시겠습니까?�[ท่านอยากลองยาเทียนเฉวียนนี้ไหม?
+�
+"KEY:CL014_003_050_015.choiceText+0休要害我2休要害我B$Nice try, but you're not fooling me.R$私を害するつもりでしょうb'나쁜 의도가 있는지 의심한다�dพยายามได้ดีนะ แต่หลอกข้าไม่ได้หรอก
+�
+"KEY:CL014_003_050_015.choiceText+1试试就试试2試試就試試BAlright, I'll try it.R上等よ、試してやるb한번 먹어본다�+โอเค ข้าจะลองดู
+�
+KEY:BE_50001.title创伤后的失落2創傷後的失落BTraumatizedR傷のあとの喪失感b정신적 후유증�?กระทบกระเทือนทางจิตใจ
+�
+KEY:BE_50001.textx不知从何时起，你变得不敢再信任何人，不敢接受任何善意。甚至是关键时刻的雪中送炭。2{不知從何時起，你變得不敢再相信任何人，不敢接受任何善意。甚至是關鍵時刻的雪中送炭。B�Somewhere along the line, you stopped trusting people. Kindness feels like a trap now, even when it's offered just when you need it most.R�いつからか、誰も信じられなくなった。善意すらも――たとえ、それが窮地に差し伸べられた救いの手だとしても。b�언제부터인가 당신은 누구도 믿지 못하게 되었다. 심지어 위기의 순간 건네진 도움의 손길까지도...��ในช่วงเวลาหนึ่ง ท่านหยุดไว้วางใจผู้อื่น ความใจดีรู้สึกเหมือนเป็นกับดัก แม้ว่ามันจะหยิบยื่นให้ในเวลาที่ท่านต้องการมากที่สุดก็ตาม
+&
+$KEY:003_050_C014A_017.storylineTitle
+&
+$KEY:003_050_Q011A_010.storylineTitle
+&
+$KEY:003_050_Q011B_011.storylineTitle
+&
+$KEY:003_005_Q012B_013.storylineTitle
+&
+$KEY:003_050_Q011A_049.storylineTitle
+ 
+KEY:003_100_031.storylineTitle
+ 
+KEY:003_050_008.storylineTitle
+*
+(KEY:B04_003_050_C014A_016.storylineTitle
+�
+$KEY:CL060_003_050_018.storylineTitle先皇后的猫2先皇后的貓BThe Late Empress's CatR先皇后の猫b장손황후의 고양이�Bแมวของฮองเฮาผู้ล่วงลับ
+�
+KEY:CL060_003_050_018.title0这只猫好眼熟啊，好像是先皇后养的20這隻貓好眼熟啊，好像是先皇后養的B^A cat slips by, its eyes so familiar. It's got to be the one the late Empress used to dote on.R]この猫、どこかで見たような……たしか先皇后が飼っていた猫では？bY어딘가 익숙한 고양이, 아마도 장손황후께서 기르시던 것 같은데...��แมวตัวหนึ่งเดินผ่านมาด้วยดวงตาที่คุ้นเคย มันต้องเป็นแมวตัวเดียวกับที่ฮองเฮาผู้ล่วงลับเคยหลงใหลอย่างแน่นอน
+�
+"KEY:CL060_003_050_018.choiceText+0引小猫过来2吸引小貓過來BCall it over.R子猫をおびき寄せるb고양이를 불러본다�มันจบแล้ว
+�
+"KEY:CL060_003_050_018.choiceText+1	由它去2	隨牠去B
+Let it go.Rそのままにしておくb그냥 내버려둔다�ปล่อยมันไป
+&
+$KEY:003_050_C060A_019.storylineTitle
+*
+(KEY:B05_003_050_C060B_020.storylineTitle
+o
+KEY:BE_50002.title替罪2替罪B	ScapegoatR身代わりの末路b	희생양�แพะรับบาป
+�
+KEY:BE_50002.textZ故事的最后，你成为了韦贵妃和杨淑妃这对纯恨姐妹互刀的牺牲品。2K故事的最後，你成了韋貴妃與楊淑妃互相攻訐的犧牲品。B�You end up as collateral damage in the vicious feud between Lady Wei of Predilection and Lady Yang of Kindness, their hatred turning you into their scapegoat.R{物語の結末、あなたは韋貴妃と楊淑妃――この憎しみに満ちた姉妹の争いの犠牲となった。bg끝내 당신은 증오로 얽힌 위귀비와 양숙비의 사이에서 희생양이 되고 말았다.��ท่านกลายเป็นผู้รับเคราะห์ในศึกที่โหดร้ายระหว่างเว่ยกุ้ยเฟยกับหยางซูเฟย ซึ่งความเกลียดชังของพวกเขาทำให้ท่านกลายเป็นแพะรับบาปของพวกเขา
+�
+KEY:BE_50004.title公主貌美如花2公主貌美如花BThe Princess, Stunning as EverR花のように美しき公主b꽃처럼 아름다운 공주�Eเจ้าหญิงผู้งดงามเช่นเคย
+�
+KEY:BE_50004.text?重生之如何做一个标题党吸引公主，为我驻足？2<重生之如何做個標題黨吸引公主，為我駐足？B@How do I grab the Princess's attention and make her stop for me?RW転生したけど見出し詐欺で公主の目を引くにはどうすればいい？bC공주의 관심을 끌 수 있는 환생 이야기의 제목은...��ข้าจะเปลี่ยนแปลงตัวเองเพื่อดึงดูดความสนใจของเจ้าหญิง และทำให้นางหยุดเพื่อข้าได้อย่างไร?
+�
+KEY:BE_50003.title不再回头的公主2不再回頭的公主B!The Princess Who Never Looks BackR振り返らぬ公主b뒤돌아보지 않는 공주�Tเจ้าหญิงผู้ไม่เคยหันหลังกลับ
+�
+KEY:BE_50003.text?重生之如何做一个标题党吸引公主，为我驻足？2<重生之如何做個標題黨吸引公主，為我駐足？B@How do I grab the Princess's attention and make her stop for me?RW転生したけど見出し詐欺で公主の目を引くにはどうすればいい？bC공주의 관심을 끌 수 있는 환생 이야기의 제목은...��ข้าจะเปลี่ยนแปลงตัวเองเพื่อดึงดูดความสนใจของเจ้าหญิง และทำให้นางหยุดเพื่อข้าได้อย่างไร?
+&
+$KEY:003_100_C070A_033.storylineTitle
+&
+$KEY:003_100_C070B_034.storylineTitle
+&
+$KEY:003_100_C070C_035.storylineTitle
+ 
+KEY:003_100_036.storylineTitle
+ 
+KEY:003_110_037.storylineTitle
+�
+$KEY:CL030_003_120_038.storylineTitle失控的疯子2失控的瘋子BThe Crazed LookalikeR手のつけられない狂女b통제 불능의 미치광이�<หน้าตาที่เหมือนคนบ้า
+�
+KEY:CL030_003_120_038.titleZ眼前这个人除了眼角的泪痣，和姨母长得一模一样，你要如何自救？2W眼前這人除了眼角的淚痣，長得和姨母一模一樣，你該如何自救？BnA woman who looks just like your aunt, except for a tear-shaped mole near her eye. How do you get out of this?RQ涙ぼくろ以外、あのおばさまと瓜二つの人に、あなたは……bO눈앞의 이 사람... 눈물점만 빼면 이모와 똑같이 생겼는데...��ผู้หญิงที่หน้าตาเหมือนป้าของท่านทุกประการ ยกเว้นไฝที่มีรูปร่างคล้ายน้ำตาบริเวณใกล้ดวงตา ท่านจะเอาตัวรอดจากเรื่องนี้ได้อย่างไร?
+�
+"KEY:CL030_003_120_038.choiceText+0!姨母，你是我的姨母吗？2!姨母，妳是我的姨母嗎？BAunt, is that really you?R0「おばさま……ですよね？」と聞くb이모가 맞는지 묻는다�Tท่านป้า นั่นใช่ท่านจริงๆ หรือ?
+�
+"KEY:CL030_003_120_038.choiceText+1杨淑妃就是个贱婢2楊淑妃就是個賤婢B+Lady Yang of Kindness's just a lowly wench.R?「楊淑妃なんて、賤婢にすぎないのよ」と叱るb)양숙비는 비첩이라고 얘기한다�Wหยางซูเฟยเป็นเพียงนางบ่าวทราม
+&
+$KEY:003_120_C030A_040.storylineTitle
+*
+(KEY:B01_003_120_C030B_039.storylineTitle
+�
+KEY:BE_50005.title鬼面姨母2鬼面姨母BDeranged AuntR鬼面のおばさまb정신 나간 이모�Bท่านป้าผู้เพี้ยนไปแล้ว
+�
+KEY:BE_50005.text-该如何叫醒一个疯子？在线急求！2-該如何叫醒一個瘋子？急需解答！B;How do you wake someone lost in madness? Need answers fast!RTどうすれば狂った人を目覚めさせられるの！？至急回答求む！bO이성을 잃은 사람을 정신 차리게 할 수 있는 방법이 있을까?��จะปลุกคนที่กำลังคลั่งให้ตื่นได้อย่างไร? ต้องการคำตอบเดี๋ยวนี้!
+�
+$KEY:CL040_003_120_041.storylineTitle疯姨母的提问2瘋姨母的提問BMad Aunt's QuestionR狂女おばさまの質問b정신 나간 이모의 질문�Nคำถามของท่านป้าผู้บ้าคลั่ง
+�
+KEY:CL040_003_120_041.title0为什么姨母要折磨前来侍奉她的人？2-為何姨母要折磨前來伺候她的人？B#Why does Aunt torment her servants?RHなぜ、おばさまは自分に仕える者を痛めつけるのか？b7이모가 시중드는 사람들을 괴롭히는 건...�dทำไมท่านป้าถึงทรมานคนรับใช้ของนาง?
+�
+"KEY:CL040_003_120_041.choiceText+0为了泄愤2為了洩憤BJust out of spite.R憂さ晴らしのためb분풀이를 위해서�Eเพียงเพราะความเคียดแค้น
+�
+"KEY:CL040_003_120_041.choiceText+1为了激怒杨淑妃2為了激怒楊淑妃B!To provoke Lady Yang of Kindness.R楊淑妃を挑発するためb#양숙비를 자극하기 위해서�<เพื่อยุแหย่หยางซูเฟย
+*
+(KEY:B02_003_120_C040A_042.storylineTitle
+�
+KEY:BE_50006.title姨母的祝福2姨母的祝福BAunt's BlessingRおばさまの祝福b이모의 축복�$พรของท่านป้า
+�
+KEY:BE_50006.text*服了，姨母，一个更比一个疯。2'服了，姨母，一個比一個瘋。BGI can't believe this. Aunt makes it feel like madness piled on madness.RQホント参った。おばさまたち、揃いも揃って正気じゃない。bA기가 막히네요, 이모. 다들 미쳐돌아가고 있어요.��ข้าไม่อยากเชื่อเลย ป้าทำให้รู้สึกเหมือนเป็นบ้าเป็นหลัง
+&
+$KEY:003_120_C040B_043.storylineTitle
+�
+$KEY:QL041_003_120_044.storylineTitle安慰小杨妃2安慰小楊妃BComforting Lady Yang JuniorR小楊妃を慰めるb작은 양비 위로하기�9ปลอมใจเซี่ยวหยางเฟย
+
+KEY:QL041_003_120_044.title
+
+KEY:QL041_003_120_044.hint
+�
+KEY:QL041_003_120_044.text上前安慰2上前安慰BComfortRそっと近づいて慰めるb다가가 위로하기�!ไปปลอบใจนาง
+ 
+KEY:003_120_045.storylineTitle
+�
+$KEY:CL050_003_140_046.storylineTitle小姨母的承诺2小姨母的承諾BLittle Aunt's OfferRおばさまの約束b작은 이모의 약속�'ข้อเสนอของป้า
+�
+KEY:CL050_003_140_046.title6你需要帮助，可以随时来找我，你回去吧26你需要幫助，隨時可以來找我，你回去吧B(If you need me, I'm here. Now get going.RZ困ったときは、いつでもあたしのところに来て。もう戻っていいよbT도움이 필요하면 언제든 나를 찾아오렴. 그럼 이만 돌아가거라.�}ถ้าท่านต้องการข้า ข้าจะอยู่ที่นี่ รีบไปเถอะ
+t
+"KEY:CL050_003_140_046.choiceText+0	留下来2	留下來BStick around.R残るb	남는다�อยู่ต่อ
+{
+"KEY:CL050_003_140_046.choiceText+1离开2離開BLeave for now.R立ち去るb	떠난다�ออกไปก่อน
+&
+$KEY:003_014_C050A_048.storylineTitle
+*
+(KEY:B03_003_140_C050B_047.storylineTitle
+�
+KEY:BE_50007.title姨母的疑心2姨母的疑心BAunt's SuspicionRおばさまの疑念b이모의 의심�-ความสงสัยของป้า
+�
+KEY:BE_50007.textK如何叫醒装疯的人，如何骗过清醒的人，便是关键所在。2K如何叫醒裝瘋的人，如何騙過清醒的人，便是關鍵所在。BwThe trick is figuring out how to wake someone pretending to be crazy while fooling the ones who see everything clearly.Ruいかに狂気を装う者の素を引き出すか、いかに正気の者を欺くか――鍵はそこにある。bZ미친 척하는 사람을 깨우고 제정신인 사람을 속이는 것이 관건이다.��เคล็ดลับคือ คิดหาวิธีปลุกคนที่แกล้งเป็นบ้าพร้อมหลอกคนที่รู้เห็นทุกอย่าง
+�
+KEY:8.title前往【第七集】2前往【第七集】BHead to Chapter 7R『第7章』へb[제7장]으로 이동하기�ไปยังบท 7
+�
+
+KEY:8.textZ去叫醒装疯的人，骗过清醒的人。在疯和清醒间，你能否走到最后？2]去叫醒裝瘋的人，騙過清醒的人。在瘋與清醒之間，你能否走到最後？B�Your next move is to rouse the one faking madness and outwit the sharp-eyed. Can you walk the tightrope between crazy and cunning to come out ahead?R�いかに狂気を装う者の素を引き出すか、いかに正気の者を欺くか。狂気と正気の狭間を、あなたは最後まで歩き抜けることができるのか。b�미친 척하는 사람을 깨우고 제정신인 사람을 속여야 한다. 그 속에서 과연 마지막까지 살아남을 수 있을까?��การเคลื่อนไหวครั้งต่อไปของท่านคือ ปลุกคนบ้าที่แกล้งทำเป็นบ้า และหลอกคนสายตาแหลมคม ท่านจะเดินบนเส้นด้ายระหว่างความบ้าและไหวพริบเพื่อเอาชนะได้หรือไม่?
+�
+$KEY:QL013_003_050_051.storylineTitle蚊子的骚扰2蚊子的騷擾BMosquito TroubleR煩わしい蚊b성가신 모기�!ปัญหาของยุง
+
+KEY:QL013_003_050_051.title
+
+KEY:QL013_003_050_051.hint
+[
+KEY:QL013_003_050_051.text拍打2拍打BSmackR叩くb때려잡기�ตบมัน
+ 
+KEY:003_050_052.storylineTitle
+�
+$KEY:CL002_002_020_053.storylineTitle是否题字2是否題字BPoem as ApprovalR題字の有無b글귀의 유무�6บทกวีคือการอนุมัติ
+�
+KEY:CL002_002_020_053.title0武才人，父皇可有为我那幅画提字？20武才人，父皇可有為我那幅畫提字？B7Cairen Wu, did Father write a poem for my painting yet?RT武才人、父上は私の絵に題字を入れてくださったでしょうか？bC무재인, 부황께서 내 그림에 글귀를 적어주셨는가?��อู่ไฉเหริน พ่อเขียนบทกวีให้กับภาพวาดของข้าแล้วหรือยัง?
+�
+"KEY:CL002_002_020_053.choiceText+0陛下或许在斟酌2陛下或許還在斟酌B-His Majesty's probably still mulling it over.R!陛下は、いま思案中かとb+폐하께서 숙고 중이신 듯합니다.�Zฝ่าบาทคงยังทรงคิดเรื่องนี้อยู่
+�
+"KEY:CL002_002_020_053.choiceText+1还……真没有2還……真沒有B!Honestly, he hasn't gotten to it.R-……何も書かれていませんでしたb...아무것도 없습니다.�Oจริงๆ แล้วเขาไม่ได้เริ่มเลย
+�
+"KEY:CL002_002_020_053.choiceText+2殿下可否送一幅画给我2殿下可否送一幅畫給我B2Your Highness, could I have one of your paintings?R<殿下、私にも一幅、絵をいただけませんか？bF전하, 제게 그림 한 폭을 하사해 주실 수 있겠습니까?��ฝ่าบาท ข้าขอภาพวาดของท่านสักหนึ่งภาพได้ไหมเพคะ?
+&
+$KEY:003_020_C002A_054.storylineTitle
+6
+,KEY:003_020_C002A_054.toastParameterText_0+0李治
+9
+,KEY:003_020_C002A_054.toastParameterText_1+0	好感度
+&
+$KEY:003_020_C002B_055.storylineTitle
+&
+$KEY:003_020_C002C_056.storylineTitle
+6
+,KEY:003_020_C002C_056.toastParameterText_0+0李治
+9
+,KEY:003_020_C002C_056.toastParameterText_1+0	好感度
+ 
+KEY:003_030_057.storylineTitle
+�
+$KEY:CL003_002_040_058.storylineTitle贤妃暴毙的想法2賢妃暴斃的想法BLady of Elegance's Sudden DeathR賢妃急逝への考えb!현비의 죽음에 대한 의견�Zการตายอย่างกะทันหันของเสียนเฟย
+�
+KEY:CL003_002_040_058.title-贤妃暴毙，此时你的内心想法是？2-賢妃暴斃，此時你的內心想法是？BNLady of Elegance drops dead out of the blue. What's running through your head?R<賢妃が急逝した今、あなたが思ったのは……b,현비가 급사하자, 당신의 생각은?��เสียนเฟยเสียชีวิตแบบไม่ทันตั้งตัว ท่านกำลังคิดอะไรอยู่?
+�
+"KEY:CL003_002_040_058.choiceText+0姨母果然手段了得2姨母果然手段了得B!My aunt actually pulled this off.R3おばさま、さすがに抜け目がない……b*이모의 솜씨는 정말 대단하구나�Bป้าของข้าทำสำเร็จจริงๆ
+�
+"KEY:CL003_002_040_058.choiceText+1$贤妃终于能去见她的先夫了2$賢妃終於能去見她的先夫了B1Lady of Elegance's finally with her dead husband.RBこれで賢妃も、ようやく先夫のもとへ行けるわねb<현비가 마침내 사별한 남편을 만날 수 있겠네��เสียนเฟย ในที่สุดนางก็ได้อยู่กับสามีผู้ล่วงลับแล้ว
+�
+"KEY:CL003_002_040_058.choiceText+2阴才人痛失靠山2陰才人痛失靠山B Cairen Yin's lost her patroness.R-陰才人は大切な後ろ盾を失ったねb*음재인이 든든한 뒷배를 잃었군�{หยินไฉเหรินสูญเสียผู้อุปถัมภ์ของนางไปแล้ว
+&
+$KEY:002_040_C003A_059.storylineTitle
+&
+$KEY:002_040_C003B_060.storylineTitle
+&
+$KEY:002_040_C003A_061.storylineTitle
+ 
+KEY:003_040_062.storylineTitle
+&
+$KEY:003_040_C010C_063.storylineTitle

@@ -1,0 +1,268 @@
+
+�
+KEY:007_010_001.storylineTitle冷宫中的贵妃2冷宮中的貴妃BLady in Cold PalaceR冷宮の中の貴妃b냉궁에 있는 귀비�9ผู้หญิงในตำหนักเย็น
+�
+$KEY:CL090_007_050_002.storylineTitle袭心的请求2襲心的請求BXi Xin’s RequestR襲心の願いb습심의 간청�'คำขอของซี๋ซิน
+�
+KEY:CL090_007_050_002.title?韦贵妃已然失势，我想留在主子身边，可以吗？2?韋貴妃已然失勢，我想留在主子身邊，可以嗎？B_With Lady Wei of Predilection down and out, Xi Xin pleads, “Can I stick with you, my lady?”Ro韋貴妃様はすでに失脚しました。どうか彼女のそばに留まることをお許しくださいbb위귀비가 세력을 잃게 된 지금, 당신의 곁에 남고 싶다는 습심의 간청을...��เมื่อเว่ยกุ้ยเฟยหมดหนทาง ซี๋ซินอ้อนวอนว่า "ขอให้ข้าอยู่กับนายท่านได้ไหม”
+n
+"KEY:CL090_007_050_002.choiceText+0答应2答應BApproveR承諾するb승낙한다�อนุญาต
+h
+"KEY:CL090_007_050_002.choiceText+1拒绝2拒絕BDeclineR断るb거절한다�ปฏิเสธ
+*
+(KEY:B01_007_050_C090A_003.storylineTitle
+&
+$KEY:007_050_C090B_004.storylineTitle
+�
+KEY:BE_90001.title姨母培训课失败2姨母培訓課失敗BFlunking Aunt’s LessonsR'おばさまの訓示、活かされずb!실패로 끝난 이모의 교육�'บทเรียนของป้า
+�
+KEY:BE_90001.textf还记得你初入宫时，你的姨母曾告诉你，要有三颗心。而第二颗，便是耐心。2i還記得你初入宮時，你的姨母曾告訴你，要有三顆心。而第二顆心，就是耐心。B�Think back to when you first stepped into the palace. Your aunt drilled “three qualities” into you, and the second was patience.R�後宮に足を踏み入れた日、姨母は言った――生き残るには三つの心得が必要だと。その二つ目が、忍耐強さだった。b�처음 궁에 들어왔을 때, 이모가 당신에게 세 가지 마음가짐이 필요하다고 하셨다. 그중 두 번째는 바로 인내심이었다.��นึกถึงตอนที่ท่านก้าวเข้าไปในวังครั้งแรก ป้าของท่านฝัง "หัวใจสามดวง" ไว้ในตัวท่าน และหัวใจดวงที่สองคือความอดทน
+�
+$KEY:CL010_007_070_005.storylineTitle劝高阳还是劝陛下2勸高陽還是勸陛下BSway Gaoyang or His Majesty?R3高陽を説得するか、陛下を説得するかb8고양공주와 폐하 중 누구를 설득할 것인가�Lโน้มน้าวเกาหยางหรือฝ่าบาท?
+�
+KEY:CL010_007_070_005.title9此时，他们父女二人各执己见，你要劝谁？29此刻，他們父女兩人各執己見，你要勸誰？BaHis Majesty and Princess Gaoyang are butting heads, neither budging. Who do you try to talk down?RWそれぞれの主張を譲らないこの父娘、あなたが説得するのは……b=각자 고집을 부리고 있는 부녀, 이 상황에서...��ฝ่าบาทและองค์หญิงเกาหยางกำลังขัดแย้งกัน ทั้งสองไม่ขยับเขยื้อนเลย ท่านพยายามพูดจาดูถูกใครอยู่?
+�
+"KEY:CL010_007_070_005.choiceText+0	劝高阳2	勸高陽BGaoyangR高陽b고양공주를 설득한다�เกาหยาง
+|
+"KEY:CL010_007_070_005.choiceText+1	劝陛下2	勸陛下BHis MajestyR陛下b폐하를 설득한다�ฝ่าบาท
+&
+$KEY:007_070_C010A_006.storylineTitle
+&
+$KEY:007_070_C010B_011.storylineTitle
+�
+$KEY:CL080_007_070_007.storylineTitle化解赐婚定局2化解賜婚定局BUndoing the Marriage PlanR賜婚の勅命を回避するb혼인령 무효화�9ยกเลิกแผนการแต่งงาน
+�
+KEY:CL080_007_070_007.title9看来陛下心意已决，你该说什么化解局面？2?看來陛下心意已決，你該說些什麼來化解局面？BSHis Majesty’s dead set on this marriage. What do you say to throw a wrench in it?R-局面を覆すために選ぶ言葉は……b'이미 결정을 내리신 폐하께...��ฝ่าบาททรงตั้งปณิธานแน่วแน่ต่อการแต่งงานครั้งนี้ ท่านจะตำหนิเรื่องนี้อย่างไร?
+�
+"KEY:CL080_007_070_007.choiceText+0高阳年纪尚小2高陽年紀尚小B,Princess Gaoyang’s way too young for this.R!高陽公主様はまだお若いb3고양공주는 아직 어리다고 말씀드린다��องค์หญิงเกาหยางยังเด็กเกินไปสำหรับเรื่องนี้
+�
+"KEY:CL080_007_070_007.choiceText+1长孙皇后忌辰将近2長孫皇后的忌辰將近BBThe late Empress Zhangsun’s memorial is right around the corner.R$長孫皇后の命日が近いかとb=장손황후의 기일이 곧 다가온다고 말씀드린다��อนุสรณ์สถานของจ่างซุนฮองเฮาผู้ล่วงลับตั้งอยู่ใกล้ๆ
+�
+$KEY:CL020_007_070_012.storylineTitle暂延婚约的理由2暫緩婚約的理由BStalling the EngagementR$婚約を先延ばしにする口実b혼인을 미루는 이유�0ชะลอการหมั้นหมาย
+�
+KEY:CL020_007_070_012.title'你劝陛下暂延婚约的理由是？2'你勸陛下暫緩婚約的理由是？B+What’s your excuse to delay the marriage?R6婚約を延期するよう進言する理由は……b$혼인을 잠시 미루기 위해...�yท่านมีข้อแก้ตัวอะไรในการเลื่อนการแต่งงาน?
+�
+"KEY:CL020_007_070_012.choiceText+0高阳年纪尚小2高陽年紀尚小B,Princess Gaoyang’s way too young for this.R!高陽公主様はまだお若いb3고양공주는 아직 어리다고 말씀드린다��องค์หญิงเกาหยางยังเด็กเกินไปสำหรับเรื่องนี้
+�
+"KEY:CL020_007_070_012.choiceText+1长孙皇后忌辰将近2長孫皇后的忌辰將近BBThe late Empress Zhangsun’s memorial is right around the corner.R$長孫皇后の命日が近いかとb=장손황후의 기일이 곧 다가온다고 말씀드린다��อนุสรณ์สถานของจ่างซุนฮองเฮาผู้ล่วงลับตั้งอยู่ใกล้ๆ
+&
+$KEY:007_070_C080A_008.storylineTitle
+&
+$KEY:007_070_C080B_010.storylineTitle
+&
+$KEY:007_070_C020B_014.storylineTitle
+&
+$KEY:007_070_C020A_013.storylineTitle
+�
+KEY:BE_90002.title公主的心愿2公主的心願BWhat the Princess WantsR公主の願いb공주의 소망�Bสิ่งที่เจ้าหญิงต้องการ
+�
+KEY:BE_90002.textf公主永远活在了牢笼之中，但你此生的自在安乐，是公主在牢笼之外的心愿。2c公主永遠活在牢籠之中，但你此生的自由安樂，是公主在牢籠之外的心願。BmPrincess Gaoyang’s stuck in a cage for life, but she’s rooting for you to live free and happy outside it.R�公主は牢の中で残りの人生を過ごすことになったが、あなたの自由と安寧こそ、彼女が外に残した最大の願いだった。by평생 갇혀 살았던 공주에게, 당신의 자유롭고 평온한 삶은 그녀가 항상 꿈꿔온 소망이었다.��องค์หญิงเกาหยางติดอยู่ในกรงตลอดชีวิต แต่นางก็คอยเชียร์ให้ท่านมีชีวิตอิสระและมีความสุขนอกกรงนั้น
+�
+KEY:BE_90003.title公主的心愿2公主的心願BWhat the Princess WantsR公主の願いb공주의 소망�Bสิ่งที่เจ้าหญิงต้องการ
+�
+KEY:BE_90003.textf公主永远活在了牢笼之中，但你此生的自在安乐，是公主在牢笼之外的心愿。2c公主永遠活在牢籠之中，但你此生的自由安樂，是公主在牢籠之外的心願。BmPrincess Gaoyang’s stuck in a cage for life, but she’s rooting for you to live free and happy outside it.R�公主は牢の中で残りの人生を過ごすことになったが、あなたの自由と安寧こそ、彼女が外に残した最大の願いだった。by평생 갇혀 살았던 공주에게, 당신의 자유롭고 평온한 삶은 그녀가 항상 꿈꿔온 소망이었다.��องค์หญิงเกาหยางติดอยู่ในกรงตลอดชีวิต แต่นางก็คอยเชียร์ให้ท่านมีชีวิตอิสระและมีความสุขนอกกรงนั้น
+$
+"KEY:B02_007_100_009.storylineTitle
+$
+"KEY:B02_007_100_047.storylineTitle
+ 
+KEY:007_100_015.storylineTitle
+�
+$KEY:CL030_007_130_016.storylineTitle帮皋阳甩开穆内侍2幫高陽甩開穆內侍B!Ditching Attendant Mu for GaoyangR*高陽が穆内侍を撒くのを助けるb-고양공주를 도와 목내관 따돌리기�]การสูญเสียขันทีมู่สำหรับเกาหยาง
+�
+KEY:CL030_007_130_016.title<面对高阳的请求，你们打算怎么甩开穆内侍？29面對高陽的請求，你們該怎麼甩開穆內侍？BLPrincess Gaoyang needs you to ditch Attendant Mu. How do you make it happen?R?高陽の願いに応え、穆内侍をどうやって撒く？bP고양공주의 부탁으로 목내관을 따돌리려는 당신은 그에게...��องค์หญิงเกาหยางต้องการให้ท่านทิ้งขันทีมู่ไป ท่านจะทำอย่างไรให้มันเกิดขึ้นได้?
+�
+"KEY:CL030_007_130_016.choiceText+0$称耳铛丢了，让他帮忙去找2$假裝肚子痛，讓他去請御醫B6Fake a stomach ache and send him running for a doctor.R*腹痛のふりして官医を呼ばせるb7배가 아프니 어의를 불러달라고 부탁한다�Wแกล้งปวดท้องแล้วส่งเขาไปหาหมอ
+�
+"KEY:CL030_007_130_016.choiceText+1$假装肚子疼，让他去请御医2'稱耳鐺不見了，讓他幫忙尋找B3Say you lost an earring and get him to hunt for it.R3無くした耳飾りを探す手伝いをさせるb6잃어버린 귀걸이를 찾아달라고 부탁한다�vบอกว่าท่านทำต่างหูหาย แล้วให้เขาตามหามัน
+�
+"KEY:CL030_007_130_016.choiceText+2趁他不注意，直接溜2趁他不注意，直接溜走B#Slip away when he’s not watching.R隙を突いて逃げるb/그가 방심한 틈을 타 바로 도망친다�Kรีบหนีไปเมื่อเขาไม่ทันมอง
+&
+$KEY:007_130_C030B_017.storylineTitle
+&
+$KEY:007_130_C030A_021.storylineTitle
+&
+$KEY:007_130_C030C_048.storylineTitle
+�
+$KEY:CL031_007_130_018.storylineTitle甩开穆内侍2甩開穆內侍BDitching Attendant MuR穆内侍を撒くb목내관을 따돌리기�$ทิ้งขันทีมู่
+�
+KEY:CL031_007_130_018.title-现在，你们又该怎么甩开穆内侍？2-現在，你們又該如何甩開穆內侍？B9Time for a shot to ditch Attendant Mu. What’s the move?R6さて、今度はどうやって穆内侍を撒く？b*다시 목내관을 따돌리기 위해...�wถึงเวลาที่จะเสียขันทีมู่แล้ว จะทำอย่างไร?
+�
+"KEY:CL031_007_130_018.choiceText+0$称耳铛丢了，让他帮忙去找2'稱耳鐺不見了，讓他幫忙尋找B3Say you lost an earring and get him to hunt for it.R3無くした耳飾りを探す手伝いをさせるb6잃어버린 귀걸이를 찾아달라고 부탁한다�vบอกว่าท่านทำต่างหูหาย แล้วให้เขาตามหามัน
+�
+"KEY:CL031_007_130_018.choiceText+1趁他不注意直接溜2趁他不注意直接溜走B#Slip away when he’s not watching.R隙を突いて逃げるb/그가 방심한 틈을 타 바로 도망친다�Kรีบหนีไปเมื่อเขาไม่ทันมอง
+�
+$KEY:CL032_007_130_022.storylineTitle甩开穆内侍2甩開穆內侍BDitching Attendant MuR穆内侍を撒くb목내관을 따돌리기�$ทิ้งขันทีมู่
+�
+KEY:CL032_007_130_022.title-现在，你们又该怎么甩开穆内侍？2-現在，你們又該如何甩開穆內侍？B9Time for a shot to ditch Attendant Mu. What’s the move?R6さて、今度はどうやって穆内侍を撒く？b*다시 목내관을 따돌리기 위해...�wถึงเวลาที่จะเสียขันทีมู่แล้ว จะทำอย่างไร?
+�
+"KEY:CL032_007_130_022.choiceText+0$假装肚子疼，让他去请御医2$假裝肚子痛，讓他去請御醫B6Fake a stomach ache and send him running for a doctor.R*腹痛のふりして官医を呼ばせるb7배가 아프니 어의를 불러달라고 부탁한다�Wแกล้งปวดท้องแล้วส่งเขาไปหาหมอ
+�
+"KEY:CL032_007_130_022.choiceText+1趁他不注意直接溜2趁他不注意直接溜走B#Slip away when he’s not watching.R隙を突いて逃げるb/그가 방심한 틈을 타 바로 도망친다�Kรีบหนีไปเมื่อเขาไม่ทันมอง
+&
+$KEY:007_130_C031A_019.storylineTitle
+&
+$KEY:007_130_C032B_023.storylineTitle
+ 
+KEY:007_140_025.storylineTitle
+ 
+KEY:007_140_026.storylineTitle
+�
+$KEY:CL040_007_170_027.storylineTitle李泰抓包后的提问2李泰抓包後的提問B Li Tai Traps You with a QuestionR李泰の問い詰めb$현장을 목격한 이태의 질문�Eหลี่ไท่ดักท่านด้วยคำถาม
+�
+KEY:CL040_007_170_027.title!你们去大慈恩寺做什么？2!你們去大祠恩寺做什麼？B%What were you up to at Dacien Temple?R-お前たち、大祠恩寺で何をした？b4대자은사로 가는 이유를 묻는 전하께...�Rเจ้าทำอะไรอยู่ที่วัดดาเซียน?
+�
+"KEY:CL040_007_170_027.choiceText+0实话实说2實話實說BTell the truth.R正直に話すb솔직하게 얘기한다�!บอกความจริง
+�
+"KEY:CL040_007_170_027.choiceText+1我们去给陛下祈福了2我們去替陛下祈福了B1We were praying for His Majesty’s good fortune.R陛下の安寧を祈りにb;폐하를 위해 기도를 드리러 간다고 얘기한다�Tสวดมนต์ขอพรให้ฝ่าบาทมีโชคลาภ
+�
+"KEY:CL040_007_170_027.choiceText+2我们去给你求姻缘了2我們去幫你求姻緣了B'We were praying for your perfect match.R殿下の良縁を願いにbM전하께 좋은 혼인 상대가 나타나길 빌러 간다고 얘기한다.�rสวดภาวนาขอให้ท่านพบกับคู่ที่สมบูรณ์แบบ
+&
+$KEY:007_170_C040A_028.storylineTitle
+&
+$KEY:007_170_C040B_029.storylineTitle
+&
+$KEY:007_170_C040C_030.storylineTitle
+ 
+KEY:007_170_031.storylineTitle
+�
+$KEY:CL050_007_210_032.storylineTitle房遗爱的逐客令2房遺愛的逐客令BFang Yi’ai Kicks You OutR房遺愛に追い出されるb방유애의 축객령�Bฝางอี๋อ้ายไล่ท่านออกไป
+�
+KEY:CL050_007_210_032.title-你先下去吧，我要跟公主单独谈谈2-你先下去吧，我要跟公主單獨談談B3Leave us now. I need to talk to Her Highness alone.R3お前は下がれ、公主と二人で話したいb@공주께 따로 드릴 말씀이 있으니 먼저 물러가게.��ปล่อยเราไปเถอะ ข้อต้องคุยกับเจ้าหญิงตามลำพัง
+�
+"KEY:CL050_007_210_032.choiceText+0眼前确实让人呆不下去2眼前確實讓人待不下去BYeah, this place looks weird.R$確かに付き合いきれないわb더는 못 봐주겠군.�=ใช่แล้ว ที่นี่ดูแปลกๆ
+�
+"KEY:CL050_007_210_032.choiceText+1!我怎么听到有苍蝇在嗡嗡2'我怎麼聽到有蒼蠅在嗡嗡作響B6What’s that buzzing? Oh, just you, you annoying fly.R0うるさいわね…蝿でもいるのかしらb+어디선가 파리 소리가 들리는군.�iนั่นเสียงอะไรน่ะ อ๋อ ท่านเอง น่ารำคาญ
+&
+$KEY:007_210_C050A_033.storylineTitle
+&
+$KEY:007_210_C050B_034.storylineTitle
+ 
+KEY:007_210_035.storylineTitle
+�
+$KEY:QL110_007_240_044.storylineTitle扇房遗爱耳光2搧房遺愛耳光BSmacking Fang Yi’aiR房遺愛への一発b방유애의 뺨 때리기�$ตบฝางอี๋อ้าย
+
+KEY:QL110_007_240_044.title
+
+KEY:QL110_007_240_044.hint
+�
+KEY:QL110_007_240_044.text抽一耳光2抽一耳光BSlapR平手打ちを喰らわせるb뺨을 때린다�ตบแก้มเขา
+ 
+KEY:007_180_036.storylineTitle
+�
+$KEY:CL120_007_260_045.storylineTitle违抗皇命的后果2違抗皇命的後果BPrice of Defying the EmperorR皇命に背いた代償b황명을 어긴 결과�Kราคาของการท้าทายจักรพรรดิ
+�
+KEY:CL120_007_260_045.title9偷藏要犯，违抗皇命，你可知会有何后果？29偷藏要犯，違抗皇命，你可知會有何後果？BcHiding a fugitive and defying an imperial decree — do you have any idea what that could cost you?R`重犯をかくまい、皇命に逆う……その報いが何か、わかっているのか？bh도망친 죄수를 숨기고, 황명을 거역하다니... 그 대가가 무엇인지 알고 있는가?��ซ่อนผู้หลบหนีและการฝ่าฝืนคำสั่งของจักรวรรดิ เจ้ามีความคิดไหมว่าสิ่งนั้นจะทำให้เจ้าต้องสูญเสียอะไรบ้าง?
+�
+"KEY:CL120_007_260_045.choiceText+0!“我答应过高阳会护他”2$「我答應過高陽會護著他」B0I swore to Princess Gaoyang I’d keep him safe.R*「高陽を守ると約束したから」b?"고양공주께 그를 지켜준다고 약속드렸습니다."��ข้าสาบานกับองค์หญิงเกาหยางว่า ข้าจะปกป้องเขา
+�
+"KEY:CL120_007_260_045.choiceText+1沉默，不再坚持2沉默，不再堅持BShut up and let it go.R$沈黙、それ以上は言わないb$고집 부리지 않고 침묵한다�<หุบปากแล้วปล่อยมันไป
+ 
+KEY:007_260_046.storylineTitle
+�
+$KEY:CL060_007_290_037.storylineTitle高阳的恳求2高陽的懇求BGaoyang’s Heartfelt PleaR高陽の懇願b고양공주의 부탁�Qคำวิงวอนจากใจจริงของเกาหยาง
+�
+KEY:CL060_007_290_037.title0媚娘，我求求你了想想办法救救辩机20媚娘，我求求你，想想辦法救救辯機B;Meiniang, please, you’ve gotta find a way to save Bianji!R3媚娘、お願いだから、弁機を助けて！b6편기를 구해달라는 고양공주의 부탁에...�kเหม่ยเหนียง โปรดหาวิธีช่วยเปี้ยนจีที!
+�
+"KEY:CL060_007_290_037.choiceText+0帮高阳救辩机2幫高陽救辯機BHelp Gaoyang rescue Bianji.R弁機を助けるb'그녀를 도와 편기를 구해준다�dช่วยเหลือเกาหยาง ช่วยเหลือเปี้ยนจี
+�
+"KEY:CL060_007_290_037.choiceText+1	不帮她2	不幫她BSay no to helping her.R手を貸さないb도와주지 않는다�6บอกว่าจะไม่ช่วยนาง
+&
+$KEY:007_290_C060A_038.storylineTitle
+&
+$KEY:007_290_C060B_043.storylineTitle
+�
+$KEY:CL070_007_290_039.storylineTitle怎么救辩机2怎麼救辯機BHow to Save Bianji?R弁機をどう救う？b편기를 구출할 방법�1วิธีช่วยเปี้ยนจี?
+�
+KEY:CL070_007_290_039.title'媚娘，我们怎么才能救辩机？2-媚娘，我們要怎麼才能救出辯機？B Meiniang, how do we save Bianji?R6媚娘、どうすれば弁機を助けられるの？b>편기를 구할 방법에 대해 묻는 고양공주에게...�tเหม่ยเหนียง เราจะช่วยเปี้ยนจีได้อย่างไร?
+�
+"KEY:CL070_007_290_039.choiceText+0找李治商量2找李治商量BHash it out with Li Zhi.R李治に相談するb$이치와 상의해 보자고 한다�3ลักลอบกับหลี่จื้อ
+�
+"KEY:CL070_007_290_039.choiceText+1劝陛下收回成命2勸陛下收回成命B"Beg His Majesty to undo his order.R皇命の撤回を願うbE폐하께 어명을 거두어 주실 것을 간청드리자고 한다�Wทูลขอฝ่าบาทให้ทรงยกเลิกคำสั่ง
+�
+"KEY:CL070_007_290_039.choiceText+2找李泰商量2找李泰商量BPlot with Li Tai.R李泰に相談するb$이태와 상의해 보자고 한다�0แผนการกับหลี่ไท่
+&
+$KEY:007_290_C070A_040.storylineTitle
+*
+(KEY:B04_007_290_C070B_041.storylineTitle
+*
+(KEY:B05_007_330_C070C_042.storylineTitle
+�
+KEY:BE_90006.title无形的枷锁2無形的枷鎖BUnseen ChainsR見えざる枷b보이지 않는 족쇄�0โซ่ที่มองไม่เห็น
+�
+
+KEY:BE_90006.text�那无上的君权和世俗教条，像锁链，将我们所有人囚在其中，包括陛下。未来，人们会有挣脱这一切枷锁，为自己而活的那一天吗？2�那至高無上的君權與世俗教條，宛如鎖鏈，將我們全都囚困其中，包括陛下。未來，人們會有掙脫這一切枷鎖，為自己而活的一天嗎？B�The throne’s iron grip and old-school rules lock everyone in—His Majesty included. Will there ever come a day when people break free to live for themselves?R�君権と世俗の戒律――それらは鎖となり、皇帝を含むすべての人を縛りつける。いつか人々がこの鎖を断ち切り、自分のために生きられる日が来るのだろうか？b�군권과 속세의 법도는 마치 족쇄처럼 우리 모두를 옥죄고 있다. 심지어 폐하마저도... 언젠가 모두가 족쇄에서 벗어나 자신을 위해 살아갈 그날이 올까?��อำนาจที่เข้มแข็งของบัลลังก์และกฎเกณฑ์แบบเก่าทำให้ทุกคนต้องถูกจองจำ รวมทั้งฝ่าบาทด้วย จะมีวันใดที่ผู้คนสามารถใช้ชีวิตเพื่อตัวเองได้อย่างอิสระบ้าง
+�
+KEY:BE_90005.title腰斩之路2腰斬之路B!Road to the Executioner’s BladeR腰斬の運命b비극적 최후�<เส้นทางสู่ดาบเพชฌฆาต
+�
+KEY:BE_90005.text�没想到故事的最后，你和辩机迎来了共同的结局。但你拼死为辩机谏言之事被史书记载，在史官眼里，你和高阳一样都是离经叛道的淫妇。在经历了一千年的唾骂后，在现代社会，你被平反，很多人喜欢你，更为你的结局意难平。2�沒想到故事的最後，你和辯機迎來了相同的結局。但你拼命為辯機進諫之事被記載於史書，在史官眼中，你與高陽一樣，都是離經叛道的淫婦。在經歷千年的唾罵後，你終於在現代被平反，許多人喜歡你，更為你的結局感到不甘。B�In the end, you and Bianji meet the same brutal fate. Your fight to save him is scribbled in history, but the scribes paint you and Gaoyang as reckless troublemakers. After a thousand years of hate, modern folks redeem you, loving your story and grieving your tragic end.R�まさか物語の結末で、あなたと弁機が同じ運命をたどるとは。だが、命をかけて弁機のために諫言したことは史書に残り、史官の目にはあなたも高陽と同じく、礼教に反した「淫婦」とされ、千年もの間、批判の対象となっていた。ただ現代においてあなたは名誉を回復され、多くの人に愛され、その結末に涙する者もいる。b�결국 당신과 편기는 같은 끝을 맞이했다. 당신이 목숨을 걸고 편기를 위해 간언한 일은 역사서에 기록되었고, 사관의 눈에는 당신도 고양공주처럼 법도를 어긴 부덕한 여인이었다. 천 년의 비난 끝에 현대 사회에서 당신은 명예를 회복했고 많은 사람들이 당신의 이야기를 알게 되었다.��ในท้ายที่สุด ท่านและเปี้ยนจีก็ต้องพบกับชะตากรรมอันโหดร้ายเดียวกัน การต่อสู้ของท่านเพื่อช่วยเขาถูกจารึกไว้ในประวัติศาสตร์ แต่บรรดานักเขียนได้วาดภาพท่านและเกาหยาง ให้เป็นพวกก่อปัญหาที่ไร้ความรับผิดชอบ หลังจากความเกลียดชังมาเป็นเวลาพันปี ผู้คนในยุคใหม่ได้ไถ่บาปให้ท่าน และรักเนื้อเรื่องของท่านและโศกเศร้ากับการสิ้นสุดอันน่าเศร้าของท่าน
+�
+KEY:BE_90008.title试试就逝世2試試就逝世BGo Big, Go DownR試したら死んじゃったb목숨으로 치른 대가�%ขึ้นสูง ลงต่ำ
+�
+KEY:BE_90008.textp你果真救了辩机，可却是拿命去换的。 正如高阳救不了辩机，李泰也同样救不了你。2r你真的救下了辯機，但卻是拿命去換的。正如高陽救不了辯機，李泰也同樣救不了你。BlYou pull off saving Bianji, but it costs your life. Gaoyang couldn’t save him, as Li Tai can’t save you.R�あなたは弁機を救うことに成功したが、その代償は自分の命だった。高陽が弁機を救えなかったように、李泰もあなたを救うことはできなかった。b�편기는 구했지만 그 대가는 당신의 목숨이었다. 고양공주가 편기를 구할 수 없던 것처럼 이태도 당신을 구할 수 없었다.��ท่านช่วยเปี้ยนจีได้สำเร็จ แต่ท่านต้องแลกมาด้วยชีวิต เกาหยางช่วยเขาไม่ได้ เช่นเดียวกับหลี่ไท่ที่ช่วยท่านไม่ได้เช่นกัน
+�
+KEY:16.title前往【第十五集】2前往【第十五集】BHead to Chapter 15R『第15章』へb[제15장]으로 이동하기�ไปยังบท 15
+
+KEY:16.endTitle
+�
+KEY:16.text-人人皆是囚徒，人人亦是刽子手。2-人人皆是囚徒，人人亦是劊子手。B7Everyone’s trapped, and everyone’s holding the axe.R9皆もが囚われの身、皆もが刃を振るう者。b+모든 이는 죄수이자 집행자이다.�Nทุกคนติดกับและกำลังถือขวาน
+&
+$KEY:007_130_C030C_020.storylineTitle
+�
+#KEY:Q100_007_140_024.storylineTitle翻越宫墙2翻越宮牆BScaling the Palace WallR宮壁を越えるb황궁 담장 넘기�3ปีนกำแพงพระราชวัง
+
+KEY:Q100_007_140_024.title
+�
+KEY:Q100_007_140_024.hint_0长按屏幕用力2長按螢幕用力BPress and HoldR長押しで力を込めるb(화면을 길게 눌러 힘을 주세요�Tแตะหน้าจอค้างไว้เพื่อดันแรงๆ
+�
+KEY:Q100_007_140_024.hint_1长按屏幕用力2長按螢幕用力BPress and HoldR長押しで力を込めるb(화면을 길게 눌러 힘을 주세요�Tแตะหน้าจอค้างไว้เพื่อดันแรงๆ
+�
+KEY:Q100_007_140_024.hint_2连续点击图标用力2連續點擊圖示用力BPress Fast to Push HardR連打で力を込めるb*아이콘을 연타하여 힘을 주세요�Qแตะอย่างรวดเร็วเพื่อดันแรงๆ
+�
+KEY:Q100_007_140_024.text_2再加把劲2再加把勁BPush Even HarderRもっと力をb조금 더 힘내기�6ผลักให้แรงยิ่งขึ้น
+%
+#KEY:007_260_C120_055.storylineTitle
+�
+KEY:BE_90004.title邀功的筹码2邀功的籌碼BSacrificed for GloryR手柄のコマb가로챈 공적�Kเสียสละเพื่อความรุ่งโรจน์
+�
+KEY:BE_90004.textW顺从皇命，献祭辩机的你，也被百夫长献祭，成了他邀功的筹码。2Z順從皇命，將辯機獻祭的你，也被百夫長獻祭，成了他邀功的籌碼。B�You follow the Emperor’s orders and turn in Bianji, only to be betrayed by the centurion, who uses you to score points with his boss.R�皇命に従い、弁機を犠牲にしたあなたもまた、百夫長に利用され、彼の手柄として捧げられた。b�황명에 순종하여 편기를 바친 당신 또한 결국 백부장에게 희생되어 그의 공적을 위한 도구로 전락했다.��ท่านทำตามคำสั่งของจักรพรรดิและส่งตัวเปี้ยนจี แต่กลับถูกนายกองหักหลัง ซึ่งใช้ท่านเพื่อทำคะแนนให้กับเจ้านายของเขา
+�
+$KEY:CL071_007_300_049.storylineTitle怎么救辩机2怎麼救辯機BHow to Save Bianji?R弁機をどう救う？b편기를 구출할 방법�1วิธีช่วยเปี้ยนจี?
+�
+KEY:CL071_007_300_049.title'你想让李治如何助你救辩机？2*你想讓李治如何幫助你救辯機？B/How do you want Li Zhi to help you save Bianji?R*李治にどう助けてもらいたい？b*편기를 구하기 위해 이치에게...��ท่านต้องการให้หลี่จื้อช่วยท่านช่วยเปี้ยนจีได้อย่างไร
+�
+"KEY:CL071_007_300_049.choiceText+0利用天象2利用天象BPlay up the omens of stars.R天象を利用するb'천문 현상을 이용하자고 한다�Nเล่นกับลางบอกเหตุของดวงดาว
+�
+"KEY:CL071_007_300_049.choiceText+1利用陛下最信任的宰相2利用陛下最信任的宰相B,Use His Majesty’s most trusted chancellor.R*陛下が最も信頼する宰相を使うbA폐하께서 가장 신뢰하는 재상을 이용하자고 한다��ใช้อัครมหาเสนาบดีที่ฝ่าบาทไว้วางใจมากที่สุด
+�
+$KEY:CL072_007_300_052.storylineTitle怎么救辩机2怎麼救辯機BHow to Save Bianji?R弁機をどう救う？b편기를 구출할 방법�1วิธีช่วยเปี้ยนจี?
+�
+KEY:CL072_007_300_052.title'你想让李泰如何助你救辩机？2*你想讓李泰如何幫助你救辯機？B/How do you want Li Tai to help you save Bianji?R*李泰にどう助けてもらいたい？b*편기를 구하기 위해 이태에게...�yท่านต้องการให้หลี่ไท่ช่วยเปี้ยนจีอย่างไร?
+�
+"KEY:CL072_007_300_052.choiceText+0	劫囚车2	劫囚車BAmbush the prisoner’s cart.R護送車を襲うb*죄수 호송차를 습격하자고 한다�9ซุ่มโจมตีรถขนนักโทษ
+�
+"KEY:CL072_007_300_052.choiceText+1把辩机偷梁换柱2把辯機偷梁換柱BReplace Bianji with a double.R!弁機と別人をすり替えるbD다른 사람을 편기로 위장시켜 바꿔치기하자고 한다�Lแทนที่เปี้ยนจี ด้วยตัวปลอม
+*
+(KEY:B03_007_300_C071A_050.storylineTitle
+*
+(KEY:B06_007_300_C071B_051.storylineTitle
+�
+KEY:BE_90007.title红娘宰相2紅娘宰相BMatchmaking ChancellorR仲人宰相b중매쟁이 재상�Eจับคู่ให้อัครมหาเสนาบดี
+�
+KEY:BE_90007.textT看来“优秀”的宰相，不仅会玩弄权术，更要做一个好的红娘。2T看來「優秀」的宰相，不僅會玩弄權術，更要做一個好的紅娘。BnTurns out a “top-tier” chancellor isn’t just a power player, he’s gotta be a pro at playing Cupid too.Rrどうやら「有能」な宰相には、権謀術数だけでなく、仲人の才も求められるらしい。bg'유능한' 재상은 권모술수에 능할 뿐만 아니라, 좋은 중매쟁이가 되어야 한다.��ปรากฏว่าอัครมหาเสนาบดี "ระดับสูงสุด" ไม่ใช่แค่ ผู้เล่นที่มีอำนาจเท่านั้น แต่เขาต้องเป็นผู้เชี่ยวชาญในการเล่นจับคู่อีกด้วย
+*
+(KEY:B05_007_340_C072A_053.storylineTitle
+*
+(KEY:B05_007_340_C072B_054.storylineTitle
+�
+KEY:BE_90009.title试试就逝世2試試就逝世BGo Big, Go DownR試したら死んじゃったb목숨으로 치른 대가�%ขึ้นสูง ลงต่ำ
+�
+KEY:BE_90009.textp你果真救了辩机，可却是拿命去换的。 正如高阳救不了辩机，李泰也同样救不了你。2r你真的救下了辯機，但卻是拿命去換的。正如高陽救不了辯機，李泰也同樣救不了你。BlYou pull off saving Bianji, but it costs your life. Gaoyang couldn’t save him, as Li Tai can’t save you.R�あなたは弁機を救うことに成功したが、その代償は自分の命だった。高陽が弁機を救えなかったように、李泰もあなたを救うことはできなかった。b�편기는 구했지만 그 대가는 당신의 목숨이었다. 고양공주가 편기를 구할 수 없던 것처럼 이태도 당신을 구할 수 없었다.��ท่านช่วยเปี้ยนจีได้สำเร็จ แต่ท่านต้องแลกมาด้วยชีวิต เกาหยางช่วยเขาไม่ได้ เช่นเดียวกับหลี่ไท่ที่ช่วยท่านไม่ได้เช่นกัน
+u
+KEY:15.title第十三集 完2第十三集 完BChapter 13  EndsR第13章　了b제13장 끝�บท 13 จบ
+
+KEY:15.endTitle
+�
+KEY:15.text火势蔓延中2火勢蔓延中BThe flames are spreading fast.R燃え広がる炎b불길이 번지는 가운데�Wเปลวไฟกำลังลุกลามอย่างรวดเร็ว
+�
+KEY:007_180_056.storylineTitle火海飞蛾2火海飛蛾BMoth to a FlameR炎に飛び込む蛾b불바다 속 나방�0ผีเสื้อกับเปลวไฟ

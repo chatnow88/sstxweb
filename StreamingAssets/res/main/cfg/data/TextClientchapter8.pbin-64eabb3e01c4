@@ -1,0 +1,301 @@
+
+�
+KEY:006_010_001.storylineTitle破局的两颗棋子2破局的兩顆棋子BTwo Critical PawnsR!局面を打開する二つの駒b%국면을 바꿀 두 개의 장기말�0เบี้ยสำคัญสองตัว
+�
+$KEY:CL010_006_020_002.storylineTitle贵妃的臂膀2貴妃的臂膀B%Lady of Predilection’s Inner CircleR貴妃の腹心b귀비의 수족�*วงในของกุ้ยเฟย
+�
+KEY:CL010_006_020_002.title'了解韦贵妃最得力的两个助手2*查看韋貴妃這對臂膀的調查結果B@Dig into the dirt on Lady Wei of Predilection’s trusted aides.R9韋貴妃の腹心に関する調査を確認する……b8위귀비의 수족에 대한 조사 결과 확인하기��ขุดข้อมูลของผู้ช่วยที่เชื่อถือได้ของเว่ยกุ้ยเฟย
+d
+"KEY:CL010_006_020_002.choiceText+0杜若2杜若BDu RuoR杜若b두약�ตู้รั่ว
+a
+"KEY:CL010_006_020_002.choiceText+1袭心2襲心BXi XinR襲心b습심�ซี๋ซิน
+&
+$KEY:006_020_C010A_003.storylineTitle
+&
+$KEY:006_020_C010B_004.storylineTitle
+&
+$KEY:006_020_C010C_005.storylineTitle
+�
+$KEY:CL020_006_020_006.storylineTitle突破袭心还是杜若2突破襲心還是杜若BTarget Xi Xin or Du Ruo?R*突破口にすべきは襲心か杜若かb습심이냐, 두약이냐�[ตั้งเป้าไปที่ซี๋ซินหรือตู้รั่ว?
+�
+KEY:CL020_006_020_006.titleK收服助手的顺序不同，有不同的结果，先选谁做突破口？2N收服助手的順序不同，會有不同的結果，先選誰做突破口？BXThe order you pick to crack her assistants changes the outcome. Who’s your first move?R<順番で結果は変わる。突破口に選ぶのは……bT순서가 달라지면 결과도 달라진다. 누구를 먼저 공략할 것인가?��ลำดับที่ท่านเลือกโจมตีผู้ช่วยของนางจะเปลี่ยนแปลงผลลัพธ์ จะเริ่มจากใครก่อน?
+d
+"KEY:CL020_006_020_006.choiceText+0杜若2杜若BDu RuoR杜若b두약�ตู้รั่ว
+a
+"KEY:CL020_006_020_006.choiceText+1袭心2襲心BXi XinR襲心b습심�ซี๋ซิน
+*
+(KEY:B06_006_020_C020A_007.storylineTitle
+&
+$KEY:006_020_C020B_008.storylineTitle
+�
+KEY:BE_80001.title恋爱脑含量为02戀愛腦含量為0BNo Room for Lovey-DoveyR恋愛脳ゼロb냉철한 사람�]ไม่มีที่ว่างสำหรับคู่รักหวานแวว
+�
+KEY:BE_80001.text�你低估了她的忠心，也高估了爱情和自由对她的吸引力。爱情，从来未必会是一个人最重要的东西。2~你低估了她的忠心，也高估了愛情與自由對她的吸引力。愛情，未必會是一個人最重要的東西。BwYou misjudged her loyalty and thought love or freedom would win her over. Love isn’t always someone’s top priority.Rx彼女の忠誠を侮り、愛と自由の誘惑を過信した。人にとって、愛がすべてとは限らない。b�그녀의 충심을 과소평가하고, 그녀의 사랑과 자유를 과대평가했다. 누군가에게 사랑은 가장 중요한 것이 아닐 수도 있다.��ท่านประเมินความภักดีของนางผิด และคิดว่าความรักหรืออิสรภาพจะชนะใจนางได้ ข่าวใหม่: ความรักไม่ใช่สิ่งสำคัญที่สุดสำหรับใครเสมอไป
+�
+$KEY:CL030_006_020_009.storylineTitle被贵妃控制的弟弟2被貴妃控制的弟弟B"Xi Xin’s Brother in Wei’s GripR貴妃に操られる弟b 귀비에게 휘둘리는 동생�fน้องชายของซี๋ซินอยู่ในกำมือของเว่ย
+�
+KEY:CL030_006_020_009.title<她的弟弟被韦贵妃控制着，我们应该怎么做？29她的弟弟被韋貴妃控制著，我們該怎麼做？BgLady Wei of Predilection’s got Xi Xin’s younger brother under her control. What’s your next step?RB弟は韋貴妃に握られている。打つべき一手は……bJ그녀의 남동생이 위귀비에게 휘둘리고 있는 상황에서...��เว่ยกุ้ยเฟยได้ควบคุมน้องชายของซี๋ซินไว้ ขั้นตอนต่อไปของท่านคืออะไร?
+�
+"KEY:CL030_006_020_009.choiceText+0!让蕊儿偷取她弟弟的药渣2!讓蕊兒偷走她弟弟的藥渣B0Get Rui’er to swipe the dregs of his medicine.R6蕊児に弟の薬の残りかすを盗ませることb>예아에게 동생의 약재 찌꺼기를 훔치라고 한다�Qให้รุยเอ๋อขโมยเศษยาของเขาไป
+�
+"KEY:CL030_006_020_009.choiceText+1救出她的弟弟2救出她的弟弟BBreak her brother out.R弟を救出することb 그녀의 동생을 구출한다�Bช่วยน้องชายของนางออกมา
+�
+"KEY:CL030_006_020_009.choiceText+2!杀了她弟弟，嫁祸韦贵妃2'殺了她的弟弟，嫁禍給韋貴妃B4Kill her brother and frame Lady Wei of Predilection.R6弟を殺し、罪を韋貴妃に擦り付けることbE그녀의 동생을 살해한 후 위귀비에게 누명을 씌운다�oฆ่าน้องชายของนางและใส่ร้ายเว่ยกุ้ยเฟย
+*
+(KEY:B01_006_020_C030A_010.storylineTitle
+*
+(KEY:B02_006_020_C030B_011.storylineTitle
+&
+$KEY:006_020_C030C_012.storylineTitle
+�
+KEY:BE_80002.title贵妃的陪葬2貴妃的陪葬B+The Burial Offering of Lady of PredilectionR貴妃の道連れb귀비와 함께�Nเครื่องบูชาฝังศพของกุ้ยเฟย
+�
+KEY:BE_80002.text�当鲜血淋漓的真相被直接揭开，一个人的行动只会彻底失控。贵妃虽死，你却也成了她的陪葬。当你和韦贵妃在黄泉地府见面后，此处省略100万字续集《霸道贵妃轻点宠》2�當血淋淋的真相被直接揭開，一個人的行動只會徹底失控。貴妃雖死，你卻也成了她的陪葬。當你與韋貴妃在黃泉地府見面後，此處省略一百萬字的續集《霸道貴妃輕點寵》B�When the ugly truth spills out, people lose it. Lady Wei of Predilection’s gone, but you’re dragged down with her as her funeral buddy. Your underworld reunion...R�受け止めきれない残酷な真実が突然暴かれると、人は予想もつかないことをしでかす。貴妃は死に、あなたもまた道連れにされてしまう。つづきは『貴妃様との地獄生活』で！（100万字超の大ボリューム、近日発売予定）b�피로 물든 진실이 드러나자 누군가의 행동이 완전히 통제불능이 되고 말았다. 귀비는 죽었지만, 당신 역시 그녀와 함께 묻혀 저승에서 만나게 되었다.��เมื่อความจริงอันน่าเกลียดถูกเปิดโปง ผู้คนต่างก็พากันเป็นบ้า เว่ยกุ้ยเฟยจากไปแล้ว แต่ท่านกลับถูกดึงลงไปพร้อมกับนางในฐานะเพื่อนงานศพของนาง การกลับมาพบกันอีกครั้งในโลกใต้ดินของคุณนั้นได้ข้ามภาคต่อความยาว 1,000,000 คำที่มีชื่อว่า "โปรดอ้อมมือให้ข้าด้วย เว่ยกุ้ยเฟยที่รัก" ไป
+�
+KEY:BE_80003.title乱葬岗一员2亂葬崗一員B"Just Another Body in the GraveyardR無縁塚のひとりb난장강의 일원�3แค่ศพอีกศพในสุสาน
+�	
+KEY:BE_80003.text�救出筹码，打草惊蛇。毒蛇发现了你，便会送你安眠于乱葬岗中。乱葬岗唐朝AAAA级旅游区，欢迎你们的入驻。2�救出籌碼，卻打草驚蛇。若毒蛇發現你，便會送你於亂葬崗長眠。亂葬崗盛朝AAAA級旅遊區，歡迎你們的入住。B�Saving your bargaining chip rattles the cage. The snake notices and puts you to sleep in the mass grave. Welcome to the Tang Dynasty’s top-rated graveyard tour spot.R�切り札を救おうとしたその瞬間、毒蛇が気づいた。あなたは無縁塚に眠ることとなる。盛朝AAAA級観光地・無縁塚へようこそ。b�인질을 빼내는 것은 적을 자극하는 일이다. 적을 자칫 잘못 자극하면 비참한 죽음과 함께 난장강에 버려질 수 있다.��การเก็บเศษเหรียญต่อรองไว้จะทำให้กรงสั่นไหว งูสังเกตเห็นและทำให้ท่านหลับไปในหลุมศพหมู่ ยินดีต้อนรับสู่จุดทัวร์สุสานยอดนิยมในราชวงศ์ถัง
+�
+$KEY:CL040_006_100_013.storylineTitle袭心弟弟的去留2襲心弟弟的去留B0What to Do with Little Shui, Xi Xin’s Brother?R襲心の弟の処遇b습심의 남동생의 거취��จะทำอย่างไรกับเสี่ยวสุ่ยและน้องชายของซี๋ซิน?
+�
+KEY:CL040_006_100_013.title-你看着眼前的袭心和小水，你决定20你看著面前的襲心與小水，你決定？BBYou’re staring at Xi Xin and Little Shui. What are you gonna do?R<目の前の襲心と小流を見つめ、あなたは……b=습심과 소수를 바라보며, 당신이 내린 선택은?��ท่านกำลังจ้องไปที่ซี๋ซินและเสี่ยวสุ่ย ท่านจะทำอย่างไร?
+�
+"KEY:CL040_006_100_013.choiceText+0将小水交还给袭心2將小水還給襲心B Give Little Shui back to Xi Xin.R小流を襲心に返すb#소수를 습심에게 돌려준다�Qส่งเสี่ยวสุ่ยกลับไปหาซี๋ซิน
+�
+"KEY:CL040_006_100_013.choiceText+1将小水控制在自己手中2將小水掌控在自己手中B"Keep Little Shui as your leverage.R!小流を自分の手元に置くb*내 손아귀에서 소수를 통제한다�Zเก็บเสี่ยวสุ่ยไว้เป็นตัวประกัน
+*
+(KEY:B03_006_100_C040B_014.storylineTitle
+�
+KEY:BE_80005.title韦贵妃接班人2韋貴妃接班人BStepping into Wei’s ShoesR韋貴妃の後継者b위귀비의 후계자�3สวมรองเท้าของเว่ย
+�
+KEY:BE_80005.text�你的举动在袭心眼里，像极了韦贵妃。被挟恩控制久了的人，刚刚发现鲜血淋漓的真相，怎可能再次让历史重演？人心，是最难的棋局。2�你的舉動在襲心眼裡，像極了韋貴妃。被脅迫控制久了的人才剛發現血淋淋的真相，怎會讓歷史再次重演？人心，是最難的棋局。B�Xi Xin sees you pulling moves like straight out of Lady Wei of Predilection’s playbook. Someone who’s been jerked around by favors for ages, just hit with a brutal truth, isn’t about to let that cycle restart. The heart’s the trickiest game to win.R�あなたの振る舞いは、襲心の目にまるで韋貴妃そのものに映った。恩を盾に縛られ続けた者が、ようやく血まみれの真実を知った今、同じ歴史を繰り返すはずがない。人の心こそ、最も難解な要素。b�오랫동안 은혜라는 명목하에 통제당하던 사람이 비로소 피에 물든 진실을 알게 되었는데, 어찌 같은 역사를 반복할까? 사람의 마음이란 세상에서 가장 어려운 바둑판이다.��ซี๋ซินเห็นว่าท่านเล่นได้เหมือนกับว่าหลุดออกมาจากคู่มือของเว่ยกุ้ยเฟย คนที่ถูกหลอกล่อด้วยความช่วยเหลือมาเป็นเวลานาน ดันมาโดนความจริงอันโหดร้ายเข้าให้ ไม่ยอมให้วงจรนั้นเริ่มต้นใหม่อีก เกมที่ยากที่สุดที่จะชนะคือหัวใจ
+&
+$KEY:006_100_C040A_015.storylineTitle
+�
+$KEY:CL050_006_160_016.storylineTitle泄密之人是谁2泄密之人是誰BWho Spilled the Beans?R!情報を漏らしたのは誰かb비밀을 누설한 자�@ใครเป็นคนบอกเรื่องนี้?
+�
+KEY:CL050_006_160_016.title6你交代袭心，该如何回答谁是泄密之人？26你交代襲心，該如何回答誰是洩密之人？B>You coach Xi Xin on what to say when asked who leaked secrets.R?襲心には、密告者についてどう答えさせたい？bH습심에게 비밀을 누설한 자가 누구인지 묻는 질문에...��ท่านเป็นคนสอนให้ซี๋ซินว่าควรพูดอะไรเมื่อถูกถามว่าใครเป็นคนเปิดเผยความลับ
+d
+"KEY:CL050_006_160_016.choiceText+0杜若2杜若BDu RuoR杜若b두약�ตู้รั่ว
+b
+"KEY:CL050_006_160_016.choiceText+1刘熙2劉熙BLiu XiR劉熙b유희�หลิว ซี
+�
+"KEY:CL050_006_160_016.choiceText+2杜若的相好兰德2杜若的相好蘭德BDu Ruo’s beau, Lan De.R杜若の情人、蘭徳b7두약의 연인 난덕이라고 답하라고 시킨다�Fคนรักของตู้รั่ว หลันเต๋อ
+�
+"KEY:CL050_006_160_016.choiceText+3袭心不知2襲心不知BXi Xin’s got no clue.Rなにも知りませんb#모른다고 답하라고 시킨다�<ซี๋ซินม่รู้เรื่องเลย
+&
+$KEY:006_160_C050A_017.storylineTitle
+&
+$KEY:006_160_C050B_018.storylineTitle
+&
+$KEY:006_160_C050C_021.storylineTitle
+&
+$KEY:006_160_C050D_019.storylineTitle
+$
+"KEY:B04_006_170_020.storylineTitle
+�
+KEY:BE_80006.title专用挡箭牌失效2專用擋箭牌失效BYour Go-To Scapegoat FlopsR専用盾役、機能停止b무력화된 전용 방패�Eแพะรับบาปของท่านล้มเหลว
+�	
+KEY:BE_80006.text�这一次，熟悉的老挡箭牌刘熙失效了。刘熙怎么也没想到，竟然会因为自己在贵妃眼中太蠢，而间接害了你。2�這次，熟悉的擋箭牌劉熙失效了。劉熙怎麼也沒想到，竟會因為自己在貴妃眼中太蠢，而間接害了你。B�Your usual fall guy, Liu Xi, doesn’t cut it this time. She never saw it coming, being too clueless in the Lady of Predilection’s eyes ends up sinking you.R�今回、頼みの綱だった劉熙は役に立たなかった。まさか「愚かすぎる」と貴妃に見限られたことで、あなたまで巻き添えを食らうとは。b�오랫동안 방패 역할을 하던 유희가 그 역할을 못 하게 되었다. 유희는 귀비의 눈에 자신이 너무 어리석게 보인 탓에 당신에게 간접적인 피해를 주게 될 줄은 꿈에도 몰랐다.��หลิว ซีผู้รับหน้าที่ตามเคย คราวนี้นางไม่รอดแน่ นางไม่ทันระวังตัว เพราะนางไม่รู้เรื่องในสายตาของกุ้ยเฟย จนทำให้นางจมน้ำตายในที่สุด
+$
+"KEY:B04_006_170_055.storylineTitle
+�
+KEY:BE_80007.title蒙混过关失败2蒙混過關失敗BCan’t Fool HerR誤魔化し失敗b눈속임 실패�'หลอกนางไม่ได้
+�
+KEY:BE_80007.texto贵妃有着身为领导的最强嗅觉，能轻易嗅出996下属身上突然涌现的躺平气息的异样。2o貴妃身為領導的最強嗅覺，能輕易嗅出日夜辛勞的下屬，突然湧現擺爛氣息的異樣。B`Lady of Predilection has a nose for sniffing out when her burned-out minions start slacking off.R�貴妃は上に立つ者ならではの鋭い嗅覚を持っている。馬車馬のように働かされている部下が、サボろうとする瞬間の空気すらも、すぐに嗅ぎ取られてしまう。bW귀비는 밤낮없이 일하던 심복의 이상함을 쉽게 감지할 수 있었다.��กุ้ยเฟยมีจมูกที่สามารถดมกลิ่นได้เมื่อลูกสมุนของนางหมดแรงเริ่มเกียจคร้าน
+�
+$KEY:CL060_006_210_022.storylineTitle杜若松绑的恳求2杜若請求鬆綁BDu Ruo Begs for FreedomR杜若の懇願b두약의 간청�<ตู้รั่วร้องขออิสรภาพ
+�
+KEY:CL060_006_210_022.title主子可否为奴婢松绑？2主子能否為奴婢鬆綁？BMy lady, can you cut me loose?RB才人様、どうかこの縄をお解きくださいませ……b)풀어달라고 간청하는 두약을...�Mนายท่าน ท่านปล่อยข้าได้ไหม?
+�
+"KEY:CL060_006_210_022.choiceText+0	不松绑2	不鬆綁BKeep her tied.R解かないb풀어주지 않는다�มัดนางไว้
+�
+"KEY:CL060_006_210_022.choiceText+1为其松绑2為她鬆綁BLet her go.R解いてやるb풀어준다�ปล่อยนางไป
+*
+(KEY:B07_006_210_C060B_023.storylineTitle
+�
+KEY:BE_80008.title从无背叛2從未背叛BLoyal to the EndR$裏切りなどしておりませんb"한 번도 배신한 적이 없다�6ภักดีจนวาระสุดท้าย
+�
+KEY:BE_80008.text{杜若：“我替贵妃杀了你，贵妃就会相信我从来没有背叛她。我是忠心的！！哈哈哈哈……”2x杜若：「我替貴妃殺了你，貴妃就會相信我從未背叛她！我是忠心的！！哈哈哈哈哈——」BqDu Ruo: If I take you out for Her Grace, she’ll know I never cheated on her. I’m loyal to the end!! Hahaha...R�杜若：「貴妃様のためにあなたを殺せば、私が裏切っていないと信じてもらえる……私は忠義一途の存在なのです！！はははは……」b�두약: "귀비마마를 대신해 너를 죽이면, 귀비마마는 내가 배신한 적이 없다고 믿으시겠지. 난 한 번도 충심을 버린 적 없다고!! 하하하..."��ตู้รั่ว: ถ้าข้าพาเจ้าไปหากุ้ยเฟย นางคงรู้ว่าข้าไม่เคยนอกใจนาง ข้าภักดีจนถึงที่สุด!! ฮ่าๆ ๆ...
+&
+$KEY:006_210_C060A_024.storylineTitle
+�
+$KEY:CL110_006_220_025.storylineTitle李治默默的陪伴2李治默默地陪伴BLi Zhi’s Silent SupportR李治の静かな寄り添いb!묵묵히 곁을 지키는 이치�Kหลี่จื้อสนับสนุนแบบเงียบๆ
+�
+KEY:CL110_006_220_025.titleW李治察觉到了你有心事，什么都没说，只是静静陪着你。你要说？2W李治察覺你有心事，什麼都沒說，只是靜靜地陪著你。你要說嗎？BgLi Zhi can tell something’s eating at you but just sits with you quietly. Are you gonna say anything?RZ気づいていたが、何も言わず寄り添ってくれる李治に、何を言う？ba당신에게 근심이 있는 것을 알아챈 이치는 아무 말 없이 곁을 지키는데...��หลี่จื้อรู้ว่ามีบางอย่างกำลังกวนใจท่านอยู่ แต่เพียงนั่งเงียบๆ อยู่กับคุณ คุณจะพูดอะไรไหม
+�
+"KEY:CL110_006_220_025.choiceText+0!殿下不问我发生了什么吗2'殿下不問我發生了什麼事嗎？B>Your Highness, you’re not curious about what’s bugging me?R-殿下は、何も聞かないのですか…b9어찌 제게 아무것도 묻지 않으시는 겁니까?��ฝ่าบาท ไม่ทรงสงสัยว่ามีอะไรกวนใจข้าหรือเพคะ?
+�
+"KEY:CL110_006_220_025.choiceText+1'殿下觉得我是个怎么样的人？2'殿下覺得我是個怎麼樣的人？B,Your Highness, what do you think I’m like?R3殿下から見て、私はどんな人ですか？bA전하께서는 제가 어떤 사람이라고 생각하십니까?�gฝ่าบาทคิดว่าข้าเป็นคนยังไงหรือเพคะ?
+&
+$KEY:006_220_C110A_026.storylineTitle
+&
+$KEY:006_220_C110B_027.storylineTitle
+ 
+KEY:006_220_028.storylineTitle
+�
+#KEY:C070_006_220_029.storylineTitle李治即将离开2李治即將離開BLi Zhi’s Heading OutR'李治はまもなくその場を去るb떠나려는 이치�6หลี่จื้อกำลังออกไป
+�
+KEY:C070_006_220_029.title李治即将离开，此时你2李治即將離開，此時你B*Li Zhi’s about to leave. What do you do?R<李治はまもなくこの場を去る。あなたは……b떠나려는 이치에게...�kหลี่จื้อกำลังจะออกไปแล้ว จะทำอย่างไร?
+�
+!KEY:C070_006_220_029.choiceText+0	叫住他2	叫住他BTell him to stay.R引き止めるb그를 부른다�0บอกเขาให้อยู่ต่อ
+�
+!KEY:C070_006_220_029.choiceText+1任他离开2任他離開BLet him walk away.R	見送るb$그가 떠나는 것을 지켜본다�<ปล่อยให้เขาเดินจากไป
+#
+!KEY:C070_006_220_029.choiceText+2
+&
+$KEY:006_220_C070A_030.storylineTitle
+&
+$KEY:006_220_C070B_034.storylineTitle
+ 
+KEY:006_220_031.storylineTitle
+ 
+KEY:006_220_032.storylineTitle
+ 
+KEY:006_220_035.storylineTitle
+�
+$KEY:CL120_006_230_036.storylineTitle李泰归来2李泰歸來BLi Tai’s BackR李泰の帰還b이태의 귀환�6แผ่นหลังของหลี่ไท่
+�
+KEY:CL120_006_230_036.title$看来，九弟对你颇为上心啊2$看來，九弟對你頗為上心啊B=Looks like my ninth brother’s got a soft spot for you, huh?RE李治はずいぶんお前に入れ込んでんじゃねぇか……bF보아하니 아우가 자네에게 꽤 신경을 쓰는 모양이군.��ดูเหมือนว่าองค์ชายเก้าจะมีความอ่อนไหวต่อท่านนะ?
+�
+"KEY:CL120_006_230_036.choiceText+0-数月未见，殿下就想和我说这个？2-數月未見，殿下就想跟我說這個？B.Months apart, and that’s what you lead with?RH数ヶ月ぶりの再会で、殿下の言葉がそれだけですか？bH몇 달 만에 뵙는데, 제게 하실 얘기가 그것뿐이십니까?��ห่างกันหลายเดือน แล้วท่านเริ่มแบบนั้นนะหรือ?
+�
+"KEY:CL120_006_230_036.choiceText+1你吃醋了？2你吃醋了？BAre you jealous much?R<殿下はもしかして、嫉妬していらっしゃる？b혹 질투하시는 겁니까?�(ท่านหึงมากไหม?
+&
+$KEY:006_230_C120A_037.storylineTitle
+&
+$KEY:006_230_C120B_038.storylineTitle
+ 
+KEY:006_230_039.storylineTitle
+�
+$KEY:CL080_006_230_040.storylineTitle九弟是怎样的人2九弟是怎樣的人B"What’s Li Tai Like in Your Eyes?R李治とはどんな人？b아우에 대한 평가�mหลี่ไท่เป็นอย่างไรบ้างในสายตาของเจ้า?
+�
+KEY:CL080_006_230_040.title-在你眼里，九弟他是个怎样的人？2-在你眼裡，九弟他是個怎樣的人？B*So, what’s my ninth brother like to you?R3お前の目に映る李治は、どんな奴だ？b+자네에게 아우는 어떤 사람인가?�jแล้วองค์ชายเก้าเป็นยังไงบ้างกับท่าน?
+�
+"KEY:CL080_006_230_040.choiceText+0我现在眼中的人，是你2我現在眼中的人，是你B#I only have eyes for you right now.R6今の私の目に映るのは、殿下だけですよb9지금 제 눈에는 전하밖에 보이지 않습니다.�uตอนนี้ข้ามีสายตาไว้มองท่านเพียงผู้เดียว
+�
+"KEY:CL080_006_230_040.choiceText+1是一个你要防范的人2是一個你必須提防的人B#Someone you need to keep an eye on.R$殿下が警戒すべき相手ですb.전하께서 경계해야 할 사람입니다.�Tมีคนคนหนึ่งที่ข้าต้องจับตาดู
+�
+"KEY:CL080_006_230_040.choiceText+2晋王是我在意的人2晉王是我在意的人B0Royal Duke of Jin’s the one who matters to me.R-晋王は、私にとって大切な人ですb!신경이 쓰이는 분입니다.�Qจิ้นอ๋องคือคนที่สำคัญของข้า
+�
+"KEY:CL080_006_230_040.choiceText+3关你什么事2關你什麼事BMind your own business!R!殿下には関係ありませんb'전하와는 상관없는 일입니다.�Fอย่ายุ่งเรื่องของคนอื่น!
+&
+$KEY:006_230_C080A_041.storylineTitle
+&
+$KEY:006_230_C080B_042.storylineTitle
+&
+$KEY:006_230_C080C_043.storylineTitle
+&
+$KEY:006_230_C080D_044.storylineTitle
+ 
+KEY:006_230_045.storylineTitle
+ 
+KEY:006_230_047.storylineTitle
+�
+$KEY:CL090_006_240_048.storylineTitle利用韦氏罪证2利用韋氏罪證BUsing the Wei Clan’s DirtR韋氏一族の罪証の対処b%위 씨 일족의 죄증 이용하기�Kใช้เรื่องฉาวของตระกูลเว่ย
+�
+KEY:CL090_006_240_048.title-你打算如何利用韦氏一族的罪证？2-你打算如何利用韋氏一族的罪證？B:How do you play the evidence you’ve got on the Wei clan?R韋氏一族の罪証を……b위 씨 일족의 죄증을...��ท่านจะเล่นหลักฐานที่ท่านมีต่อตระกูลเว่ยได้อย่างไร?
+�
+"KEY:CL090_006_240_048.choiceText+0将罪证交给陛下2將罪證呈交給陛下BHand it over to His Majesty.R陛下に渡すb폐하에게 전달한다�$มอบให้ฝ่าบาท
+�
+"KEY:CL090_006_240_048.choiceText+1$只放出韦氏卖官鬻爵的风声2$只放出韋氏賣官鬻爵的風聲B2Spread a rumor about the Wei clan’s bribe deals.R世間に流すb소문을 퍼뜨린다�~แพร่ข่าวลือเรื่องข้อตกลงสินบนของตระกูลเว่ย
+*
+(KEY:B08_006_240_C090A_049.storylineTitle
+&
+$KEY:006_240_C090B_050.storylineTitle
+�
+KEY:BE_80009.title贵妃不倒翁2貴妃不倒翁B$Lady of Predilection, the UnshakableR転ばぬ貴妃b!쉽게 무너지지 않는 귀비�?กุ้ยเฟยผู้ไม่หวั่นไหว
+�	
+KEY:BE_80009.text�猛兽在前，更不可太过心急。她盘踞多年，深得恩宠。若没有一击毙命的把握，便不可轻举妄动。2~猛獸當前，更不可太過心急。她盤踞多年，深得恩寵。若無一擊斃命的把握，便切勿輕舉妄動。B�There’s a beast in your way, so don’t get cocky. She’s been cozy in power for years, soaked in favor. Without a dead-on strike, you’re not touching her.R�猛獣を前にして、焦りは禁物。長年寵愛を受けてきた貴妃を仕留めるには、一撃必殺の覚悟がなければならない。b�앞에 맹수가 있으니 섣불리 움직여서는 안 된다. 그녀는 수년 동안 자리를 지켜오며 깊은 총애를 받았다. 한 방에 무너뜨릴 자신이 없다면 절대 경거망동하여서는 안 된다.��มีสัตว์ร้ายขวางทางท่านอยู่ ดังนั้นอย่าหลงระเริง นางเคยอยู่ในอำนาจมาหลายปีและถูกครอบงำด้วยความโปรดปราน หากไม่โจมตีตรงๆ ท่านจะไม่สามารถแตะต้องนางได้
+�
+$KEY:CL100_006_280_051.storylineTitle耗尽贵妃的恩宠2耗盡貴妃的恩寵BBurning Out Wei’s CharmR$貴妃から寵愛を引き剥がすb!귀비에 대한 총애 없애기�Fเสน่ห์ที่ร้อนแรงของเว่ย 
+�
+KEY:CL100_006_280_051.title<你要如何将陛下对韦贵妃的情爱，消磨殆尽？2<你要如何讓陛下對韋貴妃的情意，消磨殆盡？BCHow do you kill His Majesty’s thing for Lady Wei of Predilection?R9何を利用して、陛下の寵愛を薄れさせる？b;폐하의 위귀비에 대한 총애를 없애기 위해...��จะฆ่าของของฝ่าบาทเพื่อเว่ยกุ้ยเฟยได้อย่างไร?
+�
+"KEY:CL100_006_280_051.choiceText+0利用陛下对徐惠的爱2利用陛下對徐蕙的愛B,Lean on His Majesty’s feelings for Xu Hui.R陛下が徐蕙に抱く情b1서혜에 대한 폐하의 사랑을 이용한다�vพึ่งพาความรู้สึกของฝ่าบาทที่มีต่อสวี ฮุย
+�
+"KEY:CL100_006_280_051.choiceText+1利用贵妃想当皇后的心2利用貴妃想當皇后的心B5Feed Lady of Predilection’s dream of being Empress.R$貴妃が皇后になりたがる欲b8황후가 되고자 하는 귀비의 뜻을 이용한다�fสร้างฝันการได้เป็นฮองเฮาให้กุ้ยเฟย
+�
+"KEY:CL100_006_280_051.choiceText+2利用姨母对韦贵妃的恨2利用姨母對韋貴妃的恨B6Fan your aunt’s hatred for Lady Wei of Predilection.Rおばさまの恨みb4위귀비에 대한 이모의 증오를 이용한다��ปัดความเกลียดชังของป้าของท่านที่มีต่อเว่ยกุ้ยเฟย
+*
+(KEY:B09_006_290_C100A_052.storylineTitle
+&
+$KEY:006_290_C100B_054.storylineTitle
+*
+(KEY:B10_006_290_C100C_053.storylineTitle
+�
+KEY:BE_80010.title权力的世界2權力的世界BPower’s the Real GameR権力の世界b권력의 세계�?อำนาจคือเกมที่แท้จริง
+�
+KEY:BE_80010.text�恩宠在权势面前，或许从来都不值一提。徐惠有宠，却无子，无权。这也是她避开宫廷争斗的根本原因。但没想到，故事的最后，她为了帮你而死。2�在權勢面前，恩寵或許從來都不值一提。徐蕙雖得寵，卻無子、無權。這也是她避開宮廷鬥爭的根本原因。但沒想到，故事的最後，她為了幫你而死。B�Favor’s nothing next to raw power. Xu Hui’s got the Emperor’s love but no kids, no pull. That’s why she dodges the palace drama. Still, she ends up dying to help you.R�寵愛など、権力の前では取るに足らないのかもしれない。徐蕙は寵を受けながらも、子がおらず、実権も持たなかった。それゆえに、宮廷の争いとは距離を取っていたのだ。だが結末は皮肉だった。彼女は、あなたを守るために命を落とすことになる。b�권력 앞에서 총애는 무의미하다. 서혜는 총애를 받았지만 자식도 권력도 없었기에 궁중의 분쟁을 피했다. 그러나 이 이야기의 끝에서 예상치 못하게 그녀는 당신을 돕기 위해 목숨을 내놓았다.��ความโปรดปรานนั้นไม่มีอะไรเทียบได้กับอำนาจ สวี ฮุยได้รับความรักจากจักรพรรดิแต่ไม่มีลูกและไม่มีแรงดึงดูด นั่นคือเหตุผลที่นางหลบเลี่ยงละครในวัง แต่ถึงอย่างนั้น นางก็ยังยอมตายเพื่อช่วยท่าน
+�
+KEY:BE_80011.title贵妃的花肥计划2貴妃的花肥計畫BWei’s Peony PlanR貴妃の肥料計画b귀비의 잔인한 계획�0แผนโบตั๋นของเว่ย
+�
+KEY:BE_80011.text9若没有一击毙命的把握，便不可轻举妄动。26若無一擊斃命的把握，便切勿輕舉妄動。B4Without a dead-on strike, you’re not touching her.RN一撃必殺の自信がなければ、軽々しく動くべきではない。bW한 방에 무너뜨릴 자신이 없다면 절대 경거망동하여서는 안 된다.��ถ้าไม่โจมตีตรงๆ ท่านจะไม่สามารถแตะต้องนางได้
+�
+KEY:14.title前往【第十三集】2前往【第十三集】BHead to Chapter 13R『第13章』へb[제13장]으로 이동하기�ไปยังบท 13
+
+KEY:14.endTitle
+�
+KEY:14.text?贵妃的盛宴落幕，那是你为她亲手准备的馈赠。2?貴妃的盛宴落幕，那是你為她親手準備的餽贈。BPLady of Predilection's Downfall’s over, and you’ve got her final gift ready.Rc貴妃の饗宴が幕を下ろす――それはあなたが自ら用意した贈り物だった。by성대했던 귀비의 연회가 막을 내렸다. 그것은 당신이 그녀를 위해 직접 준비한 선물이었다.��งานเลี้ยงแห่งความล่มสลายสิ้นสุดลงแล้ว และท่านได้เตรียมของขวัญสุดท้ายของนางไว้แล้ว
+�
+$KEY:QL130_006_230_046.storylineTitle接过李泰的金簪2接過李泰的金簪BTake the Hairpin From Li TaiR*李泰の金色かんざしを受け取るb$이태의 금비녀를 받은 당신�]ท่านเอาปิ่นปักผมทองมาจากหลี่ไท่
+
+KEY:QL130_006_230_046.title
+
+KEY:QL130_006_230_046.hint
+�
+KEY:QL130_006_230_046.text接过簪子2接過簪子BTakeRかんざしを受け取るb비녀를 받는다�3เอาปิ่นปักผมทองมา
+�
+$KEY:CL031_006_020_055.storylineTitle真杀还是假杀2真殺還是假殺BKill for Real or Fake It?R本当に殺すかb진짜 죽음과 가짜 죽음�7ฆ่าจริงหรือฆ่าปลอม?
+�
+KEY:CL031_006_020_055.title真的要杀了她弟弟吗？2真的要殺了她弟弟嗎？B/Are you actually gonna kill Xi Xin’s brother?R'本当に彼女の弟を殺すのか？bN그녀의 남동생을 진짜로 죽일지에 대한 선택의 기로에서...�dท่านจะฆ่าน้องชายของซี๋ซินจริงหรือ?
+w
+"KEY:CL031_006_020_055.choiceText+0真杀2真殺BDo it for real.R殺すb진짜로 죽인다�ทำจริง
+�
+"KEY:CL031_006_020_055.choiceText+1假杀2假殺BStage his death.R殺すふりをするb가짜로 죽인다�6จัดฉากการตายของเขา
+*
+(KEY:B11_006_020_C031A_056.storylineTitle
+&
+$KEY:006_020_C031B_057.storylineTitle
+�
+KEY:BE_80004.title袭心仇恨拉满2襲心仇恨拉滿BXi Xin’s Fury Hits MaxR襲心の憎悪が頂点にb극에 달한 습심의 원한�Qความโกรธแค้นสูงสุดของซี๋ซิน
+�
+KEY:BE_80004.texti小水：“贵妃的药已让我残血，你的设局又拿我人头。这局太难，我要重开。”2i小水：「貴妃的藥已讓我殘血，你又設局拿我人頭。這局太難了，我要重開。」B�Little Shui: Lady of Predilection’s poison half-killed me, and now your trap finishes me off. This game’s brutal and I want a reset.R�小流：「ただでさえ貴妃様の薬で瀕死なのに罠にハメられるなんてやってられるか……人生やり直し希望！」b�소수: "귀비의 약은 내 피를 갉아먹었고 당신이 짠 판은 내 목숨을 앗아갔지. 이번 판은 너무 어려우니 다시 시작하려 하네."��เสี่ยวสุ่ย: พิษของกุ้ยเฟยฆ่าข้าเกือบตาย และตอนนี้กับดักของท่านก็ฆ่าข้าจนตาย เกมนี้โหดร้ายมาก และข้าอยากเริ่มเกมใหม่
+�
+$KEY:QL051_006_210_061.storylineTitle解开密码匣2解開密碼匣BCracking the Puzzle BoxR細工箱を解くb암호상자 열기�'ไขกล่องปริศนา
+
+KEY:QL051_006_210_061.title
+�
+KEY:QL051_006_210_061.hint拨动密码2撥動密碼BDial the CodeR仕掛けを回すb암호를 풀어보세요.�rท่านกำลังยุ่งกับล็อคเพื่อให้มันเปิดออก
+ 
+KEY:006_210_062.storylineTitle
+�
+$KEY:CL061_006_220_058.storylineTitle内心的真实想法2內心的真實想法BWhat You Really ThinkR心の本音b내면의 진심�9สิ่งที่ท่านคิดจริงๆ
+�
+KEY:CL061_006_220_058.title'此时，你内心的真实想法是：2'此刻，你內心的真實想法是：B-What’s running through your head right now?R!今、あなたの本音は……b'지금 당신의 마음속 생각은...�^ตอนนี้ท่านกำลังคิดอะไรอยู่ในหัว?
+�
+"KEY:CL061_006_220_058.choiceText+0*那又如何？没有真心就没有软肋2*那又如何？沒有真心就沒有弱點BSo what? No heart, no weakness.R9だから何？本心などなければ、弱点もないbB진심이 없으면 약점도 없는 것이니, 어쩔 수 없어.�Nแล้วไง? ไม่มีหัวใจ ไม่อ่อนแอ
+�
+"KEY:CL061_006_220_058.choiceText+1*她错了，宫里已有真心待我的人2*她錯了，宮裡已有真心待我的人BFShe’s got it wrong—someone in this palace actually cares about me.R0違う。私を想う人は、ここにもいるbD아니야, 궁에는 날 진심으로 대해주는 사람이 있어.��นางเข้าใจผิดแล้ว มีคนในวังแห่งนี้ที่ห่วงใยข้าจริงๆ
+&
+$KEY:006_220_C061A_059.storylineTitle
+&
+$KEY:006_220_C061B_060.storylineTitle
+u
+KEY:13.title第十一集 完2第十一集 完BChapter 11  EndsR第11章　了b제11장 끝�บท 11 จบ
+
+KEY:13.endTitle
+�
+KEY:13.text贵妃赏花中2貴妃賞花中B2Lady of Predilection’s off admiring her flowers.R貴妃、花見中b꽃놀이 중인 귀비�Zกุ้ยเฟยกำลังชื่นชมดอกไม้ของนาง
+�
+KEY:006_210_063.storylineTitle杜若的诅咒2杜若的詛咒BDu Ruo’s CurseR杜若の呪いb두약의 저주�-คำสาปของตู้รั่ว
+&
+$KEY:006_220_C070B_065.storylineTitle
+1
+$KEY:QL130_006_420_066.storylineTitle	三支箭
+
+KEY:QL130_006_420_066.title
+B
+KEY:QL130_006_420_066.hint$按方向拖拽并蓄力射出弓箭
+&
+$KEY:006_290_C100B_067.storylineTitle

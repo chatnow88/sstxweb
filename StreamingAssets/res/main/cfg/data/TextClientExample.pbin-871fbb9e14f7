@@ -1,0 +1,263 @@
+
+�
+
+Main_Enter入宫2入宮B<size=120>Enter Palace</size>R内参りするb입궁�0เข้าสู่พระราชวัง
+g
+Main_Continue继续2繼續BResumeR	続けるb계속하기�$ดำเนินการต่อ
+�
+
+Main_Start入宫2入宮B<size=120>Enter Palace</size>R内参りするb입궁�0เข้าสู่พระราชวัง
+c
+	Main_Lock尚未解锁2尚未解鎖BLockedR未解放ですb	미해제�ถูกล็อก
+�
+Result_Text_CompletedEvent完成事件2完成事件BEventsR完了済みイベントb이벤트 완료�อีเวนต์
+h
+Result_Text_Acquired收录物品2收錄物品BItemsR	登録品b수록한 물품�ไอเทม
+�
+Result_Text_HiedVideo奖励剧情2獎勵劇情BBonus StoryRボーナスストーリーb스토리 보상�0เนื้อเรื่องพิเศษ
+[
+Result_Button_Read已阅2	已閱讀BConfirmR閲覧済みb확인�ยืนยัน
+w
+Result_Button_StoryLine	故事线2	故事線B	StorylineR	分岐図b스토리라인�เส้นเรื่อง
+d
+Result_Button_Next	下一集2	下一集BNext ChapterR次章b
+다음 장�บทถัดไป
+v
+Result_Button_Menu	主菜单2	主選單B	Main MenuRメインメニューb메인 메뉴�เมนูหลัก
+�
+Result_Text_Trailers观看预告片2觀看預告片BTrailerR予告編を観るb예고편 보기�ตัวอย่าง
+X
+EasyVideo_Label_Important重要2重要B	IMPORTANTR重要b중요�สำคัญ
+^
+EasyVideo_Label_Secret绝密2機密BCONFIDENTIALR極秘b기밀�ความลับ
+Q
+StoryChapter_Button_Enter进入2進入BEnterR入るb진입�เข้า
+f
+StoryChapter_Button_Lock	未解锁2	未解鎖BLockedR	未解放b	미해제�ถูกล็อก
+x
+StoryChapter_BackBtn_Title全部章节2全部章節BAll ChaptersR全章b
+모든 장�บททั้งหมด
+�
+StoryChapter_Button_Location快速定位2快速跳轉BCurrentRクイック移動b빠른 이동�ปัจจุบัน
+i
+Video_ResolutionBtn_Ultra	4K 超清24K超高畫質B4K UHDR4K 超高画質b4K 초고화질�4K UHD
+R
+Video_ResolutionBtn_High高清2	高畫質BFHDR	高画質b	고화질�Full HD
+Y
+Video_ResolutionBtn_Quasi	准高清2中等畫質BHDR準高画質b준고화질�HD
+[
+Video_ResolutionBtn_Normalize标清2標準畫質BSDR標準画質b표준 화질�SD
+{
+Video_Button_Pause	已暂停2	已暫停BPausedR一時停止中b일시중지됨�$หยุดชั่วคราว
+�
+Video_Tips_VideoModeSwitch已切换到:2已切換至：BSwitched to: R切り替え先：b전환 완료:�"เปลี่ยนเป็น:
+y
+Video_Tips_FastForward	快进至2	快轉至BFast forward toR早送り先b빨리감기�ข้ามไปที่
+}
+Video_Tips_Rewind	快退至2	倒轉至B	Rewind toR巻き戻し先b뒤로가기�'ย้อนกลับไปยัง
+�
+Video_Tips_LastWatchedStatus 上次观看至{0}, 继续播放2'上次觀看至{0}，是否繼續播放BYou left at {0} last timeRE前回は{0}まで視聴しました。続きから再生します。bK지난 번에 {0}까지 시청했으며, 그 뒤로 계속 재생됩니다.�nท่านออกจากที่นี่เมื่อ {0} ในครั้งที่แล้ว
+�
+Video_Tips_CharacterProfile系统尚未解锁2系統尚未解鎖BLockedRシステムは未解放ですb시스템 미해제�ถูกล็อก
+�
+Video_Tips_Loading视频加载中2影片載入中BVideo LoadingR動画を読み込み中b동영상 로딩 중�-กำลังโหลดวิดีโอ
+�
+%RechargeGoodsCell_Tips_MoneyNotEnough铜币不足2銅幣不足，請前往儲值BNot enough CoinsRE銅貨が不足しています。チャージをお勧めします。b2동전이 부족합니다. 먼저 충전하세요.�0เหรียญไม่เพียงพอ
+�
+VoteWindow_Tips_EggNotEnough$鸡蛋数量不足，请前往购买2$雞蛋數量不足，請前往購買B'Insufficient Eggs. Buy them to get moreR<卵が足りません。ご購入をご検討ください。b2달걀이 부족합니다. 우선 구매하세요.�=ไข่ไม่พอ ซื้อเพิ่มได้
+�
+VoteWindow_Tips_FlowerNotEnough$鲜花数量不足，请前往购买2$鮮花數量不足，請前往購買B*Insufficient Flowers. Buy them to get moreR?美花が足りません。ご購入をご検討ください。b/꽃이 부족합니다. 우선 구매하세요.�Fดอกไม้ไม่พอ ซื้อเพิ่มได้
+^
+RechargeGoodsCell_Text_Discount{0}折2{0}折B{0} offR{0}割b
+{0} 할인�{0} ปิด
+�
+RechargeGoodsCell_Popup_Content!是否使用{0}{1}兑换{2}{3}？2!要使用{0}{1}兌換{2}{3}嗎？B"Use {0}{1} to exchange for {2}{3}?R'{0}{1}で{2}{3}と交換しますか？bF{0} {1}을(를) 사용하여 {2} {3}을(를) 교환하시겠습니까?�Yใช้ {0}{1} เพื่อแลกกับ {2}{3} ใช่หรือไม่?
+�
+RechargeGoodsCell_Tag_Copper加赠{0}枚2加贈{0}枚BGet {0} MoreR追加で{0}枚贈るb{0}개 추가 증정�)รับ {0} เพิ่มเติม
+�
+RechargeGoodsCell_Tag_Flower加赠{0}朵2加贈{0}朵B+{0}R{0}本追加b꽃 {0}송이 추가 증정�#มอบ {0} ดอกไม้(s)
+�
+RechargeGoodsCell_Tag_Egg加赠{0}个2加贈{0}個B+{0}R{0}個追加b{0}개 추가 증정�)มอบ {0} เพิ่มเติม
+�
+RechargeGoodsCell_Tag_Ticket加赠{0}张2加贈{0}張BGet {0} MoreR追加で{0}枚贈るb{0}장 추가 증정�)รับ {0} เพิ่มเติม
+l
+RechargeGoodsCell_Popup_Title提  示2提  示BTipsR	ヒントb힌  트�แจ้งเตือน
+�
+RechargeGoodsCell_Tips_Success成功兑换{0}+{1}2成功兌換{0}+{1}BExchange successful: {0} + {1}R{0}+{1}と交換しましたb{0}+{1} 교환 성공�;แลกเปลี่ยนสำเร็จ: {0} + {1}
+�
+&CharacterProfile_Text_CharacterDesLock解锁可查看2解鎖可查看BUnlock to viewR解放後に確認できますb해제 시 확인 가능�*ปลดล็อกเพื่อดู
+�
+%CharacterProfile_Text_ChapterLockText完成【{0}】解锁2完成【{0}】解鎖BComplete {0} to unlockR$「{0}」完了で解放できますb[{0}] 완료 시 해제�Sทำ {0} ให้เสร็จสิ้นเพื่อปลดล็อก
+�
+!CharacterProfile_Text_RewordVideo奖励剧情2獎勵劇情BBonus StoryRボーナスストーリーb보너스 스토리�0เนื้อเรื่องพิเศษ
+q
+#CharacterProfile_Text_CharacterLock	未解锁2	未解鎖BLockedR	未解放b	미해제�ถูกล็อก
+}
+CharacterProfile_BackBtn_Title风华人物2風華人物B
+CharactersR風采天賦b인물 사전�ตัวละคร
+�
+(CharacterProfile_TabBtn_CharacterProfile人物档案2人物檔案BCharacter ProfileR'キャラクターのプロフィールb인물 프로필�0แฟ้มประวัติบุคคล
+s
+)CharacterProfile_TabBtn_CharacterMemories回忆2回憶BMemoriesR回想b회상�ความทรงจำ
+�
+!CharacterProfile_Tips_LockedVideo继续探索可解锁2繼續探索可解鎖BKeep exploring to unlockR'探索を続けると解放できますb계속 탐색 시 해제 가능�Bสำรวจต่อไปเพื่อปลดล็อก
+v
+Collect_BackBtn_Title万象博物2萬象博物BCollectiblesR万象博物b만물 도감�ของสะสม
+j
+Collect_TabBtn_Item风物典藏2風物典藏BCollectiblesR風雅名品b	소장품�ไอเทม
+�
+Collect_Text_LockDes待道具解锁后查看2解鎖道具後可查看BItem Info LockedR*アイテム解放後に確認できますb"아이템 해제 후 확인 가능�9ข้อมูลรายการถูกล็อก
+i
+Collect_TabBtn_Dictionary词典2辭典BGlossaryR辞典b사전�!อภิธานศัพท์
+�
+MainViewQuitSureText是否退出?2確定要退出嗎？BExit?R'終了してもよろしいですか？b나가시겠습니까?�ออกหรือไม่?
+t
+Achievement_Text_CompleteTime
+{0} 达成2	{0}達成B{0} achievedR	{0}達成b
+{0} 달성�สำเร็จ {0}
+�
+ Achievement_Text_CompletePercent{0}%的玩家已达成 	2{0}%的玩家已達成 	B{0}% have achievedR${0}％のユーザーが達成済みb,{0}%의 플레이어가 달성했습니다.	�สำเร็จ {0}%
+�
+ AchievementDetail_Text_FailToast未解锁相关成就2未解鎖相關成就BAchievement not unlockedR関連実績が未解放ですb.해당 업적을 해제하지 못했습니다.�Nยังไม่ได้ปลดล็อกความสำเร็จ
+T
+Mail_Text_Title_mail邮件2信件BMailR	メールb우편�จดหมาย
+b
+Mail_Text_Title_notice公告2公告BAnnouncementsRお知らせb공지�ประกาศ
+�
+Mail_Text_MailCount邮件数量：{0}/1002信件數量：{0}/100BMail: {0}/100Rメール数：{0}/100b우편 수량: {0}/100�จดหมาย: {0}/100
+�
+Mail_Text_RemainingTime还剩{0}日2還剩{0}日B{0} days leftR残り{0}日b{0}일 남음�)เหลือเวลา {0} วัน
+s
+Mail_Text_InfoSender发件人：{0}2寄件人：{0}BFrom {0}R送信者：{0}b발송자: {0}�จาก {0}
+�
+Mail_Text_InfoTime发送时间：{0}2發送時間：{0}BSent at {0}R送信日時：{0}  b발송 시간 : {0}�ส่งที่ {0}
+�
+Mail_Text_MailLimitApproachingW即将到达邮件数量上限，请及时进行清理，否则无法正常接收邮件2H信件數量將達上限，請儘快清理，以免無法接收新郵件BLYour mailbox is almost full. Please delete old messages to receive new ones.R�メール数が上限に近づいています。上限に達すると新規メールが受信できなくなりますので、早めに整理してください。b�우편 수량 상한에 곧 도달합니다. 정상적으로 우편을 수신할 수 있도록 제때에 우편을 정리해 주세요.��กล่องจดหมายของท่านใกล้จะเต็มแล้ว กรุณาลบข้อความเก่าเพื่อรับข้อความใหม่
+�
+Mail_Text_MailLimitReached*邮件数量达到上限，请清理邮件2'信件匣已滿，請刪除部分信件B1Your mailbox is full. Please delete old messages.RQメール数が上限に達しました。メールを整理してください。bM우편 수량이 상한에 도달했습니다. 우편을 정리해 주세요.��กล่องจดหมายของท่านเต็มแล้ว กรุณาลบข้อความเก่า
+�
+Mail_Text_DeleteSingleContent确认删除当前邮件？2!確定要刪除這封信件嗎？B-Are you sure you want to delete this message?R'このメールを削除しますか？b*해당 우편을 삭제하시겠습니까?�sท่านแน่ใจหรือไม่ว่าต้องการลบข้อความนี้?
+�
+Mail_Text_DeleteReadContent!确认删除所有已读邮件？2'確定要刪除所有已讀信件嗎？B2Are you sure you want to delete all read messages?R0既読メールをすべて削除しますか？b1읽은 우편을 모두 삭제하시겠습니까?��ท่านแน่ใจหรือว่าต้องการลบข้อความที่อ่านแล้วทั้งหมด?
+n
+Mail_Text_DeleteTitle删除确认2確認刪除BConfirmR削除確認b삭제 확인�ยืนยัน
+�
+Mail_Text_DeletedReadSuccess成功删除已读已领邮件20已成功刪除所有已讀且已領取的信件B0All read and claimed messages have been deleted.R3既読・受取済みメールを削除しましたb+읽은 우편을 모두 삭제했습니다.�cลบข้อความที่อ่านและรับทั้งหมดแล้ว
+�
+Mail_Text_NoReceivedMails没有可领取的邮件2目前沒有可領取的信件BThere is nothing to claim.R*受取可能なメールはありませんb(수령 가능한 우편이 없습니다.�-ไม่มีอะไรให้รับ
+�
+Mail_Text_NoDeleteReadMails没有可一键删除的邮件2目前沒有可刪除的信件BNo messages to delete.R0一括削除できるメールはありませんb/일괄 삭제 가능한 우편이 없습니다.�9ไม่มีข้อความที่จะลบ
+j
+RankInfo_Text_FlowerTitle	鲜花榜2	鮮花榜BLikedR美花ランキングb인기 랭킹�	ชอบ
+p
+RankInfo_Text_EggTitle	鸡蛋榜2	雞蛋榜BDislikedR卵ランキングb달걀 랭킹�ไม่ชอบ
+s
+RankInfo_Text_EggCount贡献鸡蛋数2雞蛋貢獻數BEggsR投げた卵の数b던진 달걀 수�	ไข่
+�
+RankInfo_Text_FlowerCount贡献鲜花数2鮮花貢獻數BFlowersR贈った美花の数b보낸 꽃 수�ดอกไม้
+{
+RankInfo_Text_FlowerBtn	送鲜花2	送鮮花BSend FlowersR美花を贈るb꽃 보내기�ส่งดอกไม้
+p
+RankInfo_Text_EggBtn	扔鸡蛋2	丟雞蛋B
+Throw EggsR卵を投げるb달걀 던지기�โยนไข่
+�
+Ranking_Text_RefreshQ<color=#ffd29c>[</color> 每天5:00结算并清空数据 <color=#ffd29c>]</color>2T<color=#ffd29c>「</color>每天05:00結算並清空資料<color=#ffd29c>」</color>BF<color=#ffd29c>[</color>Reset daily at 5:00 AM<color=#ffd29c>]</color>RW<color=#ffd29c>[</color>毎日5：00にリセットされます<color=#ffd29c>]</color>bR<color=#ffd29c>[</color>매일 5:00에 초기화됩니다.<color=#ffd29c>]</color>��<color=#ffd29c>[</color>ข้อมูลทั้งหมดจะถูกชำระและเคลียร์ทุกวันเวลา 05.00 น.<color=#ffd29c>]</color>
+t
+Ranking_Text_Back	排行榜2	排行榜BLeaderboardsRランキングb랭킹�!กระดานผู้นำ
+�
+RankInfo_Text_Back榜单详情2榜單詳細資料BLeaderboard DetailsRランキングの詳細b랭킹 상세정보�?รายละเอียดกระดานผู้นำ
+�
+Rank_Text_Info�每日0:00结算数据，所有榜单每隔一分钟自动刷新一次，如遇数据更新不及时请稍作等待。距离下次榜单更新还有{0}小时{1}分钟{2}秒。2�日榜每天0:00結算並清空資料，所有榜單每分鐘自動刷新一次。若資料更新稍有延遲，請耐心等候。距離下次榜單更新還有{0}小時{1}分鐘{2}秒。B�Daily rankings reset daily at 0:00 AM. Rankings refresh every minute. If the data seems outdated, please wait a moment. Time until next ranking update: {0}h {1}m {2}s.R�デイリーランキングは毎日0:00にリセットされます。ランキングはすべて1分ごとに自動更新されます。更新が遅れている場合はしばらくお待ちください。次回のランキング更新まであと{0}時間{1}分{2}秒です。b�일일 랭킹은 매일 0:00에 초기화되며 모든 랭킹은 1분 간격으로 자동 갱신됩니다. 랭킹 데이터 업데이트에 지연이 발생할 경우 잠시만 기다려 주시길 바랍니다. 다음 랭킹 업데이트까지 {0}시간 {1}분 {2}초 남았습니다.��การจัดอันดับรายวันรีเซตทุกวันเวลา 0:00 น. การจัดอันดับจะรีเฟรชทุกนาที หากข้อมูลดูเหมือนยังไม่ได้อัปเดต กรุณารอสักครู่ เวลาจนกว่าจะมีการอัปเดตการจัดอันดับครั้งต่อไป: {0} ชั่วโมง {1} นาที {2} วินาที
+u
+Fail_Button_Storyline	故事线2	故事線B	StorylineR	分岐図b스토리라인�เส้นเรื่อง
+�
+Fail_Tips_Coin铜币不足2銅幣不足BNot enough CoinsR銅貨が不足していますb동전 부족�0เหรียญไม่เพียงพอ
+v
+Fail_TryAgain再活一次2再試一次B	Try AgainRやり直すb환생하기�!ลองอีกครั้ง
+�
+Fail_Tips_FailedUnlock解锁失败，请重试2解鎖失敗，請重試BUnlock failed. Please retry.RE解放できませんでした。もう一度お試しください。b*해제 실패, 다시 시도해 주세요.�mปลดล็อกไม่สำเร็จ กรุณาลองใหม่อีกครั้ง
+�
+Fail_Tips_SucceedUnlock已成功购买2已成功購買B	PurchasedR購入しましたb구매 성공�ซื้อแล้ว
+(
+Share_Save_Success已保存至相册
+
+Share_Save_Fail保存失败
+�
+Share_Save_Path已保存至{0}2已儲存至{0}BSaved to {0}R{0}に保存しましたb{0}에 저장되었습니다.�$บันทึกไปยัง{0}
+m
+Setting_Text_Code	兑换码2	兌換碼BRedeem CodeR交換コードb교환코드�แลกโค้ด
+�
+Setting_Demonstrate_FullScreen全屏模式2全螢幕模式B
+FullscreenR全画面モードb전체 화면 모드�เต็มหน้าจอ
+�
+Setting_Demonstrate_Windowed窗口模式2視窗模式BWindowedRウィンドウモードb	창모드�หน้าต่าง
+
+Setting_Text_Logoff注销账号2註銷帳號BDelete AccountRアカウント削除b계정 삭제�ลบบัญชี
+�
+Setting_Text_Protocol游戏用户协议2遊戲使用條款BGame User AgreementRゲーム利用規約b게임 이용약관�0ข้อตกลงผู้ใช้เกม
+�
+Logoff_Text_Content是否要注销账号2確定要註銷帳號嗎？BDelete Account?R'アカウントを削除しますか？b#계정을 삭제하시겠습니까?�=ลบบัญชีผู้ใช้หรือไม่?
+�
+Network_Connect_Success网络连接成功2網路連線成功B	ConnectedR'ネットワークに接続しましたb네트워크 연결 성공�'เชื่อมต่อแล้ว
+�
+Network_Connect_Fail网络连接失败2網路連線失敗BNo network connectionR3ネットワークに接続できませんでしたb네트워크 연결 실패�Nไม่มีการเชื่อมต่อเครือข่าย
+�
+Account_Login登录成功2登入成功BLogged in successfullyRログインしましたb로그인 성공�3เข้าสู่ระบบสำเร็จ
+�
+Account_Logout已退出登录2	已登出BYou're now logged inRログアウトしましたb로그아웃 완료�Bท่านได้เข้าสู่ระบบแล้ว
+�
+Account_NotInWhitelist账号未加入白名单2帳號未加入白名單BYou're now logged outR6アカウントはホワイトリスト未登録ですb=계정이 화이트리스트에 추가되지 않았습니다.�?ท่านได้ออกจากระบบแล้ว
+�
+Account_CopyUID已复制UID2已複製UIDB
+UID copiedRUIDをコピーしましたbUID 복사 완료�UID ถูกคัดลอก
+�
+Account_AgreePolicy请勾选下方的服务协议2請勾選下方的服務條款B&Please check the user agreements belowR0下記の利用規約に同意してくださいb8아래의 서비스 이용약관에 동의해 주세요.�lกรุณาตรวจสอบข้อตกลงการบริการด้านล่าง
+�
+Account_PolicyDetail�我已详细阅读并同意<#e5bf64><u><link="agreement">腾讯游戏用户协议</link></u></color>、<#e5bf64><u><link="privacy">隐私保护指引</link></u></color>、<#e5bf64><u><link="childPrivacy">儿童隐私保护指引</link></u></color>及<#e5bf64><u><link="thirdParty">第三方信息共享清单</link></u></color>2�我已詳細閱讀並同意<#e5bf64><u><link="agreement">騰訊遊戲使用條款</link></u></color>、<#e5bf64><u><link="privacy">隱私保護指南</link></u></color>、兒童隱私保護指南<#e5bf64><u><link="childPrivacy"></link></u></color>及<#e5bf64><u><link="thirdParty">第三方資訊共享清單</link></u></color>B�I Have Read and Agreed to <#e5bf64><u><link="agreement">Tencent Game User Agreement</link></u></color>, <#e5bf64><u><link="privacy">Privacy Guidelines</link></u></color>, <#e5bf64><u><link="childPrivacy">Children’s Privacy Guidelines</link></u></color>, and <#e5bf64><u><link="thirdParty">Third-Party Information Sharing List</link></u></color>R�<#e5bf64><u><link="agreement">テンセントゲーム利用規約</link></u></color>、<#e5bf64><u><link="privacy">プライバシーポリシー</link></u></color>、<#e5bf64><u><link="childPrivacy">未成年のプライバシー保護</link></u></color>および<#e5bf64><u><link="thirdParty">第三者情報共有リスト</link></u></color>を確認のうえ、同意しました。b�<#e5bf64><u><link="agreement">텐센트 게임 이용약관</link></u></color>, <#e5bf64><u><link="privacy">개인정보 처리방침</link></u></color>, <#e5bf64><u><link="childPrivacy">아동 개인정보 처리방침</link></u></color> 및 <#e5bf64><u><link="thirdParty">제3자 정보 공유 목록</link></u></color>에 동의합니다.��ฉันได้อ่านและตกลงที่จะ <#e5bf64><u><link="agreement">Tencent Game ข้อตกลงผู้ใช้</link></u></color>, <#e5bf64><u><link="privacy">แนวปฏิบัติด้านความเป็นส่วนตัว</link></u></color>, <#e5bf64><u><link="childPrivacy">แนวปฏิบัติด้านความเป็นส่วนตัว</link></u></color> และ <#e5bf64><u><link="thirdParty">รายการแบ่งปันข้อมูลของบุคคลที่สาม</link></u></color>
+�	
+Account_PolicyDetailGlobal�我已详细阅读并同意<#e5bf64><u><link="agreement">游戏用户协议</link></u></color>、<#e5bf64><u><link="privacy">隐私保护指引</link></u></color>2�我已詳細閱讀並同意<#e5bf64><u><link="agreement">遊戲使用條款</link></u></color>、<#e5bf64><u><link="privacy">隱私保護指南</link></u></color>B�I Have Read and Agreed to <#e5bf64><u><link="agreement">Game User Agreement</link></u></color> and <#e5bf64><u><link="privacy">Privacy Guidelines</link></u></color>R�<#e5bf64><u><link="agreement">ゲーム利用規約</link></u></color>および<#e5bf64><u><link="privacy">プライバシーポリシー</link></u></color>を確認のうえ、同意しました。b�<#e5bf64><u><link="agreement">게임 이용약관</link></u></color> 및 <#e5bf64><u><link="privacy">개인정보 처리방침</link></u></color>에 동의합니다.��ฉันได้อ่านและตกลงที่จะ <#e5bf64><u><link="agreement">เกม ข้อตกลงผู้ใช้</link></u></color> และ <#e5bf64><u><link="privacy">แนวปฏิบัติด้านความเป็นส่วนตัว</link></u></color>
+�
+Account_DeleteSuccess账号已注销2已註銷帳號BAccount DeletedR'アカウントが削除されましたb 계정이 삭제되었습니다.�*บัญชีถูกลบแล้ว
+�
+ToastTips_ChapterUnlock含已购买章节2含已購買章節BIncludes purchased chaptersR*購入済みの章が含まれていますb구매한 장 포함�$รวมบทที่ซื้อ
+�
+ToastTips_ChapterNoBuy前置章节未解锁2前置章節未解鎖BPrevious chapters are lockedR前章が未解放ですb이전 장 해제되지 않음�?บทก่อนหน้าถูกล็อกอยู่
+�
+ToastTips_MidasSuccess充值成功2儲值成功B	PurchasedRチャージしましたb충전 성공�ซื้อแล้ว
+�
+ToastTips_RechargeSuccess充值已发放2儲值已發放BTop-Up SuccessfulR*チャージ内容が反映されましたb 충전이 완료되었습니다.�6ออกการเติมเงินแล้ว
+�
+ToastTips_PasswordBoxFail密码错误2密碼錯誤BIncorrect passwordR'パスワードが間違っていますb비밀번호 오류�6รหัสผ่านไม่ถูกต้อง
+�
+ToastTips_AchievementVideo视频还不能打开~2影片還不能打開～BThe video is not available yetR*この動画はまだ再生できませんb/동영상을 아직 재생할 수 없습니다.�Eวิดีโอยังไม่พร้อมใช้งาน
+�
+ToastTips_CodesFail未查询到该兑换码2查無此兌換碼BInvalid codeR3該当する交換コードが見つかりませんb.해당 교환코드를 찾지 못했습니다.�*รหัสไม่ถูกต้อง
+�
+ToastTips_BEJumpTips*已回到关键分歧点，请重新选择2*已回到關鍵分歧點，請重新選擇B)Back to Key Decision Point, Choose again.RH重要な分岐点に戻りました。再度選択してください。bF핵심 전환점으로 돌아왔습니다. 다시 선택해 주세요.��กลับไปยังจุดตัดสินใจสำคัญ กรุณาเลือกใหม่อีกครั้ง
+C
+ToastTips_PersonalityNoRefresh!收集更多关键词后试试吧
+�
+
+Popup_Exit是否退出？2確定要退出嗎？BExit?R'終了してもよろしいですか？b나가시겠습니까?�ออกหรือไม่?
+v
+Popup_Title_Exit退出确认2確認退出BConfirm ExitR終了の確認b	나가기�ยืนยันออก
+�
+Popup_Back_Login是否要返回登录界面2!確定要返回登入介面嗎？BReturn to Login?R'ログイン画面に戻りますか？b0로그인 화면으로 돌아가시겠습니까?�4กลับไปเข้าสู่ระบบ?
+O
+Popup_Permission_Content3允许访问相册，以便保存游戏中的图片
+ 
+Popup_Permission_Title权限
+�
+Chapter_WaitUpdate9当前版本内容已体验完毕，请等待后续更新29目前版本內容已體驗完畢，請靜待後續更新B.Current version journey completed. Stay tuned!R�現在のバージョンのコンテンツはすべて体験済みです。今後のアップデートをお待ちください。ba현재 버전 내용을 모두 플레이했습니다. 다음 업데이트를 기대해 주세요!��เนื้อหาเวอร์ชันปัจจุบันเสร็จสมบูรณ์ โปรดติดตามเนื้อหาเพิ่มเติม
++
+Chapter_Text_Progress本集探索度：
+�
+Version_Client版本信息：{0}2版本資訊：{0}BVersion Info: {0}Rバージョン情報：{0}b버전 정보: {0}�/ข้อมูลเวอร์ชัน: {0}
+�
+PasswordBox_Text_Btn确认密码2確認密碼BConfirm PasswordRパスワード確認b비밀번호 확인�*ยืนยันรหัสผ่าน
+I
+Recharge_Text_FlowerCount{0}朵2{0}朵B{0}R{0}本b	{0}송이�{0}
+C
+Recharge_Text_EggCount{0}个2{0}個B{0}R{0}個b{0}개�{0}
+�
+ErrorCode_MultiLogin'检测到相同账号，请重新登录2'偵測到相同帳號，請重新登入B0Duplicate account detected. Please log in again.Rf同じアカウントでのログインが検出されました。再ログインしてください。bF동일 계정이 감지되었습니다. 다시 로그인해 주세요.�sตรวจพบบัญชีซ้ำ กรุณาเข้าสู่ระบบอีกครั้ง

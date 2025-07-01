@@ -1,0 +1,380 @@
+
+�
+KEY:002_010_001.storylineTitle帝王盛怒2帝王盛怒BThe Emperor's FuryR天子の逆鱗b황제의 분노�*โทสะของฮ่องเต้
+�
+$KEY:CL010_002_030_002.storylineTitle吃瓜的才人2看戲的才人BWhispers of the CairensR噂話に興じる才人たちb재인들의 속삭임�?เสียงกระซิบของไฉเหริน
+�
+KEY:CL010_002_030_002.title9她们正在热聊，并未注意到你，此时你选择29她們聊得正熱絡，沒注意到你，此時你選擇BSYou catch a group of Cairens gossiping, oblivious to your presence. What do you do?RT彼女たちは会話に夢中、存在に気づかれぬままのあなたは……bu당신을 발견하지 못한 채 흥미진진하게 이야기를 나누고 있는 상황에서, 당신의 선택은?��ท่านเห็นไฉเหรินกำลังนินทากันโดยที่ท่านไม่รู้ ท่านจะทำอย่างไร?
+�
+"KEY:CL010_002_030_002.choiceText+0*停下脚步，听一听她们在说什么2*停下腳步，聽一聽她們在說什麼B)Pause to eavesdrop on their conversation.R'足を止め、そっと耳を澄ますb0발걸음을 멈추고 이야기를 엿듣는다�]หยุดเพื่อแอบฟังบทสนทนาของพวกเขา
+�
+"KEY:CL010_002_030_002.choiceText+1大方上前，与她们攀谈2大方上前，與她們攀談B!Step forward and join their chat.R'堂々と歩み寄り、声をかけるb!앞으로 다가가 말을 건다�iก้าวไปข้างหน้าและร่วมสนทนาของพวกเขา
+�	
+$KEY:002_030_C010A_003.storylineTitlej你听到她们讨论魏王的优秀。两⼈⾛后，魏王出现， 问你觉得他和晋王谁更优秀2u你聽到她們在討論魏王有多優秀。兩人離開後，魏王現身，問你覺得他與晉王誰更優秀。B�You hear them gushing over Royal Duke of Wei's charms. After they leave, Royal Duke of Wei himself appears and asks, "So, who's more impressive—me or My Ninth Brother?"R�才人たちが魏王を称える声を耳にした。ふたりが去ったあと、魏王本人が姿を現し、「晋王とこの俺、どちらが優れていると思う？」と問いかけてきたb�위왕의 우수함에 대해 이야기하는 재인들, 그녀들이 떠난 후 나타나 자신과 진왕 중 누가 더 낫냐고 묻는 위왕��ท่านได้ยินพวกเขาพร่ำเพ้อถึงเสน่ห์ของเว่ยอ๋อง หลังจากที่พวกเขาจากไป เว่ยอ๋องก็ปรากฏตัวขึ้นและถามว่า "แล้วใครน่าประทับใจกว่ากัน ข้าหรือจิ้นอ๋อง?"
+�
+$KEY:002_030_C010B_004.storylineTitle4她们敷衍了你。两⼈⾛后， 魏王出现，26她們敷衍了你。兩人離開後，魏王現身，BcThey brush you off with half-hearted replies. As they walk away, Royal Duke of Wei steps into view.R�才人たちは曖昧な言葉ではぐらかし、そのまま立ち去った。残されたあなたの前に、魏王が静かに現れる。bE재인들이 대충 얼버무리며 자리를 뜨자 나타난 위왕��พวกเขาเมินท่านด้วยคำตอบที่ไม่เต็มใจ ขณะที่พวกเขาเดินจากไป เว่ยอ๋องก็ก้าวเข้ามาในสายตา
+�
+KEY:002_030_005.storylineTitle李泰要你为他所用2李泰要你為他所用B9Li Tai sizes you up and offers you a chance to serve him.R李泰、懐柔の思惑b'자신을 위해 일해달라는 이태��หลี่ไท่ประเมินท่านและเสนอโอกาสให้ท่านรับใช้เขา
+�
+$KEY:CL020_002_030_006.storylineTitle魏王的橄榄枝2魏王的橄欖枝BRoyal Duke of Wei's ProposalR魏王からの懐柔b위왕의 회유�6ข้อเสนอของเว่ยอ๋อง
+�
+KEY:CL020_002_030_006.title'你觉得，本王还会留着她吗？2$你覺得本王還會留著她嗎？B(Do you really think I'd keep her around?R<俺が、あの女をこのまま置いておくとでも？bG그녀를 계속 본왕의 곁에 두는 것을 어찌 생각하는가?�rเจ้าคิดจริง ๆ เหรอว่าข้าจะเก็บนางเอาไว้?
+�
+"KEY:CL020_002_030_006.choiceText+0殿下还是另选他人吧2殿下還是另請高明吧BSuggest he picks someone else.R他の方がよろしいかとb7다른 사람을 찾으시는 것이 좋겠사옵니다�Bแนะนำให้เขาเลือกคนอื่น
+�
+"KEY:CL020_002_030_006.choiceText+1答应投效2答應效命BPledge your loyalty to him.R李泰の駒になるb*전하의 결정에 따르겠사옵니다.�Nสัญญาว่าจะจงรักภักดีต่อเขา
+�
+(KEY:B01_002_030_C020A_007.storylineTitle你拒绝李泰2你拒絕李泰BFlat-out refuse him.R!李泰の申し出を拒否するb$이태의 제안을 거절한 당신�Bปฏิเสธเขาอย่างสิ้นเชิง
+�
+KEY:BE_40001.title皇宫的黑暗面2皇宮的黑暗面BThe Evil Rear PalaceR宮中の闇b황궁의 암투�6วังหลังที่ชั่วร้าย
+�
+
+KEY:BE_40001.textZ夜宴之上，你的锋芒已现。面对危险之哥的招揽，先设法稳住他吧！2Z夜宴之上，你的鋒芒已現。面對危險之人的招攬，先設法穩住他吧！B�At a lavish banquet, your sharp wit draws attention—dangerous attention. Li Tai sees your potential and tries to pull you into his schemes. For now, you need to keep him at bay.R�夜宴の場で、あなたの才気はすでに人目を引いていた。だが、危うい男が近づく。まずはうまく誘いをかわし、無事にこの場を切り抜けましょう。br연회에서 당신의 예리함이 드러났다. 위험한 회유 앞에서 우선 그를 진정시켜야 한다.��ในงานเลี้ยงที่หรูหรา ไหวพริบเฉียบแหลมของท่านดึงดูดความสนใจได้ ซึ่งเป็นความสนใจที่อันตราย หลี่ไท่มองเห็นศักยภาพของท่านและพยายามดึงท่านเข้าไปพัวพันกับแผนการของเขา ตอนนี้ท่านต้องพยายามทำให้เขาอยู่ห่าง ๆ
+�
+$KEY:002_030_C020B_008.storylineTitle!李泰让你暗中带人进东宫2!李泰讓你暗中帶人進東宮B?Li Tai tasks you with sneaking someone into the Eastern Palace.RE李泰は、密かに人を東宮へと引き入れるよう命じたbA당신에게 은밀히 사람을 동궁에 데려가라는 이태��หลี่ไท่มอบหมายให้ท่านลักลอบพาใครบางคนเข้าไปในตำหนักบูรพา
+�
+#KEY:C030_002_050_009.storylineTitle守卫的质问2守衛的質問BThe Guard's ChallengeR護衛の質問b호위병의 질문�3ความท้าทายของทหาร
+�
+KEY:C030_002_050_009.title9东宫严禁出入，武才人，你身旁之人是谁？29東宮嚴禁出入！武才人，你身旁之人是誰？B`The Eastern Palace is under tight security. A guard stops you: "Cairen Wu, who's this with you?"RB東宮は出入り厳禁。武才人、その傍らは何者だ？b_동궁은 출입이 금지되어 있습니다, 무재인. 옆에 있는 자는 누구입니까?��ตำหนักบูรพาอยู่ภายใต้การรักษาความปลอดภัยอย่างเข้มงวด ทหารหยุดท่านไว้: "อู่ไฉเหริน ใครอยู่กับเจ้า"
+�
+!KEY:C030_002_050_009.choiceText+0是魏王送来的医人2是魏王送來的醫者B/Say it's a physician sent by Royal Duke of Wei.R6魏王様より遣わされた医師にございますb*위왕께서 보내신 어의라고 한다�]บอกว่าเป็นแพทย์ที่เว่ยอ๋องส่งมา
+�
+!KEY:C030_002_050_009.choiceText+1是陛下送来的夫子2是陛下送來的夫子B'Claim it's a tutor sent by His Majesty.R0陛下より下された先生にございますb-폐하께서 보내신 스승이라고 한다�]อ้างว่าเป็นครูฝึกที่ฝ่าบาทส่งมา
+#
+!KEY:C030_002_050_009.choiceText+2
+�
+$KEY:002_050_C020A_011.storylineTitle*守卫放行，发现称心是太子情人2*守衛放行，發現稱心是太子情人BfYou slip through, only to learn the person you brought, Cheng Xin, is the Crown Prince's secret lover.Ri守衛は通してくれたが、称心が太子の衆道の相手であることに気づいてしまうbU호위를 무사히 통과했지만 칭심이 태자의 연인임을 발견한 당신��ท่านลอดผ่านไปได้สักพักก็พบว่าคนที่ท่านพามา เฉิงซินคือคนรักลับขององค์รัชทายาท
+�
+(KEY:B02_002_050_C030B_010.storylineTitle守卫识破了你的谎言2守衛識破了你的謊言B The guard sees through your lie.R守衛に嘘を見抜かれたb거짓을 간파한 호위병�Kพวกยามมองคำโกหกของท่านออก
+�
+"KEY:B03_002_050_067.storylineTitle守卫直接拿下2守衛直接拿下B!The guard seizes you on the spot.R!守衛に取り押さえられるb'당신과 일행을 제압한 호위병�_พวกทหารจะจับกุมท่าน ณ ที่เกิดเหตุ
+�
+KEY:BE_40002.title一人犯错全族团灭2一人犯錯滿門抄斬BOne Misstep, A Family's RuinR一人の咎、家門の滅びb(한 사람의 실수로 몰락한 가문�gพลาดเพียงหนึ่งครั้ง ตระกูลก็ล่มสลาย
+�
+
+KEY:BE_40002.text�你的举动让亲者泪，仇者懵。谁都不明白，你犯下如此滔天大罪的背后，其实只是为了给魏王跑个腿罢了。2�你的舉動讓親者落淚、仇者錯愕。誰都不明白，你犯下如此滔天大罪的背後，其實只是為了替魏王跑腿罷了。B�Your actions leave your loved ones in tears and your enemies stunned. No one can fathom why you'd risk everything—just to run an errand for Royal Duke of Wei.R�あなたの行いは、親しき者を涙させ、仇敵にすら呆れられた。誰も知らない、あなたがその大罪を犯した理由が、魏王の使いを務めただけだったことなど……。b�당신의 행동으로 인해 가장 가까운 사람들이 피해를 입게 되었다. 당신이 저지른 큰 죄는 단지 위왕의 심부름 때문임을 누구도 알지 못했다.��การกระทำของท่านทำให้คนที่ท่านรักต้องหลั่งน้ำตา และศัตรูของท่านต้องทึ่ง ไม่มีใครเข้าใจว่าทำไมท่านถึงยอมเสี่ยงทุกอย่างเพียงเพื่อไปทำธุระให้กับเว่ยอ๋อง
+�
+KEY:BE_40003.title无辜的跑腿者2無辜的跑腿者BA Wronged ErranderR罪なき使い人b무고한 심부름꾼�?ผู้ทำธุระที่พลาดพลั้ง
+�
+KEY:BE_40003.text`谁都不明白，你犯下如此大罪的背后，其实只是为了给魏王跑个腿罢了。2]誰都不明白，你犯下如此大罪的背後，其實只是為了替魏王跑腿罷了。BZNo one can fathom why you'd risk everything—just to run an errand for Royal Duke of Wei.R�誰も知らない、あなたがその大罪を犯した理由が、魏王の使いを務めただけだったことなど……。bb당신이 저지른 큰 죄는 단지 위왕의 심부름 때문임을 누구도 알지 못했다.��ไม่มีใครเข้าใจว่าทำไมท่านถึงต้องเสี่ยงทุกสิ่งทุกอย่างเพียงเพื่อไปทำธุระให้กับเว่ยอ๋อง
+�
+$KEY:CL040_002_070_012.storylineTitle卷入皇室争端2捲入皇室爭端BCaught in the CrossfireR玉座をめぐる渦へb!황실 분쟁에 휘말린 당신�โดนลูกหลง
+�
+KEY:CL040_002_070_012.title-发生了这么大的事，你该怎么办？2-發生了這麼大的事，你該怎麼辦？B;Trapped in the royal power struggle, what's your next move?R*これほどの大事、あなたは……b6이렇게 엄중한 상황에서, 당신의 선택은?��ติดอยู่ในวังวนแห่งอำนาจราชวงศ์ การเคลื่อนไหวครั้งต่อไปของท่านคืออะไร?
+�
+"KEY:CL040_002_070_012.choiceText+0向陛下坦白，将功赎罪2向陛下坦白，將功贖罪B&Confess to the Emperor to make amends.R6陛下に打ち明けて、功をもって罪を償うb*폐하께 솔직히 고하고 속죄한다�cสารภาพต่อองค์จักรพรรดิเพื่อแก้ตัว
+�
+"KEY:CL040_002_070_012.choiceText+1赶紧向姨母求助2趕緊向姨母求助BTurn to your aunt for help.R!おばさまに助けを求めるb 이모에게 도움을 청한다�cหันไปขอความช่วยเหลือจากป้าของท่าน
+�
+(KEY:B04_002_070_C040A_013.storylineTitle李世⺠下令将你灭⼝2李世民下令將你滅口B8Li Shimin orders your execution to cover up the scandal.R<李世民は、口封じのためにあなたを処刑したb이세민의 입막음��หลี่ ซื่อหมินสั่งการประหารชีวิตของท่านเพื่อปกปิดเรื่องอื้อฉาว
+�
+KEY:BE_40004.title无望的希冀2無望的希冀BA Faint HopeR届かぬ願いb희망 없는 기대�9ความหวังอันเลือนลาง
+�
+
+KEY:BE_40004.text�自你亲手带称心入东宫的那一刻，便已彻底踏入危险地带。陛下——你的夫君，他真的能为你做主，成为那个救赎你的人吗？2�自你親手將稱心送入東宮的那一刻起，便已徹底踏入危險之地。陛下——你的夫君，他真的能為你做主，成為那個拯救你的人嗎？B�The moment you escorted Cheng Xin into the Eastern Palace, you stepped into a deadly game. The Emperor—your husband—can he truly save you?R�称心を自らの手で東宮に連れていったあの瞬間、すでに、後戻りのできぬ場所に足を踏み入れていた。皇帝、すなわちあなたの夫は、本当にあなたの「味方」になり、手を差し伸べてくれる存在なのだろうか？b�당신이 직접 칭심을 동궁에 데려간 그 순간부터 이미 위험에 발을 들인 것이다. 폐하께서 당신을 구원해 줄 수 있을까?��ทันทีที่ท่านพาเฉิงซินเข้าไปในตำหนักบูรพา ท่านก็ได้ก้าวเข้าสู่เกมแห่งความตาย ฮ่องเต้ สามีของท่าน จะช่วยท่านได้จริงหรือ?
+�
+$KEY:002_070_C040B_014.storylineTitle把看到的告诉姨母2把看到的告訴姨母BTell your aunt what you saw.R!見聞をおばさまに伝えるb 이모에게 상황 설명하기�Tบอกป้าของท่านว่าท่านเห็นอะไร
+�
+#KEY:C050_002_100_015.storylineTitle要被姨母发现了!2要被姨母發現了！BYou're spotted by your aunt!R!おばさまに気づかれる！b#이모에게 들키기 직전이다�Fท่านถูกป้าของท่านพบเห็น!
+�
+KEY:C050_002_100_015.titleK此时，屋内之人就要出来，看见眼前偷花的宫女，你选择2K此時，屋內的人即將出來，看到眼前偷花的宮女，你選擇BdSomeone's about to step out of the room as you spot a Chamberlain pilfering flowers. What do you do?RZまもなく現れる屋敷の者と、目の前に花を盗む宮女。あなたは……bg방 안에서 사람이 나오려는 순간, 꽃을 훔치는 궁녀를 보게 된 당신의 선택은?��มีคนกำลังจะออกจากห้องไป ขณะที่ท่านเห็นนางในกำลังขโมยดอกไม้ ท่านจะทำอย่างไร?
+�
+!KEY:C050_002_100_015.choiceText+0拉着她一起逃2拉著她一起逃BGrab her and flee together.R宮女を連れて逃げるb$그녀를 끌고 함께 도망친다�Kจับนางไว้แล้วหนีไปด้วยกัน
+�
+!KEY:C050_002_100_015.choiceText+1自己逃走2自己逃走BRun off alone.R自分だけ逃げるb혼자서 도망친다�0วิ่งหนีไปคนเดียว
+#
+!KEY:C050_002_100_015.choiceText+2
+�
+$KEY:002_100_C050A_018.storylineTitle左宫女要将你灭口2左宮女要將你滅口B2Chamberlain Zuo threatens to silence you for good.R口封じを企む左宮女b4입막음을 위해 당신을 죽이려는 좌궁녀��นางข้าหลวงจั่วขู่ว่าจะทำให้ท่านต้องเงียบไปตลอดกาล
+�
+(KEY:B05_002_100_C050B_017.storylineTitle!杨淑妃来到掖庭宫杀死你2!楊淑妃來到掖庭宮殺死你B1Lady Yang of Kindness strikes you down in Yeting.R自ら手を下す楊淑妃b3양숙비에게 액정궁에서 살해당한 당신�cหยางซูเฟยโจมตีคุณในพระราชวังเยถิง
+�
+KEY:BE_40005.title姨母的桂花羹2姨母的桂花羹BThe Deadly Osmanthus SoupRおばさまの蜜湯b이모의 계화탕�Nซุปดอกหอมหมื่นลี้ของป้าข้า
+�
+
+KEY:BE_40005.text{看到了姨母画皮之下的真实容颜，就要迎接她精心熬制的桂花羹，或许此羹比孟婆汤更香甜。2~看見姨母畫皮之下的真實容貌後，就要迎來她精心熬製的桂花羹，或許這碗羹比孟婆湯更香甜。B�Beneath her polished exterior, you glimpse her ruthless truth. She offers you a bowl of osmanthus soup—perhaps sweeter than the fabled brew of oblivion.R�仮面の奥にあるおばまさの素顔を見た瞬間、すべては遅すぎた。待っていたのは、丹念に煮込まれた金木犀の蜜湯。それは、孟婆湯よりも甘く香るかもしれない。b�가면 아래 숨겨진 이모의 본모습을 본 당신은 그녀가 정성껏 끓인 계화탕을 마주한다. 어쩌면 이 탕은 맹파탕보다 더 향긋하고 달콤할지도 모른다.��ภายใต้ภายนอกที่ดูขัดเกลาของนาง ท่านมองเห็นความจริงอันโหดร้ายของท่าน ท่านยื่นชามซุปดอกหอมหมื่นลี้ให้กับท่าน บางทีอาจจะหวานกว่าเครื่องดื่มแห่งการลืมเลือนในตำนานเสียอีก
+�
+"KEY:B06_002_100_016.storylineTitle孟镜发现你2孟鏡發現你BMeng Jing spots you.R孟鏡に見つかった。b맹경에게 발각된 당신�<เมิ้งจิ้งมองเห็นท่าน
+�
+KEY:BE_40006.title姨母的桂花羹2姨母的桂花羹BThe Deadly Osmanthus SoupRおばさまの蜜湯b이모의 계화탕�Nซุปดอกหอมหมื่นลี้ของป้าข้า
+�
+
+KEY:BE_40006.text{看到了姨母画皮之下的真实容颜，就要迎接她精心熬制的桂花羹，或许此羹比孟婆汤更香甜。2~看見姨母畫皮之下的真實容貌後，就要迎來她精心熬製的桂花羹，或許這碗羹比孟婆湯更香甜。B�Beneath her polished exterior, you glimpse her ruthless truth. She offers you a bowl of osmanthus soup—perhaps sweeter than the fabled brew of oblivion.R�仮面の奥にあるおばまさの素顔を見た瞬間、すべては遅すぎた。待っていたのは、丹念に煮込まれた金木犀の蜜湯。それは、孟婆湯よりも甘く香るかもしれない。b�가면 아래 숨겨진 이모의 본모습을 본 당신은 그녀가 정성껏 끓인 계화탕을 마주한다. 어쩌면 이 탕은 맹파탕보다 더 향긋하고 달콤할지도 모른다.��ภายใต้ภายนอกที่ดูขัดเกลาของนาง ท่านมองเห็นความจริงอันโหดร้ายของท่าน ท่านยื่นชามซุปดอกหอมหมื่นลี้ให้กับท่าน บางทีอาจจะหวานกว่าเครื่องดื่มแห่งการลืมเลือนในตำนานเสียอีก
+�
+KEY:002_120_020.storylineTitle挣脱左宫女2掙脫左宮女B Break free from Chamberlain Zuo.R!左宮女の手を振りほどくb#좌궁녀에게서 벗어난 당신�Kสะบัดหนีจากนางข้าหลวงจั่ว
+�
+"KEY:B08_002_120_021.storylineTitle被左宫女掐死2被左宮女掐死BStrangle Chamberlain Zuo.R0左宮女に首を絞められ、命を落とすb(좌궁녀에게 목 졸려 죽은 당신�9บีบคอนางข้าหลวงจั่ว
+�
+KEY:BE_40007.title求生之手2求生之手BA Desperate SurvivalR生き延びるための手b살기 위한 몸부림�Qการเอาชีวิตรอดอย่างสิ้นหวัง
+�
+KEY:BE_40007.text<人人都为求生，可求生之手，亦含无限杀机。2?人人都為了求生，可求生之手，亦含無限殺機。BBEveryone fights to survive, but the hand that saves can also kill.Ro誰もが生を望む。だが、差し出されたその手は、果たして救いか、それとも罠か。bs모두가 살기 위해 몸부림치지만, 살기 위한 몸부림 속에는 무한한 살기가 깃들어 있다.��ทุกคนต้องต่อสู้เพื่อเอาชีวิตรอด แต่ผู้ที่ช่วยเหลือก็ฆ่าได้เช่นกัน
+�
+#KEY:C060_002_120_022.storylineTitle生死瞬间2生死瞬間BA Split-Second ChoiceR生死を決する刹那b사생결단의 순간�Kทางเลือกเพียงเสี้ยววินาที
+�
+KEY:C060_002_120_022.title$生死关头，你要如何自救？2$生死關頭，你要如何自救？B=At the brink of life and death... how will you save yourself?R3生死を分けるこの瞬間、あなたは……b,사생결단의 순간, 당신의 선택은?��กำลังตกอยู่ในวิกฤตใกล้ความตาย ท่านจะช่วยตัวเองอย่างไร?
+�
+!KEY:C060_002_120_022.choiceText+0呼救2呼救BScream for help.R助けを呼ぶb도움을 청한다�9ร้องขอความช่วยเหลือ
+�
+!KEY:C060_002_120_022.choiceText+1	杀了她2	殺了她BFight back and kill her.R彼女を殺すb그녀를 죽인다�0สู้กลับและฆ่านาง
+�
+!KEY:C060_002_120_022.choiceText+2	打晕她2	打暈她BKnock her out.R彼女を気絶させるb그녀를 기절시킨다�*ทำให้นางหมดสติ
+#
+!KEY:C060_002_120_022.choiceText+3
+�
+(KEY:B10_002_120_C060A_024.storylineTitle孟镜听到了你的呼救2孟鏡聽到你的呼救B$Meng Jing hears your desperate call.R$孟鏡にあなたの声が届いたb+도움을 청하는 소리를 들은 맹경��เมิ้งจิ้งได้ยินเสียงเรียกอันสิ้นหวังของท่าน
+�
+KEY:BE_40008.title救命之人2救命之人BYour RescuerR命を救う者b	구세주�9ผู้ช่วยชีวิตของท่าน
+�
+KEY:BE_40008.textQ你喊来了救命之人，但救命之人，亦是迫不及待要你命的人。2N你喊來了救命之人，但救命之人亦是迫不及待要你命的人。BAYour rescuer arrives, but they might be just as eager to end you.Rlあなたが呼んだ「救い」は、待ちきれぬほどにあなたの命を奪いたがっていた。bo당신은 자신을 도와줄 사람을 불렀지만 사실 그 또한 당신의 목숨을 노리는 자였다.��ผู้ช่วยชีวิตของท่านมาถึงแล้ว แต่พวกเขาอาจกระตือรือร้นที่จะกำจัดท่านเช่นกัน
+�
+(KEY:B07_002_120_C060C_025.storylineTitle孟镜找到左宫女2孟鏡找到左宮女B$Meng Jing confronts Chamberlain Zuo.R!孟鏡は左宮女を見つけたb좌궁녀를 발견한 맹경�iเมิ้งจิ้งเผชิญหน้ากับนางข้าหลวงจั่ว
+}
+KEY:BE_40009.title苏醒之后2甦醒之後BComing AroundR目覚めのあとにb깨어난 후�กำลังมา
+�
+KEY:BE_40009.text'她，见过你。你，跑不掉的。2'她，見過你。你，跑不掉的。B+She has seen you. And you… cannot escape.R6彼女に見られた。もう、逃れられない。b9그녀의 눈에 든 이상, 이제 도망칠 수 없다.��นางได้เห็นท่านแล้ว และท่าน...ไม่อาจหนีออกไปได้
+�
+$KEY:002_120_C060B_026.storylineTitle你反杀左宫女遇到刘熙2!你反殺左宮女時遇到劉熙B3You overpower Chamberlain Zuo and run into Liu Xi. R6左宮女を返り討ちにし、劉熙と出くわすb+좌궁녀를 역습한 후 마주친 유희�vท่านเอาชนะนางข้าหลวงจั่วและเจอกับหลิว ซี
+�
+"KEY:B12_002_120_023.storylineTitle你被左宫女杀死2你被左宮女殺死B!Chamberlain Zuo finishes you off.R'左宮女の手にかかって死んだb#좌궁녀에게 살해당한 당신�Tนางข้าหลวงจั่วจัดการท่านแล้ว
+�
+KEY:BE_40010.title生死瞬间2生死瞬間BA Split-Second ChoiceR生死を決する刹那b사생결단의 순간�Kทางเลือกเพียงเสี้ยววินาที
+�
+KEY:BE_40010.textE生死就在一瞬间，请务必永远拯救自己于水火之中。2B生死就在一瞬之間，請務必拯救自己於水火之中。BHSurvival hangs by a thread, always fight to pull yourself from the fire.Ro生死は一瞬で分かたれる。いつでも、自らを危機から救い出すことを忘れずにね。bW생사는 한 순간에 달렸으니 어떤 위험에서도 자신을 구해야 한다.��การเอาชีวิตรอดแขวนอยู่บนเส้นด้าย จงต่อสู้เพื่อดึงตัวเองออกจากกองไฟ
+�
+$KEY:CL070_002_150_027.storylineTitle刘熙的关心2劉熙的關心BLiu Xi's CuriosityR劉熙の気遣いb유희의 관심�=ความอยากรู้ของหลิว ซี
+�
+KEY:CL070_002_150_027.title武姐姐做什么去了？2武姐姐去做什麼了？BWhere've you been, Sister Wu?R'武姉様、どこへ行ってたの？b$언니, 어디 갔다 온 거예요?�Aท่านพี่อู่ ท่านไปไหนมา?
+v
+"KEY:CL070_002_150_027.choiceText+0滚！2滾！B	Get lost!R失せろ！b관심 꺼.�ไปให้พ้น!
+�
+"KEY:CL070_002_150_027.choiceText+1关你什么事？2關你什麼事？BNone of your business!Rあなたには関係ないわb너랑 무슨 상관이야?�:ไม่ใช่เรื่องของเจ้า!
+�
+$KEY:002_150_C070A_028.storylineTitle刘熙吃了你的闭⻔羹2劉熙吃了你的閉門羹B"Your sharp words shut Liu Xi down.R$劉熙、門前払いを食らったb!당신의 냉대를 받은 유희��คำพูดที่เฉือดเฉือนของท่านทำให้หลิว ซีเงียบลง
+�
+$KEY:002_150_C070B_029.storylineTitle你骂了刘熙⼀顿2你罵了劉熙一頓BYou yell at Liu Xi.R劉熙を叱りつけたb유희를 꾸짖은 당신�7ท่านตะโกนใส่หลิว ซี
+�
+KEY:002_160_030.storylineTitle你发现⻥符不⻅了2你發現魚符不見了B(Then you notice your fish token is gone.R3魚符がなくなっていることに気づいたb(영패가 사라진 걸 깨달은 당신��แล้วท่านสังเกตเห็นว่าเหรียญตรามัจฉาของท่านหายไปแล้ว
+�
+$KEY:CL080_002_160_031.storylineTitle遗失的鱼符2遺失的魚符BThe Missing Fish TokenR失われた魚符b잃어버린 영패�Bเหรียญตรามัจฉาที่หายไป
+�
+KEY:CL080_002_160_031.title9鱼符难道是不小心掉在那里了，该怎么办？29魚符該不會不小心掉在那裡了？該怎麼辦？B0Did you drop the fish token somewhere? What now?R<魚符を落としてしまったようだ、どうする？bA영패를 그곳에 떨어뜨린 것 같은데, 어떻게 할까?��ท่านทำเหรียญตรามัจฉาตกไว้ที่ไหนสักแห่งหรือเปล่า? แล้วจะทำอย่างไรต่อ?
+�
+"KEY:CL080_002_160_031.choiceText+0	回去找2	回去找BGo back to look for it.R戻って探すb가서 찾는다�*กลับไปค้นหามัน
+�
+"KEY:CL080_002_160_031.choiceText+1	不去找2	不去找BLet it slide.Rもう探さないb찾지 않는다�ปล่อยมันไป
+�
+(KEY:B17_002_170_C080A_032.storylineTitle$你回到淑景殿，被孟镜发现2$你回到淑景殿，被孟鏡發現B2You return to Shujing Palace, Meng Jing spots you.R<淑景殿に戻ったあなたは、孟鏡に見つかったb:숙경궁에 돌아갔다가 맹경에게 발각된 당신�yท่านกลับมาที่โถงซูจิง เมิ้งจิ้งจับท่านไว้
+�
+KEY:BE_40011.title我的鱼符去哪了！2我的魚符去哪了？BWhere's My Fish Token?!R私の魚符はどこに！？b영패가 어딜 간 거지?�Rเหรียญตรามัจฉาของข้าอยู่ไหน!
+�
+KEY:BE_40011.textN你没能找回自己的鱼符，但你找到了姨母为你做的催命符。2E你沒能找回自己的魚符，但姨母替你準備了催命符。BKYou didn't find it, but you uncover a death warrant from your aunt instead.Rf魚符は見つからなかった。代わりに、おばさまが「死符」用意してくれた。bi영패는 찾지 못했지만, 이모가 당신을 위해 만든 단명 부적을 발견하게 되었다.��ท่านหามันไม่เจอ แต่ท่านกลับพบหมายจับจากป้าของท่านแทน
+�
+$KEY:002_160_C080B_033.storylineTitle杨淑妃问你鱼符去哪了2!楊淑妃問你魚符去哪了？B=Lady Yang of Kindness corners you: "Where's your fish token?"R0楊淑妃は魚符の行方を問いただしたb$영패의 행방을 묻는 양숙비��หยางซูเฟยต้อนท่านจนจนมุม: "เหรียญตรามัจฉาอยู่ที่ไหน?"
+�
+$KEY:CL090_002_210_034.storylineTitle鱼符在哪2魚符在哪？BWhere's the Fish Token?R魚符はいずこにb$영패가 어디에 있는 것일까�Iเหรียญตรามัจฉาอยู่ที่ไหน?
+�
+KEY:CL090_002_210_034.title照儿的近侍鱼符呢？2照兒的近侍魚符呢？BWhere's Yuanzhao's fish token?R9元照、近侍の魚符はどこにあるのかしら？b,네 근시관 영패는 어디 두었느냐?�gเหรียญตรามัจฉาของจ้าวเอ๋อร์อยู่ไหน?
+�
+"KEY:CL090_002_210_034.choiceText+0鱼符被刘熙盗走了2魚符被劉熙偷走了BSay Liu Xi stole it.R'劉熙に盗まれてしまいましたb유희가 훔쳐 갔습니다.�8บอกว่า หลิว ซีขโมยไป
+�
+"KEY:CL090_002_210_034.choiceText+1!我把鱼符借给了一个宫女2我把魚符借給一位宮女B)Claim you lent it to another chamberlain.R3知り合いの宮女に貸してしまいましたb#궁녀에게 빌려주었습니다.�Hอ้างว่าท่านให้ขันทียืมไป
+�
+"KEY:CL090_002_210_034.choiceText+2!鱼符被我落在陛下那儿了2!魚符被我落在陛下那兒了B!Say you left it with His Majesty.R?うっかり陛下のもとに置き忘れてしまいましたb9폐하를 뵈러 갔다가 실수로 두고 왔습니다.�Wบอกว่าท่านทิ้งมันไว้กับฝ่าบาท
+�
+$KEY:002_210_C090A_038.storylineTitle通过杨淑妃试探2透過楊淑妃試探B(You passed Lady Yang of Kindness's test.R$楊淑妃の探りを乗り越えるb양숙비의 의심 해소�`ท่านผ่านแบบทดสอบของหยางซูเฟยแล้ว
+�
+KEY:BE_40012.title照儿真的饱了2照兒真的飽了BTruly SatedR*元照は、もうお腹いっぱいですb정말 배불러요�?อิ่มเอมใจอย่างแท้จริง
+�
+KEY:BE_40012.text�踏入鬼门关，走上奈何桥时，你一把推开孟婆递来的孟婆汤说，不喝了，真不喝了，我可太饱了。2�踏入鬼門關，走上奈何橋時，你一把推開孟婆遞來的孟婆湯，一邊說不喝了、真的不喝了，我太飽了。BtBut as you step toward the gates of the underworld, you push away the fabled broth, saying, "I'm too full for this!"R�鬼門をくぐり、奈落の橋を渡るとき、あなたは孟婆が差し出す湯を手で払いのけてこう言った。「飲まないってば、もういいの。本当に、もうお腹いっぱいだから」b�저승문을 지나 망각의 다리를 건널 때 당신은 맹파 할멈이 주는 맹파탕을 밀치며 말했다. "안 마실래요, 정말 안 마실래요. 배불러 죽겠어요."��แต่เมื่อท่านก้าวไปสู่ประตูสู่ยมโลก ท่านกลับผลักน้ำซุปในตำนานออกไป และพูดว่า "ฉันอิ่มเกินกว่าจะกินนี่แล้ว!"
++
+)KEY:B09_002_210_C090BC_037.storylineTitle
+�
+KEY:002_210_040.storylineTitle发现姨母真面目2發現姨母的真面目BYour Aunt's True ColorsR$おばさまの仮面が剥がれるb이모의 본색�Tตัวตนที่แท้จริงของป้าของท่าน
+�
+$KEY:CL100_002_230_041.storylineTitle对付太子的计策2對付太子的計策BScheme to the Crown PrinceR太子に対する策b태자를 상대할 계책�?แผนการสู่องค์รัชทายาท
+�
+KEY:CL100_002_230_041.title6对付太子，你会给魏王提出怎样的建议？29對付太子，你會向魏王提出什麼樣的建議？BHTo undermine the Crown Prince, what do you suggest to Royal Duke of Wei?R'魏王にどんな策を進言する？b*태자를 상대하기 위해 위왕께...��เพื่อบ่อนทำลายองค์รัชทายาท ท่านมีข้อเสนอแนะอย่างไรต่อเว่ยอ๋อง?
+�
+"KEY:CL100_002_230_041.choiceText+0撺掇太子造反2慫恿太子造反BPush the Crown Prince to rebel.R!太子に謀反をそそのかすb1태자의 반란을 부추길 것을 제안한다�Tผลักดันให้องค์รัชทายาทก่อกบฏ
+�
+"KEY:CL100_002_230_041.choiceText+1$激化太子和朝中重臣的矛盾2$激化太子與朝中重臣的矛盾B.Stir up trouble between him and the ministers.R*太子と朝廷重臣との対立を煽るbL태자와 조정 중신들 간의 갈등을 격화시킬 것을 제안한다�~สร้างความขัดแย้งระหว่างเขากับเหล่ารัฐมนตรี
+�
+(KEY:B20_002_230_C100B_042.storylineTitle魏王否了你并将你暗杀2'魏王否決了你的建議並暗殺你BCRoyal Duke of Wei rejects your idea and has you quietly eliminated.R0魏王は提案を退けた上、口を封じたb1제안을 거절하고 당신을 암살한 위왕��เว่ยอ๋องปฏิเสธความคิดของท่านและกำจัดท่านออกไปอย่างเงียบ ๆ
+�
+KEY:BE_40013.title被魏王优化了2被魏王處理掉了B'Royal Duke of Wei Silenced You For GoodR!魏王に「暇」を出されるb위왕의 암살�]เว่ยอ๋องทำให้ท่านเงียบไปตลอดกาล
+�
+KEY:BE_40013.texti说真的，做陛下的才人难，做杨淑妃的外甥女更难，做魏王的幕僚难上加难……2o說真的，做陛下的才人難，做楊淑妃的外甥女更難，做魏王的幕僚更是難上加難……B�Being His Majesty's Cairen is tough, being Lady Yang of Kindness's niece is tougher, and being Royal Duke of Wei's advisor? Nearly impossible...R�後宮の才人、楊淑妃の姪、魏王の幕僚、生存率の低さを誇る3つの務めを一身に担う者としてはむしろよくやったと称賛されるべきかも？b�황제의 여인이 되는 것도 어렵지만, 양숙비의 조카가 되는 것은 더 어렵고, 위왕의 책사가 되는 건 더더욱 어렵다...��การเป็นไฉเหรินขอฝ่าบาทนั้นยาก การเป็นหลานสาวของหยางซูเฟยนั้นยากยิ่งกว่า และการเป็นที่ปรึกษาของเว่ยอ๋องนั้นก็แทบเป็นไปไม่ได้...
+�
+$KEY:002_230_C100A_043.storylineTitle魏王称赞了你2魏王稱讚了你B*Royal Duke of Wei showers you with praise.R'魏王はあなたの働きを認めたb위왕의 칭찬�6เว่ยอ๋องชื่นชมท่าน
+�
+#KEY:C110_002_250_044.storylineTitle贤妃的杀心2賢妃的殺心B Lady of Elegance's Deadly IntentR賢妃の殺意b현비의 살의�<เจตนาร้ายของเสียนเฟย
+�
+KEY:C110_002_250_044.title3为了成郎，为了本宫的大计，你必须死23為了成郎，為了本宮的大計，你必須死B1For Jiancheng, for My Grand Plan, You Have to DieRQ成郎のため、妾の計画のため……あなたには、死んでもらうbA이건성과 내 원대한 계획을 위해... 넌 죽어야 해.��เพื่อหลี่ เจี้ยนเฉิง เพื่อแผนอันยิ่งใหญ่ของข้า เจ้าต้องตาย
+�
+!KEY:C110_002_250_044.choiceText+0*杨淑妃是我的姨母，你敢杀我？2*楊淑妃是我的姨母，你敢殺我？B3Lady Yang of Kindness's my aunt, dare you touch me?RH私のおばさまは楊淑妃ですよ。私を殺す気ですか！？bJ전 양숙비의 조카입니다. 감히 저를 죽이시려는 겁니까?��หยางซูเฟยคือป้าของข้า ท่านกล้าแตะข้างั้นเหรอ?
+�
+!KEY:C110_002_250_044.choiceText+1你当真是为了先夫吗？2你當真是為了先夫嗎？B%Is this really for your late husband?R?それ、本当に亡き元夫のためなのでしょうか？b(정말 전 남편을 위해서입니까?�uนี่เพื่อสามีผู้ล่วงลับของท่านจริง ๆ หรือ?
+#
+!KEY:C110_002_250_044.choiceText+2
+�
+(KEY:B18_002_230_C110A_045.storylineTitle贤妃鄙视你并杀了你2賢妃鄙視你並將你殺害B-Lady of Elegance sneers and strikes you down.R<賢妃はあなたを見下し、そのまま手にかけたb(경멸과 함께 당신을 죽인 현비�Tเสียนเฟยเยาะเย้ยและโจมตีท่าน
+�
+KEY:BE_40014.title靠山失效2靠山失效BA Fallen AllyR役に立たない後ろ盾b사라진 버팀목�9พันธมิตรผู้ร่วงหล่น
+�
+KEY:BE_40014.text*一个人的秘密，便是她的软肋。2*一個人的祕密，便是她的弱點。BA secret is a vulnerability.RH誰にも明かせぬ秘密は、その人自身の弱点でもある。b)비밀은 곧 그 사람의 약점이다.�3ความลับคือจุดอ่อน
+�
+$KEY:002_250_C110B_047.storylineTitle贤妃依旧想要杀你2賢妃仍舊想殺你B)Lady of Elegance still wants to kill you.R<賢妃は依然として、あなたの命を狙っているb'여전히 당신을 죽이려는 현비�`เสียนเฟยยังคงต้องการที่จะฆ่าท่าน
+�
+"KEY:B11_002_230_046.storylineTitle直接被贤妃杀害2直接被賢妃殺害BSlain by Lady of EleganceR'賢妃により、直ちに殺されたb*현비에게 그대로 살해당한 당신�3ถูกเสียนเฟยสังหาร
+�
+KEY:BE_40015.title100％承伤2100%承受傷害BTaking the Full BlowR被ダメージ100％b치명적인 타격�1รับการโจมตีเต็ม ๆ
+�
+KEY:BE_40015.textH喂喂喂，杀你的刀来了！就这样站着生生让人砍啊……2H喂喂喂，殺你的刀來了！就這樣站著不動讓人砍啊……BOHey, the blade's coming for you! Are you just going to stand there and take it?R�ちょ、ちょっと！斬りかかってきてるってば！まさか、そのまま突っ立って斬られるつもり……！？bX당신을 죽이려는 칼날이 나타났다. 그냥 이렇게 베이고 말 것인가?��นี่ ใบมีดกำลังมาหาเจ้าแล้ว! เจ้าแค่จะยืนเฉย ๆ แล้วรับมันไว้อย่างนั้นหรือ?
+�
+#KEY:C120_002_250_048.storylineTitle贤妃的软肋2賢妃的弱點B Lady of Elegance's VulnerabilityR賢妃の弱点b현비의 약점�6จุดอ่อนของเสียนเฟย
+�
+KEY:C120_002_250_048.titleK你的话已暂时引开了她的注意，此刻你该如何摆脱杀机？2H你的話暫時引開了她的注意，此刻你該如何擺脫殺機？BFYour words briefly distract her. How do you escape this deadly moment?Rfとりあえず時間を稼ぐことに成功したが、賢妃の魔の手から逃れるには……be당신은 말로 잠시 그녀의 주의를 돌린 후, 죽음의 위협에서 벗어나기 위해...��คำพูดของท่านทำให้นางเสียสมาธิชั่วขณะ ท่านจะหนีช่วงเวลาวิกฤตนี้ได้อย่างไร?
+�
+!KEY:C120_002_250_048.choiceText+0往事不必介怀2往事不必介懷BLet the past stay in the past.R-過去のことなど、水に流せばいいb,지난 일은 신경 쓰지 말라고 한다�<ปล่อยให้อดีตเป็นอดีต
+�
+!KEY:C120_002_250_048.choiceText+1你在自欺欺人2你在自欺欺人BYou're fooling yourself.R0それは、自分に嘘をついているだけb1당신은 스스로를 속이고 있다고 한다�Eท่านกำลังหลอกตัวเองอยู่
+�
+!KEY:C120_002_250_048.choiceText+2我能助你复仇2我能幫你復仇BI can help you get revenge.R!あなたの復讐に協力するb%복수를 도울 수 있다고 한다�Qข้าสามารถช่วยท่านแก้แค้นได้
+#
+!KEY:C120_002_250_048.choiceText+3
+�
+(KEY:B19_002_250_C120A_049.storylineTitle妄图开导贤妃被杀2妄圖開導賢妃反遭殺害B;Trying to reason with Lady of Elegance got yourself killed.RB賢妃を諭そうとした末、命を落とすことになったb-현비를 설득하려다 살해당한 당신��พยายามคุยด้วยเหตุผลกับเสียนเฟยทำให้ท่านต้องตาย
+�
+KEY:BE_40016.title贤妃的谢礼2賢妃的謝禮BLady of Elegance's GiftR賢妃からの謝礼b현비의 보답�6ของขวัญจากเสียนเฟย
+�
+KEY:BE_40016.texti你看到了她的困境，却似乎忽略了最关键的一环，她脚上，那价值千金的绣鞋。2i你看出了她的困境，卻似乎忽略了最關鍵的一環，她腳上那雙價值千金的繡鞋。BZYou see her struggle but miss the key detail: the priceless embroidered shoes on her feet.R�彼女の窮地に目を向けたあなたは――その足元の、金に換えられるほどの刺繍の靴を、見落としていた。bp그녀의 곤경을 알게 된 당신, 하지만 그녀가 가장 귀중히 여기는 신발을 간과하였다.��ท่านเห็นการต่อสู้ดิ้นรนของนางแต่พลาดรายละเอียดสำคัญไป นั่นก็คือรองเท้าปักอันล้ำค่าที่เท้าของนาง
+�
+$KEY:002_250_C120B_051.storylineTitle贤妃情绪失控2賢妃情緒失控BLady of Elegance lost control.R賢妃、暴走b'감정을 주체하지 못하는 현비�Hเสียนเฟยสูญเสียการควบคุม
+�
+(KEY:B13_002_250_C120C_050.storylineTitle妄图说服贤妃被杀2妄圖說服賢妃反遭殺害B8Trying to persuade Lady of Elegance got yourself killed.RK賢妃を説き伏せようとしたが、命を落とすこととなったb4현비의 마음을 돌리려다 살해당한 당신�uพยายามโน้มน้าวเสียนเฟยทำให้ตัวเองถูกฆ่า
+�
+KEY:BE_40017.title一叶障目2一葉障目BBlinded by the ObviousR$一葉目を蔽えば泰山を見ずb9눈앞의 작은 일에 가려 큰일을 보지 못하다�Qตาบอดเพราะสิ่งที่เห็นได้ชัด
+�
+KEY:BE_40017.texto你看到了她复仇的决心，却似乎忽略了最关键的一环，她脚上，那价值千金的绣鞋。2o你看出了她復仇的決心，卻似乎忽略了最關鍵的一環，她腳上那雙價值千金的繡鞋。BdYou see her thirst for revenge but miss the key detail: the priceless embroidered shoes on her feet.R�復讐に燃える彼女に目を向けたあなたは――その足元の、金に換えられるほどの刺繍の靴を、見落としていた。bs그녀의 복수심을 알게 된 당신, 하지만 그녀가 가장 귀중히 여기는 신발을 간과하였다.��ท่านเห็นความกระหายในการแก้แค้นของนาง แต่พลาดรายละเอียดสำคัญไป นั่นคือรองเท้าปักอันล้ำค่าที่เท้าของนาง
+�
+KEY:002_250_054.storylineTitle你及时逃⾛，李治出面2你及時逃走，李治出面B!You escaped, and Li Zhi steps in.R-間一髪で逃げ延び、李治が現れたb,제때 도망친 당신, 개입하는 이치�|ท่านหลบหนีออกมาได้ และหลี่จื้อก็ก้าวเข้ามา
+�
+"KEY:B21_002_250_053.storylineTitle你逃⾛失败2你逃走失敗BYou failed to escape.R逃走は失敗に終わったb도주에 실패한 당신�9ท่านหลบหนีไม่สำเร็จ
+�
+KEY:BE_40018.title刀下亡魂2刀下亡魂BToo Soon A GhostR刃に倒れし者b칼날에 서린 망령�?เร็วเกินไปที่จะเป็นผี
+�
+KEY:BE_40018.text3别愣神，杀机虽过，但危险并未离去。23別愣神，殺機雖過，但危險並未遠離。B[Stay sharp. The immediate danger may have passed, but the palace is still a nest of vipers.Riぼんやりしている場合じゃない。刃は去ったが、危機はまだ終わっていない。bj멍하니 있을 수 없다. 죽음의 위협은 잠시 지나갔지만, 위험은 사라지지 않았다.��จงมีสติอยู่เสมอ อันตรายที่เกิดขึ้นอาจผ่านไปแล้ว แต่พระราชวังยังคงเป็นรังของงูพิษ
+�
+KEY:002_260_068.storylineTitle和李治将要分开2你將與李治分開B%You're about to part ways with Li ZhiR李治との別れが迫るb이치와의 작별�Tท่านกำลังจะแยกทางกับหลี่จื้อ
+�
+$KEY:CL130_002_260_056.storylineTitle晋王的援手2晉王的援手BRoyal Duke of Jin's HelpR晋王の差し伸べた手b진왕의 도움�Hความช่วยเหลือของจิ้นอ๋อง
+�
+KEY:CL130_002_260_056.title6守卫我会帮你引开，你快去找你的姨母吧26我會幫你引開守衛，你快去找你的姨母吧B.I'll handle the guards. Go find your aunt now.RB見張りは僕が引きつける。早くおばさまのもとへbE호위병은 내가 유인할 테니, 얼른 이모를 찾아 가게.��"ข้าจะจัดการพวกยามเอง" เขากล่าว "ไปหาป้าของเจ้าเดี๋ยวนี้"
+�
+"KEY:CL130_002_260_056.choiceText+0殿下恩情来日再报2殿下的恩情，來日再報B&I'll repay you one day, Your Highness.R3殿下のご恩、いずれ必ずお返ししますb1전하의 은혜는 나중에 갚겠사옵니다.�sสักวันหนึ่งข้าจะตอบแทนท่านนะเพคะ ฝ่าบาท
+�
+"KEY:CL130_002_260_056.choiceText+1'殿下不问今晚发生了什么吗？2'殿下不問今晚發生了什麼嗎？B0You're not curious about what went down tonight?R?今宵のこと……お尋ねになられないのですか？bM전하, 오늘 밤 무슨 일이 일어난 건지 묻지 않으시옵니까? ��ท่านไม่อยากรู้ว่าเกิดอะไรขึ้นเมื่อคืนนี้หรือ?
+�
+$KEY:002_260_C130A_057.storylineTitle来⽇是什么时候？2來日是什麼時候呢？BWhen's 'one day'?R'「いずれ」とは、いつだい？b'나중'이 언제인가?�7วันหนึ่งคือเมื่อใด?
+�
+$KEY:002_260_C130B_058.storylineTitle我⾃愿意听2我願意聽BI'm listening.R*お聞きする覚悟はできていますb기꺼이 듣겠네.�!ข้าอฟังอยู่
+�
+$KEY:CL140_002_260_060.storylineTitle在贤妃杀你之前2在賢妃殺你之前B'Lady of Elegance's shadow looms large. R!賢妃に命を奪われる前にb!현비가 당신을 죽이기 전�Kเงาของเสียนเฟยยังคงใหญ่โต
+�
+KEY:CL140_002_260_060.titleH贤妃绝不会善罢甘休，在她再次动手前，你要做什么？2H賢妃絕不會善罷甘休，在她再次出手前，你該做什麼？BYLady of Elegance won't stop until you're dead. What's your move before she strikes again?R-賢妃の所業を誰に打ち明けるか？b'현비가 다시 움직이기 전에...��เสียนเฟยจะไม่หยุดจนกว่าท่านจะตาย ท่านจะเคลื่อนไหวอย่างไรก่อนที่นางจะโจมตีอีกครั้ง?
+�
+"KEY:CL140_002_260_060.choiceText+0将贤妃之事告诉陛下2將賢妃之事告訴陛下B3Tell His Majesty about Lady of Elegance's betrayal.R陛下b$폐하께 현비의 일을 알린다�{เล่าเรื่องการทรยศของเสียนเฟยให้ฝ่าบาททราบ
+�
+"KEY:CL140_002_260_060.choiceText+1将贤妃之事告诉韦贵妃2將賢妃之事告訴韋貴妃B@Tell Lady Wei of Predilection about Lady of Elegance's betrayal.R	韋貴妃b*위귀비에게 현비의 일을 알린다��เล่าเรื่องการทรยศของเสียนเฟยให้เว่ยกุ้ยเฟยทราบ
+�
+"KEY:CL140_002_260_060.choiceText+2将贤妃之事告诉杨淑妃2將賢妃之事告訴楊淑妃B=Tell Lady Yang of Kindness about Lady of Elegance's betrayal.R	楊淑妃b*양숙비에게 현비의 일을 알린다��เล่าเรื่องการทรยศของเสียนเฟยให้หยางซูเฟยทราบ
+�
+(KEY:B14_002_270_C140A_061.storylineTitle皇上将你和贤妃赐死2皇上賜死你和賢妃B=His Majesty sentences both you and Lady of Elegance to death.R3陛下は、あなたと賢妃の処刑を命じたb.당신과 현비에게 사형을 내린 황제�rฝ่าบาทตัดสินประหารชีวิตท่านและเสียนเฟย
+�
+KEY:BE_40019.title贤妃的陪葬2賢妃的陪葬B'The Burial Offering of Lady of EleganceR賢妃の道連れb현비의 부장품�Qเครื่องบูชาฝังศพของเสียนเฟย
+�
+KEY:BE_40019.textl你以为禀报陛下可以等来你想要的正义，却未曾想，有些正义，陛下是给不了的。2i你以為稟告陛下能換來你想要的正義，卻沒想到，有些正義，陛下是給不了的。BqYou turn to His Majesty, expecting justice, yet you're in for a shock. Some wrongs are beyond his power to right.R�皇帝に訴えれば、望む正義が得られると信じていたが、この世には、皇帝でさえ与えられぬ正義もある。by폐하께 알리면 원하는 정의를 얻을 수 있을 줄 알았지만 폐하는 정의를 실현해주지 않았다.��ท่านหันไปหาฝ่าบาทเพื่อหวังความยุติธรรม แต่กลับต้องตกตะลึง ความผิดบางอย่างอยู่เหนืออำนาจของฝ่าบาทที่จะแก้ไขได้
+�
+(KEY:B15_002_300_C140B_062.storylineTitle$杨淑妃得知你告密将你杀死2'楊淑妃得知你告密後將你殺死BBLady Yang of Kindness realizes you've snitched and has you killed.R3楊淑妃は密告を知り、あなたを殺したb.비밀을 폭로한 당신을 죽인 양숙비��หยางซูเฟยตระหนักว่าท่านแจ้งเบาะแสและได้ฆ่าท่านแล้ว
+�
+KEY:BE_40020.title血色绫罗2血色綾羅BCrimson SilkR血染めの綾羅b핏빛 명주�'ผ้าไหมสีแดงสด
+�
+KEY:BE_40020.textr无论你的靠山值不值得你信任，都不能让她对你起疑。这份疑心，足够彻底将你吞噬。2r無論你的靠山值不值得你信任，都不能讓她對你起疑。這份疑心，足以把你徹底吞噬。BLNo matter how loyal your allies seem, one hint of suspicion can destroy you.R�後ろ盾があろうとなかろうと、彼女に疑念を抱かせてはならない。その疑いひとつで、あなたはすべてを失うことになる。b�당신의 뒷배가 믿을만한지 여부를 떠나 그녀의 의심을 사서는 안 된다. 그 의심은 당신을 완전히 집어삼키기에 충분하다.��ไม่ว่าพันธมิตรของท่านจะดูภักดีแค่ไหน ความสงสัยเพียงครั้งเดียวก็อาจทำลายท่านได้
+�
+$KEY:002_320_C140C_063.storylineTitle告诉杨淑妃真相2告訴楊淑妃真相B'Telling Lady Yang of Kindness the TruthR楊淑妃に真実を明かすb 양숙비에게 진상 알리기�Eบอกความจริงกับหยางซูเฟย
+�
+$KEY:CL150_002_320_064.storylineTitle向姨母揭发2向姨母揭露實情B Confess to Lady Yang of KindnessRおばさまに密告するb이모에게 폭로하기�6สารภาพกับหยางซูเฟย
+�
+KEY:CL150_002_320_064.title-你要怎样告诉杨淑妃，贤妃之事？20你要怎麼告訴楊淑妃關於賢妃之事？B>How will you break the news about Lady of Elegance's betrayal?R0楊淑妃に賢妃の件を、どう伝える？b7양숙비에게 현비의 일을 알리려 하는데...�vท่านจะแจ้งข่าวการทรยศของเสียนเฟยอย่างไร?
+�
+"KEY:CL150_002_320_064.choiceText+0只告诉她贤妃妄图弑帝2只告訴她賢妃妄圖弒君B;Say only that Lady of Elegance plotted to kill the Emperor.R-陛下を殺そうとしたことだけ話すb;현비가 폐하를 암살하려 한다는 것만 알린다��พูดแค่ว่าเสียนเฟยวางแผนจะลอบสังหารจักรพรรดิ
+�
+"KEY:CL150_002_320_064.choiceText+1告诉她完整的事情2告訴她完整的來龍去脈BLay out the whole story.R包み隠さず話すb모든 상황을 알린다�3เล่าเรื่องทั้งหมด
+�
+$KEY:002_320_C150A_066.storylineTitle!杨淑妃保护你并暗杀贤妃2!楊淑妃保護你並暗殺賢妃BRLady Yang of Kindness protects you and quietly arranges Lady of Elegance's demise.R6楊淑妃はあなたを守り、賢妃を暗殺したb4당신을 보호하고 현비를 암살한 양숙비��หยางซูเฟยปกป้องท่านและวางแผนการล่มสลายของเสียนเฟยอย่างเงียบ ๆ
+�
+(KEY:B16_002_320_C150B_065.storylineTitle杨淑妃知道全部2楊淑妃得知全部B'Lady Yang of Kindness knows everything.R'楊淑妃はすべてわかっていたb모든 것을 아는 양숙비�<หยางซูเฟยรู้ทุกอย่าง
+�
+KEY:BE_40021.title贤妃的礼物2賢妃的禮物BLady of Elegance's GiftR賢妃からの贈り物b현비의 선물�6ของขวัญจากเสียนเฟย
+�
+KEY:BE_40021.textE你的危机并未真正解除。贤妃的杀意，绝不会停歇。2E你的危機尚未真正解除。賢妃的殺意，絕不會停歇。B?Your crisis is far from over. A promise of death still lingers.R`危機はまだ完全に去っていない。賢妃の殺意は、決して消えはしない。bb위기는 완전히 해소되지 않았다. 현비의 살의는 결코 멈추지 않을 것이다.��วิกฤตของท่านยังไม่จบสิ้น คำสัญญาแห่งความตายยังคงวนเวียนอยู่
+�
+KEY:7.title前往【第六集】2前往【第六集】BHead to Chapter 6R『第6章』へb[제6장]으로 이동하기�ไปยังบท 6
+�
+
+KEY:7.textQ太子的故事，终以悲剧收场，你的故事，又将走向何种结局？2Q太子的故事終以悲劇收場，而你的故事，又將走向何種結局？B@The Crown Prince's story ends in tragedy. Where will yours lead?Ro太子の物語は悲劇で幕を下ろした。あなたの物語は、どんな結末を迎えるのか――bv태자의 이야기는 결국 비극으로 막을 내렸다. 당신의 이야기는 과연 어떤 결말로 향할까?��เนื้อเรื่องขององค์รัชทายาทจบลงด้วยโศกนาฏกรรม ท่านจะมีจุดจบเช่นไร?
+�
+$KEY:002_210_C090C_035.storylineTitle答不上宫女的名字2答不上宮女的名字B"You blank on a Chamberlain's name.R'宮女の名を答えられなかったb!답하지 못한 궁녀의 이름�<ท่านเว้นชื่อนางในไว้
+�
+$KEY:002_210_C090B_036.storylineTitle谎言被拆穿2謊言被拆穿BYour lie unravels.R嘘は見破られたb들통난 거짓말�Eคำโกหกของท่านถูกเปิดโปง
+�
+KEY:002_260_059.storylineTitle你⽬送李治离开2你目送李治離開BYou watch Li Zhi walk away.R李治の背中を見送ったb이치를 배웅하는 당신�Nท่านมองดูหลี่จื้อเดินออกไป
+�
+KEY:002_390_069.storylineTitle称⼼向太⼦说出实情2稱心向太子說出實情B*Chen Xin tells the Crown Prince the truth.R$称心は太子に真実を告げたb$태자에게 진실을 알린 칭심�cเชิงซินบอกความจริงต่อองค์รัชทายาท
+�
+#KEY:Q051_002_120_019.storylineTitle宫女的杀机2宮女的殺機BChamberlain's ThreatR宮女の殺意b궁녀의 살기�3ภัยคุกคามของนางใน
+
+KEY:Q051_002_120_019.title
+�
+KEY:Q051_002_120_019.hint连续点击挣脱2連續點擊掙脫BPress Fast to Break FreeR連打で振りほどくb*연타하여 위기에서 벗어나세요.�Wแตะอย่างรวดเร็วเพื่อสะบัดหลุด
+Q
+KEY:Q051_002_120_019.text点击2點擊BPressR押すb	누르기�	แตะ
+�
+KEY:002_090_070.storylineTitle0偷听到姨母的毒计，逃跑撞向左宫女23偷聽到姨母的毒計，逃跑卻撞上左宮女BOYou overhear your aunt's deadly scheme and bolt, crashing into Chamberlain Zuo.RQおばさまの毒計を立ち聞きし、逃げ出すも左宮女にぶつかるbH이모의 계책을 엿듣고 도망치다 좌궁녀와 부딪힌 당신��ท่านได้ยินแผนการร้ายของป้าของท่าน และวิ่งไปชนนางข้าหลวงจั่ว
+�
+$KEY:QL091_002_210_039.storylineTitle姨母的桂花羹2姨母的桂花羹BThe Deadly Osmanthus SoupRおばさまの蜜湯b이모의 계화탕�Nซุปดอกหอมหมื่นลี้ของป้าข้า
+
+KEY:QL091_002_210_039.title
+
+KEY:QL091_002_210_039.hint
+]
+KEY:QL091_002_210_039.text接过2接過BTakeR受け取るb받기�ยอมรับ
+�
+KEY:002_220_071.storylineTitle*得到鱼符，发现称心是魏王手下2-得到魚符，發現稱心是魏王的手下BIYou take the fish token, only to learn Chen Xin serves Royal Duke of Wei.RT魚符を手に入れたが、称心が魏王の配下であることに気づいたbG영패를 받은 후 칭심이 위왕의 수하임을 알게 된 당신��ท่านรับเหรียญตรามัจฉา เพียงเพื่อเรียนรู้ว่าเชิงซินรับใช้เว่ยอ๋อง
+�
+KEY:002_240_072.storylineTitle偷听贤妃秘密被发现2偷聽賢妃的祕密被發現B3Caught eavesdropping on Lady of Elegance's secrets.RE賢妃の秘密を立ち聞きしているところを見つかったb1현비의 비밀을 엿듣다가 발각된 당신�lโดนจับได้ว่าแอบฟังความลับของเสียนเฟย
+�
+KEY:002_360_073.storylineTitle称⼼挑唆太⼦造反2稱心挑唆太子造反B/Chen Xin goads the Crown Prince into rebellion.R0称心は太子に反乱を起こすよう唆すb.태자를 부추겨 반란을 일으킨 칭심�`เชิงซินยุยงให้องค์รัชทายาทก่อกบฏ
+�
+$KEY:QL122_002_260_055.storylineTitle解开缠绕的头发2解開纏繞的頭髮BYou Fumble With Tangled HairR絡まった髪をほどくb엉킨 머리 풀기�Qท่านจับผมที่พันกันยุ่งเหยิง
+
+KEY:QL122_002_260_055.title
+
+KEY:QL122_002_260_055.hint
+w
+KEY:QL122_002_260_055.text解开头发2解開頭髮BUntangleR髪をほどくb머리 풀기�คลายผม
+�
+#KEY:Q121_002_250_052.storylineTitle赶紧跑！2趕快跑！BRun!R急いで逃げて！b도망쳐야 해!�วิ่ง!
+
+KEY:Q121_002_250_052.title
+�
+KEY:Q121_002_250_052.hint连续点击逃跑2連續點擊逃跑BPress Fast to EscapeR連打で逃げるb연타하여 도망가세요.�Nแตะอย่างรวดเร็วเพื่อหลบหนี
+X
+KEY:Q121_002_250_052.text逃走2逃走BEscapeR	逃げるb도망가기�	หนี
+j
+KEY:6.title第四集 完2第四集 完BChapter 4  EndsR第4章　了b제4장 끝�บท 4 จบ
+�
+
+KEY:6.text刘熙正在凝视你2劉熙正在凝視你BLiu Xi's eyes bore into you.R0劉熙があなたをじっと見つめているb$당신을 응시하고 있는 유희�[ดวงตาของหลิว ซีจ้องมองมาที่ท่าน
+�
+"KEY:002_120_026_074.storylineTitle刘熙的凝视2劉熙的凝視BLiu Xi's GazeR劉熙の視線b응시하는 유희�+สายตาของหลิว ซี

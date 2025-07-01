@@ -1,0 +1,134 @@
+
+�
+KEY:001_010_126.storylineTitle顶峰回望2頂峰回望BReminiscenceR巓に立ちて、顧みるb정상에서의 회고�หวนรำลึก
+�
+$KEY:CL010_001_030_002.storylineTitle贵妃喜欢的钿花2貴妃喜歡的鈿花BOrnament of Her Grace's FavorR*貴妃がお気に入りの花かんざしb귀비를 사로잡은 떨잠�cปิ่นปักผมเป็นที่ปรารถนาของกุ้ยเฟย
+�
+KEY:CL010_001_030_002.title6贵妃很喜欢这个钿花，你要如何回答她？26貴妃很喜歡這個鈿花，你要如何回答他？BcLady of Predilection is enchanted by this Filigree Hairpin. How will you respond to her admiration?RK貴妃が花かんざしを気に入ったようだ、どう返事する？bH귀비마마께서 이 떨잠을 무척 마음에 들어 하시는데...��กุ้ยเฟยหลงใหลในปิ่นปักผมที่ละเอียดอ่อน ท่านจะตอบสนองต่อความชื่นชมของนางอย่างไร?
+�
+"KEY:CL010_001_030_002.choiceText+0'承认是自己的，以得贵妃欢心2'承認是自己的，以得貴妃歡心B"Claim it's yours to win her favor.R'自分の物とし、貴妃に媚びるb/내 것이라 해서 마마의 환심을 산다�Wอ้างว่าเป็นของตนเพื่อชนะใจนาง
+�
+"KEY:CL010_001_030_002.choiceText+1-告诉贵妃这是走在前面的人掉落的2*告訴貴妃這是前面的新人落下的B!Say it was left behind by others.R0前に歩く新入りの落とし物と答えるb4앞에 지나간 사람이 떨어뜨렸다고 한다�Kบอกว่าคนข้างหน้าทำหล่นไว้
+�
+"KEY:CL010_001_030_002.choiceText+2告诉贵妃这是刘熙的2告訴貴妃這是劉熙的BSay it belongs to Liu Xi.R劉熙の物と告げるb 유희의 것이라고 말한다�Cบอกว่ามันเป็นของหลิว ซี
+�
+$KEY:001_030_C010A_003.storylineTitle承认花钿是自己的2承認鈿花是自己的BClaim it's yours.R自分の物と認めるb자신의 것이라고 하기�0อ้างว่าเป็นของตน
+�
+(KEY:B01_001_030_C010C_009.storylineTitle告诉贵妃是刘熙的2告訴貴妃是劉熙的BSay it belongs to Liu Xi.R劉熙の物と告げるb유희의 것이라고 하기�Cบอกว่ามันเป็นของหลิว ซี
+�
+$KEY:001_030_C010B_010.storylineTitle前面的新人落下的2前面的新人落下的B'It was left behind by another new girl.R0前に歩く新入りの落とし物と答えるb#누군가 떨어뜨렸다고 하기�Hหญิงสาวข้างหน้าทำหล่นไว้
+�
+KEY:BE_10001.title裙下之刃2裙下之刃BVeiled BladeR華服に隠されし刃b감춰진 칼날�'มีดใต้กระโปรง
+�
+
+KEY:BE_10001.text�你原以为说出实情才是生存之道，可新人入宫，韦贵妃想要立威，自然需要有人成为牺牲品。她根本不在意实情。2�你原以為說出實情才是保命之道，然而新人入宮，韋貴妃為立威，自然要有人成為犧牲品。她根本不在乎真相。B�You believed honesty would keep you safe, but with new arrivals in the palace, Lady Wei of Predilection seeks to assert her dominance. Someone must be sacrificed, and she cares little for the truth.R�真実こそ、生き延びる術だと信じていた。だが、韋貴妃にとって、見せしめとなる「誰か」が必要だった。真実など、最初からどうでもよかったのだ。b�위귀비는 새로 입궁한 자들에게 위신을 세우기 위한 희생양이 필요했다. 그녀는 진실 따위엔 관심조차 없었다.��ท่านเชื่อว่าความซื่อสัตย์จะปกป้องคุณไว้ได้ แต่เมื่อมีผู้มาใหม่เข้ามาในวัง เว่ยกุ้ยเฟยพยายามจะแสดงอำนาจเหนือคนอื่น ใครสักคนต้องถูกสังเวย และนางไม่สนใจความจริงแม้แต่น้อย
+�
+$KEY:CL020_001_030_004.storylineTitle钿花可否赠贵妃？2鈿花可否贈與貴妃？BTo Gift or Not to GiftR'花かんざしを献上すべきか？b떨잠을 드려야 할까?�aมอบปิ่นปักผมนี้ให้กุ้ยเฟยหรือไม่?
+�
+KEY:CL020_001_030_004.title可否赠与本宫？2可否贈與本宮？BMind if I Take It?R!わたくしにくれんかの？b"본궁에게 줄 수 있겠느냐?�^มอบปิ่นปักผมนี้ให้ข้าได้หรือไม่?
+�
+"KEY:CL020_001_030_004.choiceText+0答应，向贵妃示好2答應並向貴妃示好BAgree—show goodwill.R$媚びを売るために同意するb.귀비마마께 잘 보이기 위해 드린다�Eยินยอมเพื่อเอาใจกุ้ยเฟย
+�
+"KEY:CL020_001_030_004.choiceText+1$委婉拒绝，这是别人的心意2$委婉拒絕，這是別人的心意B$Hesitate—it's a gift from someone.R6他人からの贈り物と告げやんわりと断るb5다른 사람 것이라고 하고 드리지 않는다��ปฏิเสธอย่างสุภาพ โดยบอกว่าเป็นของขวัญจากคนอื่น
+�
+"KEY:CL020_001_030_004.choiceText+2金色显黑，不适合贵妃2金色顯黑，不適合貴妃BGold dulls your complexion.R!貴妃に似合わないと断るbK떨잠이 귀비마마의 안색을 어두워 보이게 한다고 말한다�uบอกว่าทองจะทำให้ผิวพรรณของนางหมองคล้ำลง
+�
+$KEY:001_030_C020A_005.storylineTitle向贵妃示好2向貴妃示好BPlease Lady of Predilection.R媚びを売るb귀비께 잘 보이기�$เอาใจกุ้ยเฟย
+�
+$KEY:001_030_C020B_006.storylineTitle委婉拒绝2委婉拒絕BPolitely decline.R丁重に断るb완곡한 거절�0ปฏิเสธอย่างสุภาพ
+�
+(KEY:B06_001_030_C020C_008.storylineTitle金色显黑2金色顯黑BGold Dulls ComplexionR似合わないと断るb어두운 안색�]ทองจะทำให้ผิวพรรณของนางหมองคล้ำ
+=
+0KEY:B06_001_030_C020C_008.toastParameterText_0+0	韦贵妃
+:
+0KEY:B06_001_030_C020C_008.toastParameterText_1+0怒气
+�
+KEY:BE_10003.title显黑的贵妃2顯黑的貴妃B%The Dull-Looking Lady of PredilectionRくすみ肌の貴妃b$안색이 어두워 보이는 귀비�Eกุ้ยเฟยที่ดูผิวหมองคล้ำ
+�
+KEY:BE_10003.textc自那日后，阖宫都流传着你的铁血直言事迹，无人不感叹你的无畏和惨烈。2c自那日之後，闔宮皆在流傳你鐵血直言事跡，無人不感嘆你的無畏與慘烈。B�After that day, whispers of your fearless honesty spread through the palace. All marvel at your courage—and the tragic consequences.R�あの日のことは、またたく間に宮中を駆け巡った。誰もがあなたの無謀さと無惨な死に様に息を呑んだ。b�그날 이후, 당신의 거침없는 솔직함에 대한 이야기가 온 궁궐을 떠돌았다. 모두가 그 무모함과 처참한 결과에 안타까워했다.��หลังจากวันนั้น เสียงกระซิบเกี่ยวกับความซื่อสัตย์อันกล้าหาญของท่านก็แพร่กระจายไปทั่วทั้งวังหลวง ทุกคนต่างตะลึงในความกล้าหาญของท่าน...รวมถึงผลลัพธ์อันน่าเศร้า
++
+)KEY:B02_001_030_C020AB_007.storylineTitle
+�
+KEY:BE_10002.title威严之下2威嚴之下BUnder the Throne's GazeR威光のもとにb귀비의 위엄�Bภายใต้สายตาของบัลลังก์
+�
+KEY:BE_10002.text|新人入宫，韦贵妃想要立威，自然需要有人成为牺牲品。区别只是在
+于，这个牺牲品，是你。2s新人入宮，韋貴妃欲立威，自然要有人成為犧牲品。區別只在於，
+這個犧牲品，是你。B�As new members enter the palace, Lady Wei of Predilection aims to solidify her authority. Someone will pay the price.
+The only question is whether it will be you.R�新たな者が後宮に入れば、誰かがその「見せしめ」として裁かれる。そして今回選ばれたのは、あなただった。b�재인들이 입궁하자 위귀비는 자신의 위신을 세우기 위한 희생양이 필요했다.
+그 희생양이 바로 당신이었을 뿐.��เมื่อสมาชิกใหม่เข้ามาในวัง เว่ยกุ้ยเฟยตั้งใจจะแสดงอำนาจของนาง ใครสักคนจะต้องตกเป็นเหยื่อ
+คำถามเดียวคือ คนๆ นั้นจะเป็นท่านหรือไม่
+�
+KEY:001_006_095.storylineTitle!⻙贵妃重罚“赐红额前”2!韋貴妃重罰「賜紅額前」B6Lady of Predilection's harsh punishment "Red Forehead"R韋貴妃の「紅額刑」b#이마에 '낙인'을 찍는 형벌�rบทลงโทษแสนโหดร้ายของกุ้ยเฟย "หน้าผากแดง"
+�
+$KEY:CL030_001_060_011.storylineTitle熙儿怎会害你？2熙兒怎麼會害你？BI'd Never Harm YouR陥れるはずがないb 언니를 어찌 해하겠어요�dซีเอ๋อร์คิดจะทำร้ายท่านได้อย่างไร?
+�
+KEY:CL030_001_060_011.title?这是熙儿对你的一番心意，怎会是刻意害你呢？2B這是熙兒對你的一番心意，怎麼會是刻意害你呢？B/I'd never harm you? This was my heartfelt gift.R3きっちゃんが自分を陥れるはずがないb\이건 언니에 대한 제 마음이에요. 제가 어찌 언니를 해하려 하겠어요?��ซีเอ๋อร์คิดจะทำร้ายท่านได้อย่างไร? นี่คือของขวัญจากใจของนาง!
+�
+"KEY:CL030_001_060_011.choiceText+0是我多心了2是我多心了BI must have overthought it.R気にしすぎただけb내가 괜한 생각을 했어.�9ข้าคงจะคิดมากเกินไป
+�
+"KEY:CL030_001_060_011.choiceText+1!我有说过是刻意害我吗？2!我有說過是刻意害我嗎？BDid I say it was intentional?R陥れるとは言ってないb-날 해치려 했다고 한 적은 없는데?�Lข้าบอกว่าตั้งใจใช่หรือไม่?
+�
+$KEY:001_060_C030A_012.storylineTitle$你和刘熙和好，⼀起选房间2$你和劉熙和好，一起選房間B2You and Liu Xi reconcile and pick a room together.R-劉熙と和解し、一緒に部屋を選ぶb"유희와 화해 후 방 고르기�ท่านและหลิว ซีปรับความเข้าใจและเลือกห้องกัน
+�
+$KEY:001_060_C030B_013.storylineTitle你揭穿刘熙伪装2你揭穿劉熙偽裝B$You expose Liu Xi's true intentions.R劉熙の仮面を剥ぐb 유희의 거짓말 폭로하기�jท่านเปิดเผยเจตนาที่แท้จริงของหลิว ซี
+�
+$KEY:CL031_001_082_014.storylineTitle选择心仪寝房2選擇心儀的寢房BBoudoir ChoicesR部屋選びb마음에 드는 방 고르기�$เลือกห้องนอน
+�
+KEY:CL031_001_082_014.titleC众人对你和那间血手印的寝房都避之不及，你打算?2K眾人對你和那間血手印的寢房皆避之唯恐不及，你打算？BLEveryone avoids the room marked with a bloody handprint. What's your choice?RT誰も血の手形の部屋とあなたに近づこうとしないがどうする？bE모두가 당신과 핏자국이 남은 그 방을 기피하는데...��ทุกคนต่างหลีกเลี่ยงห้องที่มีรอยมือเปื้อนเลือด ท่านจะเลือกอะไร?
+�
+"KEY:CL031_001_082_014.choiceText+0!我倒是要住一住血手印房2我倒要住住血手印房B'I'll stay in the bloody handprint room.R'あえて血の手形の部屋を選ぶb$핏자국이 남은 방에 묵는다�oข้าจะอยู่ในห้องที่มีรอยมือเปื้อนเลือด
+�
+"KEY:CL031_001_082_014.choiceText+1再讨好一下其他人2再討好一 下其他人BTry to win over others.R皆に取り入ってみるb5다른 이들과 다시 잘 지내보려 노력한다�Eพยายามที่จะชนะใจผู้อื่น
+�
+(KEY:B09_001_082_C031A_015.storylineTitle住进血手印房被毒死2住進血手印房後被毒死BYou were murdered with poison.R血の手形の部屋で毒死b!핏자국이 남은 방의 독살�$ท่านถูกวางยา
+�
+$KEY:001_082_C031B_016.storylineTitle徐惠邀请你同住2徐惠邀你同住B%Xu Hui invites you to share her room.R徐恵からの誘いb함께 지내자는 서혜�aสวี ฮุยเชิญท่านมาอยู่ในห้องของนาง
+�
+$KEY:CL033_001_060_122.storylineTitle挑选房间2挑選房間BChoosing the RoomR部屋選びb방 고르기�-การเลือกห้องพัก
+�
+KEY:CL033_001_060_122.title$刘熙想与你同住，你决定？2$劉熙想與你同住，你決定？B1Liu Xi wants to share a room. What do you decide?R劉熙の誘いに乗るb.유희가 함께 방을 쓰자고 하는데...��หลิว ซีต้องการจะร่วมห้องกับท่าน ท่านจะตัดสินใจอย่างไร?
+�
+"KEY:CL033_001_060_122.choiceText+0和刘熙同住2與劉熙同住BShare a room with Liu Xi.R劉熙と一緒に暮らすb함께 방을 쓴다�(อยู่กับหลิว ซี
+�
+"KEY:CL033_001_060_122.choiceText+1拒绝刘熙2拒絕劉熙BRefuse Liu Xi.R断るb거절한다�%ปฏิเสธหลิว ซี
+�
+(KEY:B03_001_060_C033A_123.storylineTitle你被刘熙毒杀2你被劉熙毒殺BLiu Xi killed you with poison.R劉熙に毒殺されるb 유희에게 독살당한 당신�Fหลิว ซีสังหารท่านด้วยพิษ
+�
+$KEY:001_060_C033B_124.storylineTitle你拒绝，刘熙委屈离开2!你拒絕後，劉熙委屈離開B2You refused her, and Liu Xi left, feeling wronged.R劉熙、拗ねて去るb 거절당하고 떠나는 유희��ท่านปฏิเสธนาง และหลิว ซีก็จากไปด้วยความรู้สึกไม่เป็นธรรม
+�
+KEY:001_060_125.storylineTitle选房间时无人同住2選房間時無人同住BNo one wants to room with you.R同居人なしb!아무도 묵지 않으려는 방�Hตัดสินใจที่จะอยู่คนเดียว
+�
+KEY:BE_10004.title刘熙的真面目2劉熙的真面目BLiu Xi's True ColorsR劉熙の本性b유희의 본색�Iตัวตนที่แท้จริงของหลิว ซี
+�
+KEY:BE_10004.textu你死后，众人都劝刘熙搬出这间死过人的寝房，可刘熙却始终坚持住在这里，不愿离开。2{你死後，眾人皆勸劉熙搬離這間曾有人死過的寢房，可劉熙卻始終堅持住在這裡，不願離開。BcAfter your death, everyone urges Liu Xi to leave the room where you died, but she stubbornly stays.R�あなたの死後、皆が劉熙に「死人の出た部屋から移るように」と勧めたが、彼女は、頑としてそこを離れようとはしなかった。b�당신이 죽은 후, 모두가 유희에게 이 방에서 나가라고 권했지만, 유희는 끝내 떠나려 하지 않았다.��หลังจากที่ท่านตาย ทุกคนต่างขอร้องให้หลิว ซีออกจากห้องที่ท่านตาย แต่นางยังคงยืนกรานจะอยู่ต่อ
+�
+KEY:BE_10005.title鬼屋吃人2鬼屋吃人BThe Haunted RoomR人喰らう事故物件b귀신 들린 방�ห้องผีสิง
+�
+KEY:BE_10005.textc或许鬼屋中吃人的从来不是鬼，而是借鬼神之事，与你清扫旧日恩怨的人。2c或許鬼屋中吃人的從來不是鬼，而是借鬼神之名，與你清算往日恩怨的人。BoPerhaps the true monster in the haunted room isn't a ghost but someone using superstition to settle old scores.R�この部屋で人を喰らったのは、鬼ではなく、鬼の名を借りて過去を清算しようとした、人間の誰かだったのかもしれない。b�어쩌면 그 방에서 사람을 해친 건 귀신이 아니라, 귀신의 이름을 빌려 해묵은 원한을 갚고자 했던 사람일지도 모른다.��บางทีปีศาจที่แท้จริงในห้องผีสิงอาจไม่ใช่ผี แต่เป็นใครสักคนที่ใช้ความเชื่อโชคลางเพื่อชำระความแค้นในอดีต
+�
+KEY:001_020_001.storylineTitle进入宫中偶遇刘熙2進入宮中偶遇劉熙B1You enter the palace and cross paths with Liu Xi.R$宮中で劉熙とばったり会うb!궁에서 우연히 만난 유희�Lท่านเข้าวังและพบกับหลิว ซี
+�
+KEY:1.title前往【夜宴战袍】2前往【夜宴戰袍】B#Head to Dressing up for the BanquetR『華衣選びて、宴』へb"[연회 예복]으로 이동하기�Hไปแต่งตัวสำหรับงานเลี้ยง
+
+KEY:1.endTitle
+�
+
+KEY:1.textH恭喜你完成了新手村试炼，未来的路，期待你的展现。2B恭喜你完成新手試煉，未來的路，期待你的表現。BVCongratulations! You've completed the tutorial. The path ahead awaits your brilliance.Ri最初の試練を見事に突破されました！これからの活躍、楽しみにしています。bz초보자 시련을 완료하신 것을 축하드립니다. 앞으로 펼쳐질 여정에서의 활약을 기대할게요!��ยินดีด้วย! ท่านทำแบบทดลองเสร็จสิ้นเรียบร้อยแล้ว เส้นทางข้างหน้ารอท่านอยู่
+�
+$KEY:QL001_001_010_127.storylineTitle入宫2入宮BEnter PalaceR後宮に入るb입궁�0เข้าสู่พระราชวัง
+
+KEY:QL001_001_010_127.title
+�
+KEY:QL001_001_010_127.hint长按蓄力2長按蓄力BPress and HoldR長押しで力をためるb길게 누르기�0กดค้างเพื่อชาร์จ
+
+KEY:QL001_001_010_127.text推开宫门2推開宮門BPushR宮門を開けるb궁문 열기�เปิดประตู
+4
+$KEY:QL011_001_020_128.storylineTitle领取身份
+
+KEY:QL011_001_020_128.title
+0
+KEY:QL011_001_020_128.hint领取你的身份
+*
+KEY:QL011_001_020_128.text点击领取
+ 
+KEY:001_020_129.storylineTitle

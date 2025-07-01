@@ -1,0 +1,183 @@
+
+�
+KEY:001_142_035.storylineTitle夜宴的帷幕2夜宴的帷幕BThe Banquet CommencesR始まる宴b연회의 장�?งานเลี้ยงเริ่มต้นแล้ว
+�
+$KEY:CL050_001_150_036.storylineTitle初见未来夫君2初見未來夫君BMeeting Your Future HusbandR初めての逢瀬b!처음 만난 미래의 동반자�Nการพบกับสามีในอนาคตของท่าน
+�
+KEY:CL050_001_150_036.title6即将见到圣上，那一刻，你的心情是……26即將見到聖上，那一刻，你的心情是……B2You're about to meet the Emperor. How do you feel?RBまもなく陛下に拝謁する、あなたの気持ちは……b:폐하를 곧 뵐 생각을 하니, 당신의 마음은...��ท่านกำลังจะได้พบกับจักรพรรดิ ท่านรู้สึกอย่างไรบ้าง?
+q
+"KEY:CL050_001_150_036.choiceText+0紧张2緊張BNervousRドキドキb긴장된다�ประหม่า
+t
+"KEY:CL050_001_150_036.choiceText+1期盼2期盼BExcitedRワクワクb기대된다�ตื่นเต้น
+n
+"KEY:CL050_001_150_036.choiceText+2还好2還好BFineRまあまあb무덤덤하다�สบายดี
+�
+$KEY:001_150_C050A_037.storylineTitle你的表情紧张2你的表情緊張BYou look nervous.Rその顔、緊張に強ばるb당신의 긴장한 표정�'ท่านดูประหม่า
+�
+$KEY:001_150_C050B_038.storylineTitle你的表情期盼2你的表情期盼BYou look excited.R!その顔、期待にほころぶb당신의 기대에 찬 표정�*ท่านดูตื่นเต้น
+�
+$KEY:001_150_C050C_039.storylineTitle你的表情没有变化2你的表情沒有變化BYou stay calm.R$その顔、何ひとつ動かないb당신의 무덤덤한 표정�9ท่านสงบสติอารมณ์ไว้
+�
+KEY:001_160_040.storylineTitle夜宴上韦贵妃让你献艺2夜宴上韋貴妃讓你獻藝B=At the banquet, Lady Wei of Predilection asks you to perform.R*韋貴妃より芸の披露を命じらるb#재능을 보여달라는 위귀비�jในงานเลี้ยง เว่ยกุ้ยเฟยขอให้ท่านแสดง
+�
+$KEY:CL060_001_160_041.storylineTitle夜宴献艺2夜宴獻藝BBanquet PerformanceR宴にて芸を披露するb 연회에서 선보이는 재능�6การแสดงในงานเลี้ยง
+�
+KEY:CL060_001_160_041.title你选择献上何种才艺？2你選擇獻上何種才藝？BWhat talent will you share?Rどの芸を披露する？b+연회에서 당신이 보여줄 재능은?�Xท่านจะแบ่งปันความสามารถด้านใด?
+�
+"KEY:CL060_001_160_041.choiceText+0平平无奇的舞蹈2平平無奇的舞蹈BA simple dance.Rありふれた舞踏b평범한 춤을 선보인다�?การเต้นรำแบบเรียบง่าย
+�
+"KEY:CL060_001_160_041.choiceText+1惊艳四座的歌喉2驚艷四座的歌喉BA stunning song.R圧巻の歌声b'모두 놀랄만한 노래를 부른다�*เพลงที่น่าทึ่ง
+�
+"KEY:CL060_001_160_041.choiceText+2不堪入耳的琵琶2不堪入耳的琵琶BA terrible pipa performance.R耳を塞ぎたくなる琵琶b*듣기 거슬리는 연주를 선보인다�Hเป็นการแสดงพิปาที่แย่มาก
+�
+$KEY:001_160_C060B_042.storylineTitle你唱歌惊艳全场2你的歌聲驚豔全場B!Your singing captivates everyone.R!歌声、その場を圧倒したb$모두가 감탄한 당신의 노래�fการร้องเพลงของท่านทำให้ทุกคนหลงใหล
+�
+(KEY:B07_001_160_C060C_043.storylineTitle你弹琵琶失去圣心2你彈奏琵琶失了聖心B*Your pipa playing disappoints the Emperor.R$琵琶、陛下の心を遠ざけたb'폐하를 실망시킨 당신의 연주�{การบรรเลงพิปาของท่านทำให้จักรพรรดิผิดหวัง
+�
+$KEY:001_160_C060A_044.storylineTitle你的舞蹈表演平平2你的舞蹈表演平平無奇BYour dance is forgettable.R$舞踏、印象に残らなかったb당신의 평범한 춤�Zการเต้นรำของท่านช่างไม่น่าจดจำ
+�
+KEY:BE_20001.title弃子2棄子BThe Forsaken SisterR	捨て駒b버려진 신세�9น้องสาวผู้ถูกละทิ้ง
+�
+KEY:BE_20001.text�你被逐出宫之事，令你的两位哥哥胆寒，他们怕被你波及断了仕途，便造出你自尽的假象。没有想到，你没有死在诡谲深宫中，却死在了至亲之手。2�你被逐出宮之事，令你的兩位兄長膽戰心驚，他們怕受你牽連斷了仕途，便營造你自盡的假象。未曾料到，你未死在詭譎的深宮中，卻死於至親之手。B�Your exile from the palace terrifies your two brothers, who worry their careers will suffer because of you. To save themselves, they fake your suicide. You survived the palace's schemes, only to be betrayed by your own family.R�宮を追われたあなたの件に、兄二人は震え上がった。仕官の道を絶たれることを恐れ、あなたを殺して自害に見せかけた。深き後宮で死なず、血を分けた肉親に討たれるとは――。b�궁에서 쫓겨나자 두 오라버니는 당신이 자신들의 앞길을 막을까 두려워 당신을 죽이고 자결한 것으로 꾸몄다. 궁에서도 살아남은 당신은 결국 혈육의 손에 죽고 말았다.��การที่ท่านถูกเนรเทศออกจากวังทำให้พี่ชายทั้งสองของท่านหวาดกลัว เพราะพวกเขากังวลว่าอาชีพของพวกเขาจะต้องประสบปัญหาเพราะท่าน พวกเขาจึงแกล้งทำเป็นว่าท่านฆ่าตัวตายเพื่อเอาตัวรอด ท่านรอดชีวิตจากแผนการของวัง แต่กลับถูกครอบครัวของท่านเองหักหลัง
+�
+KEY:001_160_045.storylineTitle!姜才人身亡，刘熙诬陷你2!姜才人身亡，劉熙誣陷你B+Liu Xi blames you for Cairen Jiang's death.R$姜才人の死、劉熙の仕掛けb8강재인의 죽음을 당신 탓으로 돌리는 유희�yหลิว ซีโทษท่านเรื่องการตายของเจียงไฉเหริน
+�
+KEY:001_190_081.storylineTitle'回忆童年，听到徐惠被招侍寝2'回憶童年，聽到徐惠被召侍寢BZThinking back to childhood, you find out Xu Hui has been called to the Emperor's chambers.R幼き記憶、徐恵の夜伽bK어린 시절을 떠올리다, 시침을 들러 간 서혜의 일을 듣다��เมื่อคิดกลับไปในวัยเด็ก ท่านจะพบว่าสวี ฮุยถูกเรียกตัวไปยังห้องของจักรพรรดิ
+�
+$KEY:001_160_C070A_047.storylineTitle$我入宫前并不知道贵妃喜好2!我入宮前並不知貴妃喜好B=I knew nothing of Her Grace’s tastes before I entered here.R$貴妃の好みなど存じ上げずb!전혀 몰랐던 귀비의 취향�~ข้าไม่รู้ว่ากุ้ยเฟยชอบอะไรก่อนที่จะเข้าวัง
+�
+$KEY:001_160_C070C_048.storylineTitle!我并不知姜才人技艺出众2!我並不知姜才人才藝出眾B+I didn’t know Cairen Jiang was so gifted.R'姜才人の才芸など存じ上げずb$전혀 몰랐던 강재인의 재능��ข้าไม่รู้เลยว่าเจียงไฉเหรินจะมีความสามารถขนาดนี้
+�
+$KEY:001_160_C070B_049.storylineTitle皇上让你继续说2皇上讓你繼續說B%His Majesty asks you to keep talking.R陛下の御許しb 계속 이야기하라는 폐하�Nจักรพรรดิขอให้ท่านพูดต่อไป
+�
+KEY:001_170_052.storylineTitle牢内狱卒叫你吃饭2牢中獄卒叫你吃飯B"The prison guard calls you to eat.R獄中の飯b식사를 하라는 옥졸�]ทหารเรือนจำเรียกท่านให้กินอาหาร
+�
+$KEY:CL080_001_160_050.storylineTitle自证的机会2自證的機會BProving Your InnocenceR潔白を証明する機会b결백을 증명할 기회�Qพิสูจน์ความบริสุทธิ์ของท่าน
+�
+KEY:CL080_001_160_050.title6接下来，你要如何抓住机会，自证清白？26接下來，你要如何把握機會，自證清白？BHow will you clear your name?RE次に、如何にして機を捉え、潔白を証明するか……b7스스로의 결백을 증명하기 위해 폐하께...�ท่านจะล้างมลทินให้กับชื่อของท่านได้อย่างไร?
+�
+"KEY:CL080_001_160_050.choiceText+0-恳请陛下查探姜才人死前接触的人2-懇請陛下調查姜才人死前接觸之人BHImplore His Majesty to investigate who Cairen Jiang met before she died.R`陛下に願い出て、姜才人が死ぬ前に接触した者の調査を命じていただくbI강재인이 죽기 전 접촉한 사람에 대한 조사를 요청한다��ขอร้องจักรพรรดิให้สืบหาว่า เจียงไฉเหรินพบกับใครก่อนที่นางจะเสียชีวิต
+�
+"KEY:CL080_001_160_050.choiceText+1$恳请陛下查验尸体查清死因2懇請陛下驗屍查明死因BCImplore His Majesty to examine her body to find the cause of death.RQ陛下に願い出て、遺体を調べ、死因を明らかにしていただくbB강재인의 사인 확인을 위해 시체 검시를 요청한다��ขอร้องให้จักรพรรดิตรวจสอบร่างกายของนางเพื่อหาสาเหตุการตาย
+�
+$KEY:001_160_C080A_051.storylineTitle未查出接触的人有问题2$未查出與她接觸之人有問題B)No one Cairen Jiang met seems suspicious.R接触者に問題なしb!문제가 없는 접촉자 명단��ดูเหมือนว่าจะไม่มีใครที่น่าสงสัยพบเจียงไฉเหริน
+�
+$KEY:001_160_C080B_053.storylineTitle!你摆脱指控，韦贵妃被罚2!你擺脫指控，韋貴妃被罰BKYou're cleared of the accusation, and Lady Wei of Predilection is punished.R'疑ひ晴れ、韋貴妃は罰せらるb/혐의를 벗은 당신, 처벌받은 위귀비��ท่านพ้นข้อกล่าวหาแล้วและเว่ยกุ้ยเฟยถูกลงโทษ
+�
+KEY:001_160_054.storylineTitle?原来⼀条鲜活的⼈命竟可以这般轻描淡写地揭过2E原來一條活生生的人命，竟可以這般輕描淡寫地揭過B/A life so full of promise, dismissed so easily.R3生きた命がこれほど軽んじられるとはbC한 사람의 소중한 목숨이, 이토록 쉽게 사라지다니��ชีวิตที่เต็มไปด้วยความหวังแต่กลับถูกปฏิเสธอย่างง่ายดาย
+�
+KEY:001_160_055.storylineTitle!我原本⼗分期待⻅到陛下2!我原本十分期待見到陛下B#I was so eager to meet His Majesty.R?ずっと陛下にお目にかかることを期待していたb0폐하를 뵐 것이라고 기대했었는데...�`ข้าตั้งตาที่จะเข้าพบจักรพรรดิมาก
+�
+KEY:001_160_056.storylineTitle=⼀条鲜活的⼈命，竟可以这 般轻描淡写地揭过2?一條活生生的人命，竟可以這般輕描淡寫地揭過B/A life so full of promise, dismissed so easily.R3生きた命がこれほど軽んじられるとはbC한 사람의 소중한 목숨이, 이토록 쉽게 사라지다니��ชีวิตที่เต็มไปด้วยความหวังแต่กลับถูกปฏิเสธอย่างง่ายดาย
+�
+$KEY:CL090_001_230_082.storylineTitle徐惠承宠2徐惠承寵BXu Hui's RiseR徐恵、夜伽に召されるb총애를 받는 서혜�Cการเลื่อนขั้นของสวี ฮุย
+�
+KEY:CL090_001_230_082.title3听到陛下招寝徐惠，此时你的心情是？26聽到陛下召徐惠侍寢，此刻你的心情是？BNYou find out His Majesty has summoned Xu Hui to his chambers. How do you feel?R-夜伽の話を聞いて、あなたは……bA서혜가 폐하께 불려간 걸 알고 난 당신의 심정은?��ท่านพบว่าจักรพรรดิได้เรียกสวี ฮุยมาที่ห้องของพระองค์ ท่านรู้สึกอย่างไรบ้าง?
+y
+"KEY:CL090_001_230_082.choiceText+0失落2失落BDisappointedR失望したb실망스럽다�ผิดหวัง
+l
+"KEY:CL090_001_230_082.choiceText+1嫉妒2嫉妒BJealousR嫉妬したb질투 난다�อิจฉา
+t
+"KEY:CL090_001_230_082.choiceText+2无感2無感B
+UnbotheredR何も思わないb덤덤하다�เฉยชา
+�
+"KEY:CL090_001_230_082.choiceText+3祝福2祝福BHappy for HerR微笑んで見守ったb축복해 준다�ดีใจกับนาง
+�
+$KEY:001_230_C090A_083.storylineTitle你露出失落的表情2你露出失落的表情BYou look disappointed.R-あなたは失望した表情を浮かべたb당신의 실망한 표정�'ท่านดูผิดหวัง
+�
+$KEY:001_230_C090B_084.storylineTitle你露出嫉妒的表情2你露出嫉妒的表情BYou look jealous.R-あなたは嫉妬した表情を浮かべたb당신의 질투하는 표정�!ท่านดูอิจฉา
+�
+$KEY:001_230_C090C_085.storylineTitle你露出无感的表情2你露出無感的表情BYou look unbothered.R-あなたは無関心な表情を浮かべたb당신의 덤덤한 표정�!ท่านดูเฉยชา
+�
+$KEY:001_230_C090D_086.storylineTitle你露出祝福的表情2你露出祝福的表情BYou look happy for her.R$あなたは微笑んで見守ったb당신의 축복하는 표정�6ท่านดูมีดีใจกับนาง
+�
+KEY:001_250_087.storylineTitle杨淑妃为你答疑解惑2楊淑妃為你答疑解惑BLady Yang of Kindness's AdviceR楊淑妃の教えb!의문을 해결해 준 양숙비�9คำแนะนำของหยางซูเฟย
+�
+$KEY:CL100_001_250_088.storylineTitle姨母的情报2姨母的情報BAunt's InsightsRおばさまの情報b이모의 정보�3ความคิดเห็นของป้า
+�
+KEY:CL100_001_250_088.title0关于宫中情况，你有什么想知道的？20關於宮中情況，你有什麼想知道的？B*What do you want to know about the palace?R'宮中のこと、何を知りたい？bM궁 안의 상황에 대해 궁금한 게 있냐고 묻는 양숙비에게...�pท่านต้องการทราบอะไรเกี่ยวกับพระราชวัง?
+�
+"KEY:CL100_001_250_088.choiceText+0-在宫中，什么样的女子最受欢迎？2-在宮中，什麼樣的女子最受歡迎？BWhat kind of women thrive here?R-宮中で、どんな女性が一番人気？b4궁에서 환영받는 여인상에 대해 묻는다�dผู้หญิงแบบไหนถึงจะรุ่งเรืองที่นี่?
+�
+"KEY:CL100_001_250_088.choiceText+1我对几位皇子感兴趣2我對幾位皇子感興趣BTell me about the princes.R$皇子殿下たちに興味があるb4몇몇 황자들에게 관심이 간다고 말한다�]เล่าเรื่ององค์ชายให้ข้าฟังหน่อย
+�
+"KEY:CL100_001_250_088.choiceText+2'有什么独家宫廷生存秘籍吗？2'有什麼獨門宮廷生存訣竅嗎？B)Any secret tips for surviving the palace?R'宮廷で生き残る秘訣はある？b.궁에서의 생존 비법에 대해 묻는다�vมีเคล็ดลับไว้ใช้เอาชีวิตรอดในวังหรือไม่?
+�
+"KEY:CL100_001_250_088.choiceText+3我都知道了2我都知道了BI've got it all figured out.Rもう全部知っているb"이미 다 알고 있다고 한다�?ข้าคิดทุกอย่างออกแล้ว
+�
+$KEY:001_250_C100A_089.storylineTitle3杨淑妃介绍⻓孙皇后、阴贤妃、韦贵妃23楊淑妃介紹長孫皇后、陰賢妃、韋貴妃BkLady Yang of Kindness tells you about Empress Zhangsun, Lady Yin of Elegance, and Lady Wei of Predilection.R<楊淑妃、長孫皇后・陰賢妃・韋貴妃を紹介すbG장손황후, 음현비, 위귀비에 대해 이야기해 준 양숙비��หยางซูเฟยบอกท่านเกี่ยวกับ จ่างซุนฮองเฮา, หยินเสียนเฟย และเว่ยกุ้ยเฟย
+�
+$KEY:001_250_C100B_090.storylineTitle杨淑妃介绍皇子2楊淑妃介紹皇子B7Lady Yang of Kindness shares details about the princes.R$楊淑妃、皇子たちを紹介すb+황자에 대해 이야기해 준 양숙비�~หยางซูเฟยแบ่งปันรายละเอียดเกี่ยวกับองค์ชาย
+�
+$KEY:001_250_C100C_091.storylineTitle杨淑妃告诉你三颗心2楊淑妃告訴你三顆心B;Lady Yang of Kindness reveals the "three qualities" secret.R$楊淑妃、三つの心を告げるb.세 가지 마음가짐을 알려준 양숙비�`หยางซูเฟยเปิดเผยความลับ "สามหัวใจ"
+�
+KEY:001_250_092.storylineTitle!杨淑妃给了你女官的身份2!楊淑妃給了你女官的身分B2Lady Yang of Kindness makes you a palace official.R'楊淑妃、女官の身分を授けるb+여관의 신분을 부여해 준 양숙비�~หยางซูเฟยทำให้คุณเป็นนางข้าหลวงของราชสำนัก
+�
+KEY:4.title前往【第四集】2前往【第四集】BHead to Chapter 4R『第4章』へb[제4장]으로 이동하기�ไปยังบท 4
+�
+
+KEY:4.text?花朝夜宴，芳魂哀鸣，是否年年都有此般景象？2?花朝夜宴，芳魂哀鳴，是否年年皆有此般景象？BjAt the Banquet of Goddess of Flower's Birthday, with sorrowful wails echoing, will this happen every year?RN花朝の夜宴、芳魂の哀鳴――毎年繰り返されるだろうか？b`꽃의 영혼이 슬피 우는 벚꽃 연회, 해마다 이런 광경이 반복되는 것일까?��ณ งานเลี้ยงบุปผายามราตรี เสียงคร่ำครวญอันโศกเศร้าดังก้องอยู่ เหตุการณ์แบบนี้จะเกิดขึ้นทุกปีหรือไม่?
+�
+$KEY:CL071_001_170_031.storylineTitle饥饿的抉择2飢餓的抉擇BOn An Empty StomachR飢えた選択b굶주림 속의 선택�0ในขณะที่ท้องว่าง
+�
+KEY:CL071_001_170_031.title$此时你饿极了，你决定？   2$此時你餓極了，你決定？   B You're starving. What do you do?R?この時、極度の飢えに襲われたあなたは……   b.배고픔에 시달리는 당신의 선택은?�Mท่านหิวมาก ท่านจะทำอย่างไร?
+�
+"KEY:CL071_001_170_031.choiceText+0把炊饼吃了2把炊餅吃了BEat the flatbread.R餅を食べるb전병을 먹는다�0ทานขนมปังแผ่นแบน
+�
+"KEY:CL071_001_170_031.choiceText+1不吃2不吃BSkip it.R飢餓に耐え続けるb먹지 않는다�อดอาหาร
+�
+(KEY:B06_001_170_C071A_096.storylineTitle吃了炊饼痛苦而死2吃了炊餅，痛苦而死B&You eat the flatbread and die in pain.R餅を食べて苦しみ死すb전병으로 인한 죽음�fท่านกินขนมปังแผ่นแล้วตายอย่างทรมาน
+�
+KEY:BE_20002.title贵妃的鹤顶红饼2貴妃的鶴頂紅餅B)Lady of Predilection's Poisoned FlatbreadR貴妃の鶴頂紅の餅b귀비의 비소 전병�Bขนมปังแบนพิษของกุ้ยเฟย
+�
+
+KEY:BE_20002.text�你死的时候，只觉惊叹，难怪那饼子口感那么差，原来是加了鹤顶红……没有人在意你的死，不过是死了一个罪有应得的才人。2�你臨死之際，只覺驚嘆，難怪那炊餅口感如此差，原來加了鶴頂紅……沒有人在意你的死，不過是死了一個罪有應得的才人。B�As you die, it hits you—the flatbread tasted awful because it was laced with poison... No one cares. Just another disgraced Cairen gone.R�死の間際、ただ驚嘆す――あんな味なわけだ、鶴頂紅が仕込まれていたとは。誰も君の死を気にかけず、罪有る才人の死として片付けられたのだ。b�전병이 맛이 없던 이유는 독약인 비소가 들어갔기 때문이라는 것을 죽음의 순간에야 깨달았다. 그러나 누구도 당신의 죽음을 애도하지 않았다.��ขณะที่ท่านตาย ท่านก็นึกอะไรขึ้นได้- ขนมปังแผ่นแบนมีรสชาติแย่มากเพราะใส่ยาพิษเข้าไป...ไม่มีใครสนใจหรอก แค่ไฉเหรินผู้เสื่อมเสียจากไปอีกคน
+�
+KEY:001_170_097.storylineTitle忍一忍不吃2忍一忍不吃B&You push through hunger and don't eat.R飢餓に耐え続けるb먹지 않고 버티기�Wท่านฝืนทนความหิวและไม่กินอะไร
+�
+$KEY:CL072_001_170_098.storylineTitle诏狱的晚餐2詔獄的晚餐BImperial Prison DinnerR天牢の夕餉b조옥에서의 저녁 식사�9อาหารเย็นของคุกหลวง
+�
+KEY:CL072_001_170_098.title*又是新一日的放饭时，你决定？2-又是新一日的放飯之時，你決定？B2It's mealtime in the prison again. What do you do?R6また新たな一日の食事時、あなたは……b:또다시 식사 시간이 되었다. 당신의 선택은?�kถึงเวลาอาหารในคุกอีกแล้ว ทำอย่างไรดี?
+�
+"KEY:CL072_001_170_098.choiceText+0把稀饭喝了2把稀飯喝了BHave the gruel.Rお粥を食べるb죽을 먹는다�กินข้าวต้ม
+�
+"KEY:CL072_001_170_098.choiceText+1	就不吃2	就不吃BSkip it.R飢餓に耐え続けるb먹지 않는다�อดอาหาร
+�
+(KEY:B04_001_170_C072A_099.storylineTitle喝了稀饭痛苦而死2喝了稀飯，痛苦而死B$You drink the gruel and die in pain.R!お粥を食べて苦しみ死すb죽과 함께 맞이한 죽음�]ท่านกินข้าวต้มแล้วตายอย่างทรมาน
+�
+KEY:BE_20003.title贵妃的鹤顶红粥2貴妃的鶴頂紅粥B%Lady of Predilection's Poisoned GruelR貴妃の鶴頂紅のお粥b귀비의 비소 죽�<ข้าวต้มพิษของกุ้ยเฟย
+�	
+KEY:BE_20003.text�你死的时候，只觉惊叹，难怪那粥的口感那么差，原来是加了鹤顶红……没有人在意你的死，不过是死了一个罪有应得的才人。2�你臨死之際，只覺驚嘆，難怪那粥口感如此差，原來加了鶴頂紅……沒有人在意你的死，不過是死了一個罪有應得的才人。B�As you die, it hits you—the gruel tasted awful because it was laced with poison... No one cares. Just another disgraced Cairen gone.R�死の間際、ただ驚嘆す――あんな味なわけだ、鶴頂紅が仕込まれていたとは。誰も君の死を気にかけず、罪有る才人の死として片付けられたのだ。b�죽이 맛이 없던 이유는 독약인 비소가 들어갔기 때문이라는 것을 죽음의 순간에야 깨달았다. 그러나 누구도 당신의 죽음을 애도하지 않았다.��ขณะที่ท่านตาย ท่านก็นึกอะไรขึ้นได้- ข้าวต้มมีรสชาติแย่มากเพราะใส่ยาพิษเข้าไป...ไม่มีใครสนใจหรอก แค่ไฉเหรินผู้เสื่อมเสียจากไปอีกคน
+�
+(KEY:B08_001_170_C072B_100.storylineTitle饿死2餓死BYou starve to death.R飢え死にb아사�0ท่านอดอาหารจนตาย
+�
+KEY:BE_20004.title滴毒未沾2滴毒未沾BNo Poison TouchedR毒に触れずb독을 입에 대지 않는다�*ไม่ได้โดนวางยา
+�
+KEY:BE_20004.texti谁说轻断食不会猝死的？没有人在意你的死，不过是死了一个罪有应得的才人。2i誰說輕斷食不會猝死的？沒有人在意你的死，不過是死了一個罪有應得的才人。BNWho said fasting can't kill? No one cares. Just another disgraced Cairen gone.R�「ゆる断食で人は死なぬ」とは、誰の戯言か。誰も君の死を気にかけず、罪有る才人の死として片付けられたのだ。bo당신은 단식 끝에 굶어죽게 되었다. 그러나 누구도 당신의 죽음을 애도하지 않았다.��ใครบอกว่าการอดอาหารไม่สามารถฆ่าคนได้ ไม่มีใครสนใจหรอก แค่ก็ไฉเหรินผู้เสื่อมเสียชื่อเสียงอีกคนจากไป
+�
+$KEY:CL070_001_160_046.storylineTitle刘熙的诬陷2劉熙的誣陷BLiu Xi's AccusationR劉熙の仕掛けb유희의 모함�7คำกล่าวหาของหลิว ซี
+�
+KEY:CL070_001_160_046.title$你要如何反驳刘熙的诬陷？2$你要如何反駁劉熙的誣陷？B!How do you counter Liu Xi's lies?R-劉熙の仕掛けに、どう反論する？b+유희의 모함을 어떻게 반박할까?�hท่านจะโต้ตอบคำโกหกของหลิว ซีอย่างไร?
+�
+"KEY:CL070_001_160_046.choiceText+0$我入宫前并不知道贵妃喜好2!我入宮前並不知貴妃喜好B=I knew nothing of Her Grace’s tastes before I entered here.R$貴妃の好みなど存じ上げずb8입궁 전에 귀비의 취향을 몰랐다고 말한다�~ข้าไม่รู้ว่ากุ้ยเฟยชอบอะไรก่อนที่จะเข้าวัง
+�
+"KEY:CL070_001_160_046.choiceText+1$贵妃怎么可能责罚姜才人？2$貴妃怎麼可能責罰姜才人？B(Why would Her Grace punish Cairen Jiang?R-貴妃が姜才人を罰するはずがないbE귀비가 강재인을 섣불리 벌했을 리가 없다고 말한다�dเหตุใดกุ้ยเฟยถึงลงโทษเจียงไฉเหริน?
+�
+"KEY:CL070_001_160_046.choiceText+2!我并不知姜才人技艺出众2!我並不知姜才人才藝出眾B+I didn’t know Cairen Jiang was so gifted.R'姜才人の才芸など存じ上げずb4강재인의 재능에 대해 몰랐다고 말한다��ข้าไม่รู้เลยว่าเจียงไฉเหรินจะมีความสามารถขนาดนี้
+�
+#KEY:Q042_001_142_124.storylineTitle保持平衡2保持平衡BKeep BalanceR平衡を保つb균형잡기�รักษาสมดุล
+
+KEY:Q042_001_142_124.title
+�
+KEY:Q042_001_142_124.hint努力稳住身形2努力穩住身形BStay PoisedR力を込めて体勢を保つb균형을 잡으세요�'อยู่ในความสงบ
+k
+KEY:Q042_001_142_124.text连续点击2連續點擊B
+Press FastR押すb연타�แตะซ้ำๆ
+&
+$KEY:001_142_Q042B_126.storylineTitle
++
+)KEY:BE09_001_142_Q042A_125.storylineTitle
+d
+KEY:NE_20005.title	啧啧啧2	嘖嘖嘖BWell, Well, WellR	まさかb쯧쯧�เอาละๆ
+�
+KEY:NE_20005.text0没想到，魏王的怀抱竟是退宫函书。20沒想到，魏王的懷抱竟是退宮書函。B>Who knew Royal Duke of Wei would come with a dismissal notice?REまさか、魏王の懐にあったのは「退宮書」だった。bJ위왕의 품속에 출궁 통보서가 있을 줄은 생각지 못했다.��ใครจะรู้ว่าเว่ยอ๋องจะมาพร้อมกับหนังสือแจ้งการไล่ออก?
